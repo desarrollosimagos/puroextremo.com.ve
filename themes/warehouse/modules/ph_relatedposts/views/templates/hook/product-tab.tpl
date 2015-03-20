@@ -1,0 +1,1 @@
+<li><a href="#idTab669" data-toggle="tab" id="idTab669tab">{l s='Related Posts' mod='ph_relatedposts'}</a></li>

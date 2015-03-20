@@ -1,0 +1,34 @@
+h1{margin-bottom:10px;}
+
+.resumecat {padding-bottom:5px;}
+
+.content_scene_cat {display:block;margin:10px 0}
+.content_scene_cat  .align_center img{max-width:100%}
+
+.cat_desc {
+	font-size:12px;
+	line-height:18px;
+}
+.cat_desc p {padding:0 10px 5px 10px}
+.cat_desc .lnk_more {
+   padding:0 10px;
+   color:#0088CC;
+	background:url(../img/arrow_right_1.png) no-repeat 100% 4px transparent;
+}
+
+
+/* ************************************************************************************************
+      SUB CATEGORIES
+************************************************************************************************ */
+#subcategories {padding:15px 0 20px;overflow:hidden;border-bottom:1px dotted #c8c8c8;margin-bottom:20px;}
+#subcategories h3 {
+	font:400 14px/1.35 "Open Sans",Helvetica,arial;text-transform:uppercase;color:#191919;padding:0 0 10px;
+}
+#subcategories ul{overflow:hidden;padding:10px 0 0;width:104%}
+
+#subcategories ul li{width:100px;display:inline-block;#display:inline;margin:0 30px 10px 0;vertical-align:top;}
+#subcategories ul li a.img{text-align:center;display:block;margin-bottom:10px;}
+#subcategories ul li a.img img{max-width:100%}
+#subcategories ul li a{color:#646464}
+#subcategories ul li a.cat_name:hover{text-decoration:underline}
+

@@ -1,0 +1,37 @@
+#testimonials { padding-top: 20px;}
+#block_testimonials #testimonials {padding-top: 10px;}
+#testimonials .testimonial {padding-bottom: 20px; margin-bottom: 20px; border-bottom: 1px solid #efefef;}
+#testimonials .testimonial ul {padding-top: 15px;}
+#testimonials .testimonial ul li {color:#999; line-height: 18px;}
+#testimonials .testimonial-view {margin-right:10px}
+#testimonials .testimonial-view,
+#testimonials .testimonial-add {float:left}
+#testimonials .testimonial-item {padding-bottom:15px; margin-bottom: 15px; border-bottom: 1px solid #efefef}
+#testimonials .testimonial-title { font-weight: bold; line-height: 20px; padding-bottom: 10px;}
+#testimonials a {color:#e47600}
+#testimonials .testimonial-body {color:#555; font-size: 12px; line-height: 20px; padding-bottom: 10px;}
+#testimonials .testimonial-author {color:#e47600; font-style: italic; text-align: left; display: inline;}
+#testimonials .testimonial-date { text-align: right; font-style: italic; color:#aaa; font-size: 11px; font-family: Georgia; float: right;}
+
+.add-testimonials-title {text-transform:none; font-size:14px; line-height: 30px;}
+#block_testimonials_submit ol{ list-style:none; padding-top: 10px;}
+#block_testimonials_submit ol li {padding-bottom: 10px; clear:both}
+#block_testimonials_submit ol li.testim-summary label, 
+#block_testimonials_submit ol li.testim-name label,
+#block_testimonials_submit ol li.testim-body label {width:100px; display: inline-block; float: left;}
+#block_testimonials_submit ol li.testim-summary input, 
+#block_testimonials_submit ol li.testim-name input {border:1px solid #ccc; height: 20px;line-height: 20px; margin: 0 0 10px 0; float: left; padding: 0 5px;}
+#block_testimonials_submit ol li textarea {border:1px solid #ccc}
+#testimonial_main_message {width:300px; min-width:300px}
+.testimonialsubmit {margin-left:100px}
+.testimonial_img {margin-left:100px;}
+.testim-img label {line-height: 30px;}
+.add-testimonials-confirmation {background:#c1f7c2; border:1px solid #60b762; line-height: 30px; border-radius:4px; padding: 10px; display: block;}
+a.zoom {display: block; width: 70px; float: left;}
+.testimonialbody {line-height: 20px; color: #666; font-style:italic; font-family:Georgia}
+.testimonialhead {display: block; line-height: 24px; padding-bottom: 10px;}
+
+#paginationTop {
+	padding: 10px 0;
+	clear: both;
+	}

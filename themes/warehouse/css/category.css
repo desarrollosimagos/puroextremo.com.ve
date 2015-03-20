@@ -1,0 +1,81 @@
+/* ************************************************************************************************
+								Categories Page Styles
+************************************************************************************************ */
+.content_scene_cat {
+  color: #d7d7d7;
+  line-height: 19px;
+  margin: 0 0 20px 0; }
+  .content_scene_cat .content_scene_cat_bg {
+    padding: 0px; }
+    .content_scene_cat .content_scene_cat_bg .cat_desc {
+      z-index: 2;
+      position: absolute;
+      top: 0;
+      padding: 40px; }
+      @media (max-width: 999px) {
+        .content_scene_cat .content_scene_cat_bg .cat_desc {
+          padding: 20px; } }
+      @media (max-width: 767px) {
+        .content_scene_cat .content_scene_cat_bg .cat_desc {
+          display: none; } }
+    .content_scene_cat .content_scene_cat_bg p {
+      margin-bottom: 0; }
+    .content_scene_cat .content_scene_cat_bg a {
+      color: white; }
+      .content_scene_cat .content_scene_cat_bg a:hover {
+        text-decoration: underline; }
+    .content_scene_cat .content_scene_cat_bg .content_scene {
+      color: #777777; }
+      .content_scene_cat .content_scene_cat_bg .content_scene a {
+        color: #777777; }
+        .content_scene_cat .content_scene_cat_bg .content_scene a:hover {
+          color: #515151; }
+
+.cat_desc_container {
+  border: 1px solid #dddddd;
+  padding: 15px;
+  margin-bottom: 20px; }
+  @media (max-width: 999px) {
+    .cat_desc_container {
+      padding: 10px; } }
+
+/* ************************************************************************************************
+									Sub Categories Styles
+************************************************************************************************ */
+#subcategories p.subcategory-heading {
+  font: 12px/14px "Open Sans", sans-serif;
+  color: #555454;
+  border-bottom: 1px solid #dddddd;
+  text-transform: uppercase;
+  padding: 6px 5px 10px 0px;
+  margin-bottom: 20px;
+  margin-top: 0px; }
+#subcategories ul {
+  margin: 0 0 0 -20px; }
+  #subcategories ul li {
+    float: left;
+    width: 72px;
+    margin: 0 0 20px 20px;
+    text-align: center; }
+    @media (min-width: 768px) and (max-width: 999px) {
+      #subcategories ul li {
+        width: 91px; } }
+    @media (min-width: 1000px) and (max-width: 1319px) {
+      #subcategories ul li {
+        width: 106px; } }
+    @media (min-width: 1320px) {
+      #subcategories ul li {
+        width: 124px; } }
+    #subcategories ul li h5 {
+      overflow: hidden;
+      height: 20px;
+      line-height: 20px;
+      margin-bottom: 0px; }
+    #subcategories ul li .subcategory-image a {
+      display: block;
+      border: 1px solid #dddddd; }
+      #subcategories ul li .subcategory-image a img {
+        max-width: 100%;
+        vertical-align: top; }
+    #subcategories ul li .cat_desc {
+      display: none; }

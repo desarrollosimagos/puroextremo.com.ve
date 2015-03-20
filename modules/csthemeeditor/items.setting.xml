@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items_setting>
+<general>	
+	<item>
+		<text>Body</text>
+		<style_css>background</style_css>
+		<name>body</name>
+		<frontend>false</frontend>
+		<class>body</class>
+	</item>
+	<item>
+		<text>Page</text>
+		<style_css>background</style_css>
+		<name>page</name>
+		<frontend>true</frontend>
+		<class>#page</class>
+	</item>
+	<item>
+		<text>Text page</text>
+		<style_css>color_text,font</style_css>
+		<name>text_page</name>
+		<frontend>true</frontend>
+		<class>.g_color_text,body,#columns,#page #columns p,a,#page #columns li,#page #columns li a,#page #columns h5,#page #columns label,.copy_right a,.copy_right,.cs_follow_online p,.block_popular_word_search a,table.std tfoot td,table.std th, table.table_block th,form.std label, form.std p span,#authentication #login_form a</class>
+	</item>
+	<item>
+		<text>Link page normal</text>
+		<style_css>color_text</style_css>
+		<name>link_page_normal</name>
+		<frontend>true</frontend>
+		<class>#page #columns a,#page #columns .block a,#page #columns .block li a,#page #columns .myaccount_lnk_list li a,.ambiance .your_cart,#authentication #login_form a</class>
+	</item>
+	<item>
+		<text>Link page hover</text>
+		<style_css>color_text</style_css>
+		<name>link_page_hover</name>
+		<frontend>fale</frontend>
+		<class>#page #columns a:hover,#page #columns .block a:hover,#page #columns .block li a:hover,#page #columns .myaccount_lnk_list li a:hover,.ambiance .your_cart:hover,#authentication #login_form a:hover,a:hover</class>
+	</item>
+</general>
+<header>
+	<item>
+		<text>Header</text>
+		<style_css>background</style_css>
+		<name>header</name>
+		<frontend>true</frontend>
+		<class>.mode_header_content</class>
+	</item>	
+	<item>
+		<text>Text header</text>
+		<style_css>color_text,font</style_css>
+		<name>text_header_other</name>
+		<frontend>false</frontend>
+		<class>#header,.free_shipping,#header .cs_top_links li a,#header #shopping_cart a,#header #shopping_cart a span,#search_block_top #search_query_top,#header a</class>
+	</item>
+	<item>
+		<text>Text header link</text>
+		<style_css>color_text</style_css>
+		<name>text_header</name>
+		<frontend>false</frontend>
+		<class>.h_color_1,#header_links li a,#header_user,#header_user li a</class>
+	</item>			
+	<item>
+		<text>Text header hover</text>
+		<style_css>color_text</style_css>
+		<name>text_header_hover</name>
+		<frontend>false</frontend>
+		<class>#shopping_cart a:hover, #shopping_cart a:hover span,#header_user li a:hover,#header_links li a:hover,#header_links li a.active,#header .cs_top_links li a:hover,#header #shopping_cart a:hover</class>
+	</item>
+	<item>
+		<text>Back ground search</text>
+		<style_css>background,border_color</style_css>
+		<name>bkg_header_search</name>
+		<frontend>false</frontend>
+		<class>form#searchbox</class>
+	</item>
+	<item>
+		<style_css>color_text</style_css>
+		<name>color_header_search</name>
+		<frontend>false</frontend>
+		<class>#search_block_top #search_query_top</class>
+	</item>
+</header>
+<footer>
+	<item>
+		<text>Footer</text>
+		<style_css>background</style_css>
+		<name>footer</name>
+		<frontend>true</frontend>
+		<class>.mode_footer_main</class>
+	</item>
+	<item>
+		<text>Text title footer</text>
+		<style_css>color_text,font,border_color</style_css>
+		<name>text_title_footer</name>
+		<frontend>false</frontend>
+		<class>#footer .title_block, #footer .title_block a</class>
+	</item>
+	<item>
+		<text>Text footer</text>
+		<style_css>color_text,font</style_css>
+		<name>text_footer</name>
+		<frontend>false</frontend>
+		<class>#footer,#footer_bottom,.bottom_nav li a,p.copy_right,p.copy_right a,#footer .block li a,#footer li a,#footer a,#footer p,#footer p span</class>
+	</item>
+	<item>
+		<text>Text footer 2</text>
+		<style_css>color_text</style_css>
+		<name>text_footer_2</name>
+		<frontend>false</frontend>
+		<class>.bottom_nav li a,#footer_bottom,p.copy_right,p.copy_right a</class>
+	</item>
+	<item>
+		<text>Text footer hover</text>
+		<style_css>color_text</style_css>
+		<name>text_footer_hover</name>
+		<frontend>false</frontend>
+		<class>.bottom_nav li a:hover,#footer li a:hover,#footer .block li a:hover,p.copy_right a:hover</class>
+	</item>
+</footer>
+<menu>
+	<item>
+		<text>Menu parrent normal</text>
+		<style_css>background</style_css>
+		<name>menu_parrent_normal</name>
+		<frontend>true</frontend>
+		<class>#menu,#page div.sf-contener .sf-menu</class>
+	</item>
+	<item>
+		<text>Menu parrent hover</text>
+		<style_css>background</style_css>
+		<name>menu_parrent_hover</name>
+		<frontend>false</frontend>
+		<class>#page #menu ul li.menu_item:hover,#page div.sf-contener .sf-menu li:hover</class>
+	</item>
+	<item>
+		<text>Text menu parrent normal</text>
+		<style_css>color_text,font</style_css>
+		<name>text_menu_parrent_normal</name>
+		<frontend>true</frontend>
+		<class>#page #menu ul li a.title_menu_parent,#page #header .sf-menu li a</class>
+	</item>
+	<item>
+		<text>Text menu parrent hover</text>
+		<style_css>color_text</style_css>
+		<name>text_menu_parrent_hover</name>
+		<frontend>false</frontend>
+		<class>#page #header div.sf-contener .sf-menu li a:hover,#page #menu ul  li.menu_item a.title_menu_parent:hover</class>
+	</item>	
+	<item>
+		<text>Menu sub normal</text>
+		<style_css>background</style_css>
+		<name>menu_sub_normal</name>
+		<frontend>false</frontend>
+		<class>#page #menu > ul li > div.options_list, #page #menu > ul li > div.sub_menu,#page .sf-contener .sf-menu li ul,#cs_megamenu_more .more-menu</class>
+	</item>
+	<item>
+		<text>Menu sub hover</text>
+		<style_css>background</style_css>
+		<name>menu_sub_hover</name>
+		<frontend>false</frontend>
+		<class>#page #menu > ul > li .options_list li.category_item:hover,#page #menu > ul > li .options_list li.category_item li:hover,#page div.sf-contener .sf-menu li ul li:hover</class>
+	</item>
+	<item>
+		<text>Text menu sub normal</text>
+		<style_css>color_text,font</style_css>
+		<name>text_menu_sub_normal</name>
+		<frontend>false</frontend>
+		<class>#page #menu > ul > li div a,#page #header .sf-menu li a,#menu ul li .ajax_block_product h3 a,#menu ul li div.out_cat_parent a, #menu ul li .div_static h3,#menu ul li .div_static</class>
+	</item>
+	<item>
+		<text>Text menu sub hover</text>
+		<style_css>color_text</style_css>
+		<name>text_menu_sub_hover</name>
+		<frontend>false</frontend>
+		<class>#page #header div.sf-contener .sf-menu li a:hover,#page #menu ul > li > a:hover,#menu ul li .ajax_block_product h3 a:hover</class>
+	</item>
+</menu>
+<slideshow>
+	<item>
+		<text>Main slideshow</text>
+		<style_css>background</style_css>
+		<name>main_slideshow</name>
+		<frontend>false</frontend>
+		<class>.cs_revolution</class>
+	</item>
+</slideshow>
+<product>
+	<item>
+		<text>Name product</text>
+		<style_css>color_text,font</style_css>
+		<name>name_product</name>
+		<frontend>true</frontend>
+		<class>#page #columns ul#product_list li .name_product a,#page #columns li.ajax_block_product .name_product a,.ambiance h3 a,#page #columns .block li .name_product a,#page #columns .blockproductscategory li .name_product a,#page #columns .s_title_block a,#cart_block #cart_block_list dt a</class>
+	</item>
+	<item>
+		<text>Name product hover</text>
+		<style_css>color_text</style_css>
+		<name>name_product_hover</name>
+		<frontend>false</frontend>
+		<class>#page #columns ul#product_list li .name_product a:hover,#page #columns li.ajax_block_product .name_product a:hover,.ambiance h3 a,#page #columns .block li .name_product a:hover,#page #columns .blockproductscategory li .name_product a:hover,#page #columns .s_title_block a:hover</class>
+	</item>
+	<item>
+		<text>Description product</text>
+		<style_css>color_text,font</style_css>
+		<name>description_product</name>
+		<frontend>false</frontend>
+		<class>#page #columns .product_desc, #columns .homecategoryfeature .product_desc</class>
+	</item>
+	<item>
+		<text>Price normal product</text>
+		<style_css>color_text,font</style_css>
+		<name>price_normal_product</name>
+		<frontend>false</frontend>
+		<class>.price,#page #columns .our_price_display,#page #cart_block #cart_block_total.price,.cart_total_price .total_price_container span</class>
+	</item>
+	<item>
+		<text>Price specials product</text>
+		<style_css>color_text,font</style_css>
+		<name>price_specials_product</name>
+		<frontend>false</frontend>
+		<class>.price-discount</class>
+	</item>
+</product>
+<button>
+	<item>
+		<text>Button add to cart nomal</text>
+		<style_css>background,color_text,border_color,font</style_css>
+		<name>button_addtocart_normal</name>
+		<frontend>true</frontend>
+		<class>#page #columns ul#product_list li .ajax_add_to_cart_button.exclusive,.ajax_add_to_cart_button.exclusive, #add_to_cart .exclusive</class>
+	</item>
+	<item>
+		<text>Button add to cart hover</text>
+		<style_css>background,color_text</style_css>
+		<name>button_addtocart_hover</name>
+		<frontend>false</frontend>
+		<class>#page #columns ul#product_list li .ajax_add_to_cart_button.exclusive:hover,.ajax_add_to_cart_button.exclusive:hover, #add_to_cart .exclusive:hover</class>
+	</item>
+	
+	<item>
+		<text>Button other nomal</text>
+		<style_css>background,border_color,color_text,font</style_css>
+		<name>button_other_normal</name>
+		<frontend>false</frontend>
+		<class>input.button_mini, input.button_small, input.button, input.button_large, input.button_mini_disabled, input.button_small_disabled, input.button_disabled, input.button_large_disabled, input.exclusive_mini, input.exclusive_small, input.exclusive, input.exclusive_large, input.exclusive_mini_disabled, input.exclusive_small_disabled, input.exclusive_disabled, input.exclusive_large_disabled, a.button_mini, a.button_small, a.button, a.button_large, a.exclusive_mini, a.exclusive_small, a.exclusive, a.exclusive_large, span.button_mini, span.button_small, span.button, span.button_large, span.exclusive_mini, span.exclusive_small, span.exclusive, span.exclusive_large, span.exclusive_large_disabled,#product_list li a.button, #pb-left-column #buy_block input.exclusive,.cart_navigation .button, .cart_navigation .button_large,a#cs_quickview_handler,#page #left_column p.lnk a,#page #right_column p.lnk a,#cart_block #cart-buttons #button_order_cart,.cart_voucher .submit input.button,.sortPagiBar #bt_compare</class>
+	</item>
+	<item>
+		<text>Button other hover</text>
+		<style_css>background,border_color,color_text</style_css>
+		<name>button_other_hover</name>
+		<frontend>false</frontend>
+		<class>#product_list li a.button:hover,#pb-left-column #buy_block input.exclusive:hover,#page .exclusive:hover,#page .button_mini:hover,#page .button:hover,#page .button_large:hover,#page .button_small:hover,#page .exclusive_large:hover,.cart_navigation .button:hover, .cart_navigation .button_large:hover,a#cs_quickview_handler:hover,#cart_block #cart-buttons #button_order_cart:hover,#page #left_column p.lnk a:hover,#page #right_column p.lnk a:hover,.sortPagiBar #bt_compare:hover</class>
+	</item>
+</button>
+<pagetitle>
+	<item>
+		<text>Page title</text>
+		<style_css>color_text,font</style_css>
+		<name>page_title</name>
+		<frontend>false</frontend>
+		<class>#page #center_column h1</class>
+	</item>
+	<item>
+		<text>Heading h2,h3,h4,h5,h6</text>
+		<style_css>color_text,font</style_css>
+		<name>page_heading</name>
+		<frontend>false</frontend>
+		<class>h2,h3,h4,h5,h6,#subcategories h3</class>
+	</item>
+	<item>
+		<text>Text color breadcrumb</text>
+		<style_css>color_text</style_css>
+		<name>first_breadcrumb</name>
+		<frontend>false</frontend>
+		<class>#page .breadcrumb span,#page .breadcrumb</class>
+	</item>
+	<item>
+		<text>Text color breadcrumb link</text>
+		<style_css>color_text</style_css>
+		<name>second_breadcrumb</name>
+		<frontend>false</frontend>
+		<class>#page .breadcrumb a</class>
+	</item>
+</pagetitle>
+<blocktitle>
+	<item>
+		<text>Block title side bar </text>
+		<style_css>background,border_color</style_css>
+		<name>block_title_sidebar</name>
+		<frontend>true</frontend>
+		<class>.block .title_block, .block h4</class>
+	</item>
+	<item>
+		<style_css>color_text,font</style_css>
+		<name>block_title_sidebar_text</name>
+		<frontend>false</frontend>
+		<class>.block .title_block, .block h4,.block .title_block a, .block h4 a</class>
+	</item>
+	<item>
+		<text>Block title Other</text>
+		<style_css>background,color_text,font</style_css>
+		<name>block_title</name>
+		<frontend>false</frontend>
+		<class>#page #center_column h4.title_block,#page #center_column .block .title_block,#page #center_column  .block h4,.cs_follow_online</class>
+	</item>	
+</blocktitle>
+<tabs>
+	<item>
+		<text>Block title tabs on Home page</text>
+		<style_css>background,border_color</style_css>
+		<name>block_title_tabs</name>
+		<frontend>false</frontend>
+		<class>#tabs.ui-tabs .ui-tabs-nav,.title_tab,#tabs .title_tab_hide_show</class>
+	</item>	
+	<item>
+		<text>Block title tabs active </text>
+		<style_css>background,border_color</style_css>
+		<name>block_title_tabs_active</name>
+		<frontend>false</frontend>
+		<class>#tabs .ui-tabs-selected h4.title_block span,#tabs.ui-tabs .ui-tabs-nav li:hover h4.title_block span</class>
+	</item>
+	<item>
+		<style_css>color_text,font</style_css>
+		<name>block_title_tabs_text</name>
+		<frontend>false</frontend>
+		<class>#tabs.ui-tabs .ui-tabs-nav li a, .title_tab,#tabs  .title_tab_hide_show</class>
+	</item>
+</tabs>
+</items_setting>

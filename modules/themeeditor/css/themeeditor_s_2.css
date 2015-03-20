@@ -1,0 +1,72 @@
+#dd{} body, h4, h5, #product_list  h3, #send_friend_form h2 {font-size: 12px; line-height: 14px;} #cart_block, #languages_block_top, #currencies_block_top, #header_links {font-size: 11px;} .grid_view #product_list li h3, .flexslider_carousel h5{height: 28px;}#responsiveAccordion  > li > a,  #topmenu > li > a,  #shopping_cart > a, .idTabs a, .cart_total_price .total_price_container span, #product_added_confirm strong, #product_added_error strong, .cart_totalPrice, #buy_block p#old_price, #old_price_display,  #quantity_wanted_p, .list_view #product_list li h3, .cluetip-product_scene h4, a.cart_black{font-size: 14px; line-height: 16px;} #responsiveMenuShower{font-size: 16px;}.our_price_display .currency_price, #our_price_display, table#cart_summary .cart_total_price td.cart_voucher{font-size: 18px; line-height: 20px;} h1{font-size: 24px; line-height: 26px;} body{font-weight: normal; font-family:'Source Sans Pro', Verdana, sans-serif !important;}
+body{
+background: #ffffff}
+			
+#index #center_column{float: none !important;}
+	#left_column{float: right}
+	#module-referralprogram-program #center_column, #index #center_column, #supplier #center_column, #password #center_column, #authentication #center_column, #sitemap #center_column, #manufacturer #center_column, #products-comparison #center_column, #cms #center_column, #category #center_column, #search #center_column, #contact #center_column, #prices-drop #center_column, #new-products #center_column, #best-sales #center_column, #product #center_column{float: left;}
+
+#footer{
+background: #F0F0F0}
+			
+#top_links{
+background: #F0F0F0}
+			
+			#top_links{		border-bottom: 1px solid #CECECE;  }
+			#footer{		border-bottom: 1px solid #CECECE; 
+			border-top: 1px solid #CECECE; }
+			.footer_border{border-top:  2px solid #CECECE;}
+			
+			
+			.footer_border *{		border-color: #CECECE !important;}
+			
+			
+			.footer_border input[type="text"] {		background-color: #ffffff !important; }
+			.footer_border * {		color: #666666 !important; }
+			#footer .myaccount h4 a:link, #footer .myaccount h4 a:visited{color: #666666 !important;}
+			.footer_border a:link {		color: #666666 !important; }
+			.footer_border a:visited {		color: #666666 !important; }
+			.footer_border a:hover {		color: #666666 !important; }
+			#header_links *, #currencies_block_top *, #languages_block_top *{		border-color: #CECECE !important;}
+			
+			
+			#header_links *, #currencies_block_top *, #languages_block_top * {		color: #666666 !important; }
+			#currencies_block_top a:hover, #currencies_block_top a.selected, #languages_block_top a:hover, #languages_block_top a.selected {		background-color: #CECECE !important; }
+			#header_links a:link , #currencies_block_top a:link , #languages_block_top a:link {		color: #666666 !important; }
+			#header_links a:visited , #currencies_block_top a:visited , #languages_block_top a:visited {		color: #666666 !important; }
+			#header_links a:hover, #currencies_block_top a:hover, #languages_block_top a:hover {		color: #666666 !important; }
+			.js .selectnav, #responsiveMenuShower, .sf-menu, a.cart_black {		background-color: #000000 !important; }#responsiveMenuShower div.responsiveInykator2{	color: #000000 !important; }
+#topmenu > .sfHover > a, .sf-menu a:focus, .sf-menu a:hover, .sf-menu a:active{background-color: #ffffff !important; }
+
+.sf-menu li.home a{ background-color: transparent !important;}
+			.sf-menu > li:before{color: #a2a2a2 !important;}
+			
+			.sf-menu li.home a{		background-image: url(../home_icon-s2.png) !important;}
+			#responsiveMenuShower, .sf-menu li > a, .sf-menu li > a:visited, a.cart_black {		color: #ffffff !important; }
+			#topmenu > .sfHover > a, .sf-menu li > a:hover, a.cart_black:hover {		color: #666666 !important; }
+			.sf-menu ul a, .sf-menu ul a:visited {		color: #666666 !important; }
+			.sf-menu li li {		background-color: #ffffff !important; }
+			.sf-menu ul li:hover, .sf-menu ul li.sfHover, .sf-menu ul li a:focus, .sf-menu ul li a:hover, .sf-menu ul li a:active {		background-color: #F3F3F3 !important; }
+			.sf-menu ul a, .sf-menu ul a:visited {		color: #666666 !important; }
+			.sf-menu ul li:hover, .sf-menu ul li.sfHover, .sf-menu ul li a:focus, .sf-menu ul li a:hover, .sf-menu ul li a:active{		color: #666666 !important; }
+			h1, h2, h3, h4, h5, h6, .block h4 a,  .block h4 a:active, .block h4 a:visited, .layered_subtitle,  #product_added_confirm strong, #product_added_error strong {		color: #666666; }
+			body, .new, .list_view #product_list li p.product_desc, .list_view #product_list li p.product_desc a{		color: #666666; }
+			a, a:link, a:active, a:visited, #usefull_link_block li#favoriteproducts_block_extra_remove, #usefull_link_block li#favoriteproducts_block_extra_add, ul#usefull_link_block li#favoriteproducts_block_extra_added, ul#usefull_link_block li#favoriteproducts_block_extra_removed{		color: #666666; }
+			a:hover {		color: #666666; }
+			span.on_sale, span.on_sale1,  .discount, #reduction_percent_display, #reduction_amount_display {		background-color: #C20000 !important; }
+			
+			 #product_list li .price, #best-sellers_block_right li .price, .flexslider_carousel .price, #product_comparison .price, #our_price_display, .our_price_display .currency_price{ color: #C20000 !important;}
+			
+			span.on_sale, span.on_sale1,  .discount, #reduction_percent_display, #reduction_amount_display{		color: #ffffff !important; }input.button_mini, input.button_small, input.button, input.button_large, input.button_mini_disabled, input.button_small_disabled, input.button_disabled, input.button_large_disabled, input.exclusive_mini, input.exclusive_small, input.exclusive, input.exclusive_large, input.exclusive_mini_disabled, input.exclusive_small_disabled, input.exclusive_disabled, input.exclusive_large_disabled, a.button_mini, a.button_small, a.button, a.button_large, a.exclusive_mini, a.exclusive_small, a.exclusive, a.exclusive_large, span.button_mini, span.button_small, span.button, span.button_large, span.exclusive_mini, span.exclusive_small, span.exclusive, span.exclusive_large, span.exclusive_large_disabled, #checkout_product_added_confirm{background: #8b8b8b ;
+	color:  #ffffff !important;
+	}
+input.button_mini:hover, input.button_small:hover, input.button:hover, input.button_large:hover,
+input.exclusive_mini:hover, input.exclusive_small:hover, input.exclusive:hover, input.exclusive_large:hover,
+a.button_mini:hover, a.button_small:hover, a.button:hover, a.button_large:hover,
+a.exclusive_mini:hover, a.exclusive_small:hover, a.exclusive:hover, a.exclusive_large:hover, #checkout_product_added_confirm:hover{
+	background: #666666 ;
+	color:  #ffffff !important;
+	}
+
+	
+	

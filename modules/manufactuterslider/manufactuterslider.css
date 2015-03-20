@@ -1,0 +1,14 @@
+#manufacturers_slider {  overflow:hidden; padding: 20px 0 20px 0; border-top: 1px solid #CECECE;  }
+#manufacturers_slider .direction-nav {position: absolute; left: 0px; top: 0px; width: 100%;}
+#manufacturers_slider .direction-nav a {display: block; text-indent: -999em;  width: 20px; height: 28px; overflow: hidden; position: absolute; top: 18px; }
+
+#manufacturers_slider .next { background: url(img/next_arrows.png) no-repeat; }
+#manufacturers_slider .prev{background: url(img/prev_arrows.png) no-repeat;}
+#manufacturers_slider .direction-nav a:hover{background-position: 0 -28px }
+#manufacturers_slider .disabled:hover{background-position: 0 -56px !important; cursor:default !important;  }
+#manufacturers_slider .disabled { background-position: 0 -56px; cursor:default; }
+#manufacturers_slider li{padding: 0 5px; list-style-type: none;}
+#manufacturers_slider li a{	
+zoom: 1;
+	filter: alpha(opacity=60);
+	opacity: 0.6;}

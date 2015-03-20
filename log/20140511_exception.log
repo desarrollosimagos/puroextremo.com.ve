@@ -1,0 +1,5 @@
+*ERROR* 	2014/05/11 - 08:35:15: Link to database cannot be established: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) at line 47 in file classes/db/DbMySQLi.php
+*ERROR* 	2014/05/11 - 08:35:24: Link to database cannot be established: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) at line 47 in file classes/db/DbMySQLi.php
+*ERROR* 	2014/05/11 - 08:35:29: Link to database cannot be established: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) at line 47 in file classes/db/DbMySQLi.php
+*ERROR* 	2014/05/11 - 08:38:09: Link to database cannot be established: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) at line 47 in file classes/db/DbMySQLi.php
+*ERROR* 	2014/05/11 - 08:38:31: Link to database cannot be established: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) at line 47 in file classes/db/DbMySQLi.php

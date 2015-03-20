@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<setting>
+<bg_mode>wide_mode</bg_mode>
+<column>2_column_left</column>
+<column_class>grid_4,grid_20(4)</column_class>
+<header_color>#212121</header_color>
+<header_repeat>repeat-x</header_repeat>
+<header_img>bkg_page_black.jpg</header_img>
+<text_header_color_text>#ffffff</text_header_color_text>
+<text_header_hover_color_text>#ef6b00</text_header_hover_color_text>
+<bkg_header_search_color>#131313</bkg_header_search_color>
+<bkg_header_search_border_color>#000000</bkg_header_search_border_color>
+<bkg_header_search_border_weight>1</bkg_header_search_border_weight>
+<bkg_header_search_border_style>solid</bkg_header_search_border_style>
+<footer_color>#212121</footer_color>
+<menu_parrent_normal_color>#e6e6e6</menu_parrent_normal_color>
+<text_menu_parrent_normal_color_text>#191919</text_menu_parrent_normal_color_text>
+<button_addtocart_normal_color>#212121</button_addtocart_normal_color>
+<button_addtocart_normal_color_text>#ffffff</button_addtocart_normal_color_text>
+<button_other_normal_color>#e6e6e6</button_other_normal_color>
+<button_other_normal_color_text>#191919</button_other_normal_color_text>
+</setting>

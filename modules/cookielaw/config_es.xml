@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>cookielaw</name>
+	<displayName><![CDATA[Cookie law module]]></displayName>
+	<version><![CDATA[2.2]]></version>
+	<description><![CDATA[Adds cookie information on footer]]></description>
+	<author><![CDATA[IQIT-COMMERCE.COM]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

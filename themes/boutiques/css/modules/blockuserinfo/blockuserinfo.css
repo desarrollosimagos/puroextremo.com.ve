@@ -1,0 +1,34 @@
+/* block top user information */
+
+#header_right #header_user {
+	clear:both;
+	float: right;
+}
+#header_right #header_user li{margin-left:10px;margin-bottom:10px;}
+#header_user #header_nav {}
+#header_user #header_nav li#your_account{float:right}
+#header_user #header_nav li#shopping_cart{float:right;clear:both;padding:12px 0 10px;margin-bottom:0}
+
+
+
+/* cart */
+.lt-ie6 #shopping_cart {width: 130px;}
+#shopping_cart a{
+	padding:5px 0 5px 30px;
+	background: url('img/icon/cart.png') no-repeat left center;display:block;text-transform:uppercase;font-weight:700}
+#shopping_cart a span{color:#646464;font-size:12px;text-transform:none}
+#shopping_cart a:hover,#shopping_cart a:hover span{text-decoration: none;color:#E11414}
+#header_user #shopping_cart .ajax_cart_total { display:none !important; }
+
+
+/* account */
+
+/* user infos */ 
+#header_user_info {float:right;margin:0;}
+#header_user_info a {}
+#header_user_info a.account {
+	border: none;
+	display: inline;
+	margin: 0;
+	padding: 0;
+}

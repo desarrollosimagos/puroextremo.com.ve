@@ -1,0 +1,3 @@
+﻿Hi {firstname} {lastname}, you can make comments and give ratings for your products. This can be useful to sharing about experience with our customers.
+
+{shop_url} powered by PrestaShop™

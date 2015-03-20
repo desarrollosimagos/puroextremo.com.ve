@@ -1,0 +1,108 @@
+#account-creation_form .account_creation{padding:0;width:49%;float:left}
+#account-creation_form .account_creation.customerprivacy{float:right}
+#create-account_form,#authentication #login_form{clear:none;float:left;width:49%;margin:0;}
+#authentication #login_form{float:right}
+#create-account_form{clear:left}
+#create-account_form .title_block{margin-bottom:49px;text-transform:none;font-size:12px;}
+#create-account_form p.text,#authentication #login_form p.text{padding:0 0 5px;width:100%;float:left;margin:0 0 10px}
+#create-account_form p.text input,#authentication #login_form p.text input{float:left;margin:0;width:97%;font-style:normal}
+#authentication #login_form a{color:#ff007d;font-weight:400;text-decoration:none;text-transform:none}
+#authentication #login_form a:hover{text-decoration:underline}
+#create-account_form p.text{text-align:left}
+#authentication #create-account_form p.text label{width:97%}
+#authentication p.submit{margin:0!important;padding:0!important;position:relative;text-align:center;clear:none}
+#authentication  #account-creation_form  p.cart_navigation.submit{padding:0!important;width:68%;text-align:right}
+#authentication  #account-creation_form  p.cart_navigation.submit span{color:#d13e3b;font-weight:700;font-size:10px;float:left;clear:left;}
+#authentication  #account-creation_form  p.cart_navigation.submit  input#submitAccount{clear:left;float:left;margin-bottom:10px;}
+#authentication #create-account_form p.submit input{color:#fff;background:url(../img/bg_bt_2.jpg) repeat-x 0 0;}
+#authentication #create-account_form p.submit input{float:left;margin-left:0;}
+#authentication #login_form .submit input{background:url(../img/bg_bt_2.jpg) repeat-x 0 0;border:none;
+    color: #fff;}
+#authentication p.lost_password{float:left;padding:2px 0 0 10px; margin-top:5px;clear:none}
+#authentication p.lost_password a{color:#ff007d;}
+#create-account_form label,#authentication #login_form label{clear:both;color:#191919;display:block;float:none;text-align:left;width:100%;margin:0;}
+#account-creation_form input.text,#account-creation_form #id_country,#account-creation_form #id_state{margin:0;width:330px}
+.three_column .grid_8 #account-creation_form input.text,.three_column  .grid_8 #account-creation_form #id_country,.three_column  .grid_8  #account-creation_form #id_state{width:90%}
+#account-creation_form #id_country,#account-creation_form #id_state{width:292px}
+#authentication textarea{color:#969696;font-size:11px;height:80px;margin:0;padding:10px;width:320px}
+#authentication .account_creation p{clear:none;float:left;margin:0;width:100%}
+#authentication .account_creation p.checkbox{height:25px;padding:0;display:block}
+#authentication .account_creation p.checkbox input{height:auto;vertical-align:-1px}
+#authentication .account_creation p #days,#authentication .account_creation p #months,#authentication .account_creation p #years{background:none;padding:5px;width:88px;color:#646464;font-size:11px;margin-bottom:2px;}
+#authentication .account_creation p #months{width:160px;}
+#authentication .account_creation p label,
+#authentication .account_creation p.select span,
+#authentication .account_creation p.radio span{margin:0!important;text-align:left;text-transform:none;width:100%;display:block;line-height:25px}
+#authentication .account_creation p#address_alias label{line-height:15px;}
+#authentication .account_creation p.select label,#authentication .account_creation p.select span{#line-height:20px}
+#authentication .account_creation p.checkbox label,#authentication .account_creation p.radio label{font-weight:400;float:none;display:inline;width:auto}
+#authentication .account_creation p.radio input{height:auto;#vertical-align:-2px;vertical-align:-1px;}
+#authentication .account_creation p.radio label.top{font-weight:700;text-transform:uppercase;float:none;display:inline}
+#authentication .cart_navigation,#account-creation_form .account_creation h3{border:none}
+#account-creation_form .account_creation h3{font-size:16px;}
+#authentication #login_form .submit,#authentication .account_creation .radio{float:left}
+#create-account_form p.text span,#authentication #login_form p.text span,#authentication .account_creation .select,#authentication .account_creation .id_state{width:100%;margin:0}
+#authentication form#account-creation_form{position:relative;padding:0;}
+#authentication .account_creation p span.inline-infos {
+    margin: 7px 0 7px 10px;
+    padding-left: 25%;
+    width: auto;#width: 60%;text-align:left;color:#ae846e;
+}
+#authentication  form#new_account_form{padding:0 20px;}
+#authentication  form#new_account_form input.text{  color: #000000;
+    font-size: 11px;
+    margin: 0 5px 0 0;	
+    width: 300px;}
+#authentication  form#new_account_form p label, #authentication  form#new_account_form p.select span, #authentication  form#new_account_form p.radio span {
+    color: #000000;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 25px;
+    margin: 0 !important;
+    padding-right: 10px;
+    text-align: right;
+    text-transform: none;
+    width: 25%;
+}
+#authentication  form#new_account_form p.radio input {
+    height: auto;
+    vertical-align: -6px;
+}
+#authentication  form#new_account_form p #days, #authentication  form#new_account_form p #months, #authentication  form#new_account_form p #years {
+    background: none repeat scroll 0 0 transparent;
+    color: #000000;
+    font-size: 11px;
+    padding: 4px;
+    width: 98px;
+}
+#authentication  form#new_account_form p #months {
+    width: 120px;
+}
+#authentication  form#new_account_form p.cart_navigation.submit #submitGuestAccount {
+    clear: right;
+    float: left!important;
+    margin-left: 180px;
+}
+#authentication  form#new_account_form #id_country, #authentication  form#new_account_form #id_state {
+    width: 322px;
+}
+.account_creation p.required.password span.form_info{#position:relative;#top:-2px;margin:5px;width:100%;margin:5px 0;display:block}
+.account_creation.customerprivacy p.required{width:4%!important;float:left;margin:0!important;padding:2px 5px 0 0}
+.account_creation.customerprivacy p.required input{margin:0 !important}
+form.std .account_creation.customerprivacy input{border:none;background:none;}
+form.std .account_creation.customerprivacy label{padding:0;text-align:left;width:94%;margin-right:0;line-height:15px;}
+#authentication #old_bc{display:none;}
+
+.two_column  #create-account_form,
+#authentication .two_column   #login_form{margin-right:0;width:47%}
+.two_column  #create-account_form{margin-right:30px;}
+.three_column  .grid_8 #create-account_form,#authentication .three_column  .grid_8  #login_form{width:100%;margin:0 0 20px}
+.two_column  #create-account_form p.text input, 
+#authentication .two_column #login_form p.text input,
+.three_column  #create-account_form p.text input, 
+#authentication .three_column #login_form p.text input{width:95%}
+
+ .three_column   #account-creation_form .account_creation{width:100%;margin:0 0 15px}
+
+
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <module>
+            <name>pagoentienda</name>
+            <displayName><![CDATA[PAGO EN TIENDA(COD)]]></displayName>
+            <version><![CDATA[0.1]]></version>
+            <description><![CDATA[Acepta pagos en la tienda]]></description>
+            <author><![CDATA[PROYECTO NOUS VZLA]]></author>
+            <tab><![CDATA[payments_gateways]]></tab>
+            <is_configurable>0</is_configurable>
+            <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+        </module>

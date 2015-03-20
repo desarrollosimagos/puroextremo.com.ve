@@ -1,0 +1,97 @@
+#twitter_block_module
+{
+	border-top: 1px solid #CECECE;
+	padding: 20px 0px;
+	}
+#twitter_block_module .tw_title{float:left; width: 200px;
+background-image: url('images/arrow.png');
+background-repeat: no-repeat;
+background-position:right;
+height: 61px;
+}
+#twitter_block_module .tw_title h4{
+	font-size: 18px;
+	line-height: 61px;
+	}
+#twitter_block_module .tw_title img{
+	margin-right: 10px;
+	vertical-align: middle;
+	display:inline-block;
+	position:relative;
+	top: -2px;}
+	
+	#twitter_block_module .tw_content{float:left; width: 780px; height: 61px; margin-left: 10px;}
+	#twitter_block_module .tw_link{float:left; width: 160px;
+	background-image: url('images/arrow.png');
+background-repeat: no-repeat;
+background-position:left;
+height: 61px;
+	line-height: 60px;
+	padding-left: 40px;
+	}
+	
+#twitter_block_module .tw_link a, #twitter_block_module .tw_link a:link, #twitter_block_module .tw_link a:visited	{color: #28b1dd}
+
+.tweet,
+.query {
+	font-size: 120% ;
+}
+
+	.tweet_list {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+		overflow-y: hidden;
+	}
+	
+		.tweet_list li {
+			overflow-y: auto;
+			overflow-x: hidden;
+			padding: 0.5em;
+			list-style-type: none;
+		}
+		
+			.tweet_list li a {
+			font-style:italic;
+			font-size: 11px;
+			
+			color: #28b1dd;
+			}
+		
+		.tweet_list li a:link, .tweet_list li a:visited{color: #28b1dd;}
+		.tweet_list .tweet_even {
+		
+		}
+		
+		.tweet_list .tweet_time {
+			display:block;
+			font-style:italic;
+			font-size: 11px;
+			
+		}
+		
+			.tweet_list .tweet_avatar img {
+				vertical-align: middle;
+			}
+      #ticker {
+        height: 61px;
+        overflow-y: hidden;
+        position: relative;
+      }
+      #ticker ul.tweet_list {
+        position: absolute;
+
+      }
+      #ticker ul.tweet_list li {
+            height: 53px;
+			padding: 0px 20px;
+			padding-top: 8px;
+			overflow: hidden;
+      }
+/* Footer twitter */
+#footer #twitter_block_module {
+	border-bottom: 1px solid #CECECE;
+	padding-top: 0px;
+	border-top: none;
+	margin-bottom: 20px;
+	}

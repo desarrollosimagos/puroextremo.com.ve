@@ -1,0 +1,3 @@
+﻿Hola {firstname} {lastname}, usted puede hacer comentarios y dar calificaciones para sus productos. Esto puede ser útil para compartir la experiencia con nuestros clientes.
+
+{shop_url} powered by PrestaShop™

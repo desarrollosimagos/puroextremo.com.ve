@@ -1,0 +1,32 @@
+*ERROR* 	2013/09/05 - 05:14:57: SQL query: 
+ALTER TABLE `ps_log` ADD `id_employee` INT(10) UNSIGNED NULL DEFAULT NULL AFTER `object_id`
+*ERROR* 	2013/09/05 - 05:14:57: SQL error: 
+Cannot execute queries while other unbuffered queries are active.  Consider using PDOStatement::fetchAll().  Alternatively, if your code is only ever going to run against mysql, you may enable query buffering by setting the PDO::MYSQL_ATTR_USE_BUFFERED_QUERY attribute.
+*ERROR* 	2013/09/05 - 05:14:57: SQL query: 
+SET @id_parent = (SELECT IFNULL(id_tab, 1) FROM `ps_tab` WHERE `class_name` = 'AdminPriceRule' LIMIT 1)
+*ERROR* 	2013/09/05 - 05:14:57: SQL error: 
+Cannot execute queries while other unbuffered queries are active.  Consider using PDOStatement::fetchAll().  Alternatively, if your code is only ever going to run against mysql, you may enable query buffering by setting the PDO::MYSQL_ATTR_USE_BUFFERED_QUERY attribute.
+*ERROR* 	2013/09/05 - 05:14:57: SQL query: 
+UPDATE `ps_tab` SET id_parent = @id_parent WHERE `id_parent` = 1 AND `class_name` = 'AdminMarketing' LIMIT 1
+*ERROR* 	2013/09/05 - 05:14:57: SQL error: 
+Cannot execute queries while other unbuffered queries are active.  Consider using PDOStatement::fetchAll().  Alternatively, if your code is only ever going to run against mysql, you may enable query buffering by setting the PDO::MYSQL_ATTR_USE_BUFFERED_QUERY attribute.
+*ERROR* 	2013/09/05 - 05:14:57: SQL query: 
+UPDATE `ps_hook` SET `description` = 'This hook is called when a new credit slip is added regarding client order' WHERE `name` = 'actionOrderSlipAdd'
+*ERROR* 	2013/09/05 - 05:14:57: SQL error: 
+Cannot execute queries while other unbuffered queries are active.  Consider using PDOStatement::fetchAll().  Alternatively, if your code is only ever going to run against mysql, you may enable query buffering by setting the PDO::MYSQL_ATTR_USE_BUFFERED_QUERY attribute.
+*ERROR* 	2013/09/05 - 05:14:57: SQL query: 
+ALTER TABLE `ps_product_shop` DROP INDEX `date_add`, ADD INDEX `date_add` (`date_add` , `active` , `visibility`)
+*ERROR* 	2013/09/05 - 05:14:57: SQL error: 
+Cannot execute queries while other unbuffered queries are active.  Consider using PDOStatement::fetchAll().  Alternatively, if your code is only ever going to run against mysql, you may enable query buffering by setting the PDO::MYSQL_ATTR_USE_BUFFERED_QUERY attribute.
+*ERROR* 	2013/09/05 - 05:14:57: SQL query: 
+UPDATE `ps_hook` SET `live_edit` = '1' WHERE `name` LIKE 'leftcolumn'
+*ERROR* 	2013/09/05 - 05:14:57: SQL error: 
+Cannot execute queries while other unbuffered queries are active.  Consider using PDOStatement::fetchAll().  Alternatively, if your code is only ever going to run against mysql, you may enable query buffering by setting the PDO::MYSQL_ATTR_USE_BUFFERED_QUERY attribute.
+*ERROR* 	2013/09/05 - 05:14:57: SQL query: 
+UPDATE `ps_configuration` SET `name` = '0' WHERE `name` LIKE 'PS_LEGACY_IMAGES' AND `value` LIKE '1'
+*ERROR* 	2013/09/05 - 05:14:57: SQL error: 
+Cannot execute queries while other unbuffered queries are active.  Consider using PDOStatement::fetchAll().  Alternatively, if your code is only ever going to run against mysql, you may enable query buffering by setting the PDO::MYSQL_ATTR_USE_BUFFERED_QUERY attribute.
+*ERROR* 	2013/09/05 - 05:14:57: SQL query: 
+INSERT INTO `ps_configuration` (`name`, `value`, `date_add`, `date_upd`) VALUES('PS_SMARTY_CONSOLE_KEY', 'SMARTY_DEBUG', NOW(), NOW())
+*ERROR* 	2013/09/05 - 05:14:57: SQL error: 
+Cannot execute queries while other unbuffered queries are active.  Consider using PDOStatement::fetchAll().  Alternatively, if your code is only ever going to run against mysql, you may enable query buffering by setting the PDO::MYSQL_ATTR_USE_BUFFERED_QUERY attribute.

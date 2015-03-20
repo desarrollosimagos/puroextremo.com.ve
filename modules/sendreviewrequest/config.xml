@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <module>
+            <name>sendreviewrequest</name>
+            <displayName><![CDATA[Enviar Solicitud de Comentario]]></displayName>
+            <version><![CDATA[0.3]]></version>
+            <description><![CDATA[Enviar una solicitud de comentario despu&eacute;s de que el estado del pedido es entregado.]]></description>
+            <author><![CDATA[www.kik-off.com]]></author>
+            <tab><![CDATA[emailing]]></tab>
+	<confirmUninstall>¿Está usted seguro de querer desintalar el módulo?</confirmUninstall>
+            <is_configurable>1</is_configurable>
+            <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+        </module>

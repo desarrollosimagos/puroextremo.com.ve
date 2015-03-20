@@ -1,0 +1,73 @@
+#header  #cart_block .title_block, #header  #cart_block h4 {
+	display: none;
+}
+#header #cart_block {
+	z-index: 100;
+	display:none;
+	position: absolute;
+	right: 0;
+	top: 79px;
+	height: auto;
+	width: 350px;text-align:left;
+	background:#fff;box-shadow: 0 0 8px #666666;
+}
+#header #cart_block:hover{border:none!important;background:#fff!important}
+#cart_block.cart_block_hover {display:block}
+#cart_block .title_block  span, #header  #cart_block h4 {
+	float: right;
+	padding-left: 10px;
+	text-transform: none;
+	background-position: left top;
+	background-repeat: no-repeat;
+	cursor: pointer
+}
+
+#cart_block  .block_content {padding:0 0 20px;overflow:hidden}
+
+#cart_block #cart_block_summary {display:none}
+#cart_block .quantity-formated {display:block;color:#505050}
+#cart_block .cart_block_product_name {margin-bottom:7px;}
+#cart_block .remove_link {height:23px;	width:23px;z-index:10;float:right;
+}
+#cart_block #cart_block_list dt.first_item .remove_link{top:0}
+#cart_block .remove_link a {
+	display:inline-block;
+	height:23px;
+	width:23px;padding:0;
+	background: url(../../../img/icon/delete.png) no-repeat 0 0
+}
+#cart_block .remove_link a:hover{background-position:100% 100%}
+#cart_block .price {display:block;padding-bottom:5px;}
+
+#cart_block #cart_block_list dl {
+	padding:0 20px 10px
+}
+#cart_block #cart_block_list dt {padding:20px 0 0;position:relative;display:block;clear:both}
+#cart_block #cart_block_list dt .image{width:auto;float:left;margin:0 20px 5px 0;}
+#cart_block #cart_block_list dt a {padding:0;font:400 11px/1.35 "Open Sans",Helvetica,Arial, Verdana, sans-serif;color:#191919;text-transform:uppercase;display:block}
+
+#cart_block #cart_block_list dt .image img{border-bottom:1px solid #e6e6e6;}
+#cart_block #cart_block_list dt a:hover,#cart_block #cart_block_list dd a:hover{color:#397abd}
+#cart_block #cart_block_list dd {margin:7px 0 10px;font-style:italic;clear:both}
+#cart_block #cart-prices {
+	padding:10px 20px;color:#191919;
+	line-height:20px;border-top:3px solid #121a2d;
+}
+#cart_block #cart-prices p{overflow:hidden}
+#cart_block #cart_block_shipping_cost,
+#cart_block #cart_block_total {
+	float:right
+}
+#cart-buttons{overflow:hidden;padding:0 20px;}
+#cart_block #cart_block_total{font-size:18px;color:#ff007d}
+#cart_block #cart_block_shipping_cost {font-size:12px;}
+#cart_block #cart-buttons .button_small {float:left;}
+#cart_block #cart-buttons  #button_order_cart { margin-right:10px;	float:left;background:#000;border:none;color:#fff}
+
+#vouchers{margin-bottom:15px}
+.bloc_cart_voucher span{float:left!important;margin-right:3px;}
+.bloc_cart_voucher span.price{float:right!important}
+.bloc_cart_voucher span.name{float:left!important}
+.bloc_cart_voucher span.delete{float:right!important}
+.bloc_cart_voucher span.delete a img{display:none;}
+#vouchers dt{border:none;border-top:1px dotted #D5D5D5;margin:8px 0 0!important;padding:10px 0 0!important}

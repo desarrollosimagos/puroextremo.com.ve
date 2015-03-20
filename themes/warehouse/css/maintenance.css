@@ -1,0 +1,40 @@
+/*********************************************************************
+					Maintenance Page Styles
+**********************************************************************/
+#maintenance-page .logo {
+  text-align: center;
+  margin: 30px 0; }
+#maintenance-page .title_block
+h4 {
+  font: 12px/14px "Open Sans", sans-serif;
+  color: #555454;
+  border-bottom: 1px solid #dddddd;
+  text-transform: uppercase;
+  padding: 6px 5px 10px 0px;
+  margin-bottom: 20px;
+  margin-top: 0px; }
+  #maintenance-page .title_block
+  h4 a {
+    color: #555454; }
+    #maintenance-page .title_block
+    h4 a:hover {
+      color: #777777; }
+#maintenance-page ul {
+  padding: 0px; }
+#maintenance-page footer section {
+  margin-top: 20px; }
+
+#maintenance {
+  border-top: 1px solid #dddddd;
+  border-bottom: 1px solid #dddddd;
+  background: #f8f8f8;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease; }
+  #maintenance:hover {
+    background: #f7f7f7; }
+  #maintenance #message {
+    font: 400 16px/31px "Open Sans", sans-serif;
+    padding: 40px 0;
+    color: #555454; }

@@ -1,0 +1,7 @@
+*ERROR* 	2014/06/03 - 11:14:04: Link to database cannot be established: Too many connections at line 47 in file classes/db/DbMySQLi.php
+*ERROR* 	2014/06/03 - 11:14:39: Link to database cannot be established: Too many connections at line 47 in file classes/db/DbMySQLi.php
+*ERROR* 	2014/06/03 - 17:19:18: Method is not defined at line 295 in file controllers/front/OrderOpcController.php
+*ERROR* 	2014/06/03 - 17:26:40: Method is not defined at line 295 in file controllers/front/OrderOpcController.php
+*ERROR* 	2014/06/03 - 17:27:30: Method is not defined at line 295 in file controllers/front/OrderOpcController.php
+*ERROR* 	2014/06/03 - 18:41:38: Method is not defined at line 295 in file controllers/front/OrderOpcController.php
+*ERROR* 	2014/06/03 - 20:24:32: Method is not defined at line 295 in file controllers/front/OrderOpcController.php

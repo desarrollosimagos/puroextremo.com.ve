@@ -1,0 +1,47 @@
+#fblike-box {
+	position: fixed;
+	z-index: 1001;
+	top: 150px;
+	right: -296px; 
+}
+div#fblike-box.left_fb{
+	left: -296px; 
+	right: auto;
+	}
+
+
+div#fblike-box.left_fb .outside {
+	float: left;
+	}
+
+div#fblike-box.left_fb .belt {
+	background: url(fb1-left.png);
+	}
+	
+ 
+#fblike-box .outside {
+	position: relative;
+	z-index: 1;
+	background: #3b5999;
+	padding: 2px;
+	min-width: 1px;
+	float: right;
+}
+ 
+#fblike-box .inside {
+	position: relative;
+	z-index: 2;
+	background: #fff;
+}
+ 
+#fblike-box .belt {
+	position: relative;
+	z-index: 0;
+	float: left;
+	position: relative;
+	z-index: 0;
+	width: 48px;
+	height: 155px;
+	background: url(fb1-right.png);
+	text-indent: -9999px;
+}

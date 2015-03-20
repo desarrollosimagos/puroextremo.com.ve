@@ -1,0 +1,6 @@
+*ERROR* 	2013/08/27 - 06:02:53: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND ms.`display` = 1 ORDER BY ms.`position` ASC' at line 5<br /><br /><pre>SELECT ms.`id_menu` FROM `ps_csmegamenu` m
+					LEFT JOIN `ps_csmegamenu_shop` ms ON (ms.id_menu = m.id_menu)
+					LEFT JOIN `ps_csmegamenu_lang` ml ON (ml.id_menu = m.id_menu AND ml.id_shop = 1)
+					WHERE (ms.id_shop = 1) AND ml.id_lang = 
+					AND ms.`display` = 1 ORDER BY ms.`position` ASC
+				</pre> at line 607 in file classes/db/Db.php

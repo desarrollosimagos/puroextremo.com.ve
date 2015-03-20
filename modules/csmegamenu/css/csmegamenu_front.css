@@ -1,0 +1,208 @@
+#menu {clear:both;padding: 0px;min-height:40px;background:#4f5a6a;}
+#menu ul {list-style: none;margin: 0;padding: 0;}
+#menu ul.ul_mega_menu{text-align:center;width:100%;float:left}
+#menu ul  li.menu_item{width:auto;float:none;display:inline-block;position:relative;margin:0;padding:0;transition: all 0.5s ease-in-out 0s;}
+#menu ul  li.menu_item a{
+	float:none;padding:0 20px;/*min-width:100px;*/
+	display:table-cell;vertical-align:middle;height:40px;color:#fff;font:400 14px/16px "Open Sans",arial;text-transform:uppercase;}
+#menu ul  li.menu_item a:hover{text-decoration:none}
+#menu ul  li.menu_item:hover{background:#79c7d7;}
+#menu > ul > li:last-child{padding-right:0}
+#menu > ul > li ul > li{padding:5px 20px;display:block;width:auto;position:relative;z-index:20;}
+#menu > ul > li ul > li.parent{background: url(../img/bkg_arrow.png) no-repeat  right 10px;}
+#menu > ul > li ul > li.parent:hover{z-index:100}
+
+#menu > ul  li > div.options_list,#menu > ul  li > div.sub_menu,
+#cs_megamenu_more .more-menu{top:auto;border:1px solid #e6e6e6;
+	margin:0;background:#fff;
+	position: absolute;
+	z-index:100;
+	padding:20px 0;text-align:left;
+	transition: opacity 0.8s ease 0s;opacity:0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+}
+#menu > ul  li:hover > div.options_list,
+#menu > ul  li:hover > div.sub_menu,
+#cs_megamenu_more:hover .more-menu{opacity:1;-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";}
+
+#menu > ul  li > div.sub_menu{width:100%!important}
+#menu > ul > li > div {
+	display: none;}
+/*#menu > ul > li:hover > div {display: block;}*/
+#menu  ul ul > li.parent div.sub_menu{left:100%;top:-21px;opacity:0}
+#menu  ul ul > li.parent:hover div.sub_menu{left:100%;top:-21px;z-index:100;opacity:1}
+#menu > ul li.menu_item > div a{
+	color: #646464;
+	text-decoration: none;text-transform:none;
+	display: block;
+	padding:0;
+	margin:0;
+	z-index: 20;height:auto;
+	position: relative;font:400 12px/1.35 arial;}
+#menu > ul li.menu_item > div a:hover{transition: all 0.5s ease 0s;color:#191919;text-decoration:underline;}
+#menu > ul > li > div > ul {
+	display: table-cell;
+}
+#menu ul li#cs_megamenu_more  div ul{display:block}
+#menu > ul > li .options_list ul{float:left}
+
+#menu > ul > li div a.cat_parent{padding:7px 0 0;display:block;}
+#menu > ul > li div a.cat_parent img{display:block;margin-bottom:10px;max-width:100%}
+#menu > ul > li div a:hover,
+#menu > ul li.menu_item > div a:hover,#menu ul li .product_item a:hover {
+	color:#323232;text-decoration:underline;transition: all 0.5s ease 0s;
+}
+#menu > ul > li > div > ul > li > a {
+	color: #FFFFFF;
+}
+
+#menu .option ul li {position: relative}
+#menu ul li ul li{position:relative}
+#menu ul li ul li:hover > div.sub_menu{display:block}
+#menu ul li .div_static{margin:0;color:#646464;padding:0 20px}
+#menu ul li .div_static  .static_menu_6{margin-bottom:10px;}
+#menu ul li .div_static a{text-align:center;display:block;padding-bottom:10px}
+#menu ul li .div_static a img{max-width:100%}
+#menu ul li .div_static h3{padding-bottom:15px;padding-top:15px;font-size:12px;text-transform:uppercase}
+#menu ul li .div_static h3.title_2{margin-top:10px;border-top:1px dotted #c8c8c8;}
+#menu .column.product li.product_item p{color:#fff;padding-left:12px;}
+#menu ul li div.out_cat_parent{display:block;padding:0 20px;text-align:left}
+#menu ul li div.out_cat_parent a,
+#menu ul li .div_static h5{color:#191919;font:400 12px/15px "Open Sans",arial;text-transform:uppercase;padding-bottom:10px;}
+
+#menu > ul > li .out_cat_parent a.cat_parent + a{}
+#menu > ul > li .out_cat_parent a{padding:0;display:block;text-align:left}
+#menu ul li.cs_m_manufacter  div.options_list{padding:20px 20px 0 0}
+#menu ul li .manufacture .product_item{width:auto;float:left;padding:0 0 20px 20px;}
+#menu ul li .manufacture .product_item a{display:block;border:1px solid #e6e6e6;text-align:center;}
+#menu ul li .manufacture .product_item a img{max-width:100%;vertical-align:top}
+#menu ul li .ajax_block_product{padding:0 20px!important;overflow:hidden}
+#menu ul li .ajax_block_product + .ajax_block_product{margin-top:20px;}
+#menu ul li .ajax_block_product,#menu ul li .ajax_block_product a {}
+#menu ul li .ajax_block_product .image{float:left;padding-right:20px;margin-bottom:10px;}
+#menu ul li .ajax_block_product .product_image_menu{display:block}
+#menu ul li .ajax_block_product .product_image_menu img{max-width:100%}
+#menu ul li .ajax_block_product h3 a{color:#191919;font:400 12px/15px "Open Sans",arial;text-transform:uppercase;display:inline;#display:inline}
+#menu #cs_megamenu_more li .name_product{clear:both;display:block}
+#menu ul li a.product_image{text-align:center}
+#menu ul li .ajax_block_product a:hover{text-decoration:none}
+#menu ul li .ajax_block_product p{margin:0 0 5px}
+#menu ul li .ajax_block_product .exclusive{width:auto;padding:0 15px!important;text-transform:uppercase!important;display:inline-block!important;min-width:50px}
+.cs_hide_p .name_product,.cs_hide_p  .price{display:none}
+#menu ul li.cs_hide_p  .ajax_block_product .image{float:none;padding:0;margin-bottom:10px;}
+#menu ul li .ajax_block_product .exclusive:hover{color:#fff;text-decoration:none}
+.cs_st_img {text-align:center;margin-bottom:10px;}
+.cs_st_img  img{max-width:100%}
+/* Responsive Menu */
+#megamenu-responsive{
+    width:100%;position:relative;z-index:98;clear:both;
+    line-height:17px;display:none;text-align:left
+}
+
+.menu-toggle > p{ background: url("../img/menu.png") no-repeat scroll 50% center transparent;
+    display: block;
+    float: left;
+    height: 30px;
+    left: 5px;
+    margin: 0;
+    position: absolute;
+    top: 3px;
+    width: 30px;
+}
+
+.menu-toggle{
+    padding:5px;
+    margin:0!important;
+    background:#4f5a6a;
+    color:#fff;
+    font-size:14px;
+    cursor:pointer; text-align:center;position:relative
+}
+
+
+#megamenu-responsive-root{}
+#megamenu-responsive-root li.root{padding:0}
+#megamenu-responsive-root > li{padding:10px 0;display:block;text-transform:uppercase;font:400 14px/16px "Open Sans",arial;color:#fff}
+#megamenu-responsive-root > li a{padding:10px;display:block;background:#4f5a6a;color:#fff;text-align:center;font:400 14px/16px "Open Sans",arial; border-top:1px solid #616b79;    }
+#megamenu-responsive-root li.root > ul{
+    display:none;
+}
+
+#megamenu-responsive-root li.root.open > ul{
+    display:block;
+}
+
+#megamenu-responsive-root li.parent > ul{
+    display:none;
+}
+
+
+#megamenu-responsive li.parent {clear:both
+}
+#megamenu-responsive .root li{padding:0;}
+
+
+#megamenu-responsive .root li a:hover{
+    color:#55ADFF;text-decoration:none
+}
+
+#megamenu-responsive li.parent ul{clear:both;}
+#megamenu-responsive .root li ul{padding:0;overflow:hidden}
+#megamenu-responsive ul span{}
+
+#megamenu-responsive a{
+    display:block;
+}
+
+#megamenu-responsive li.parent > a span{
+    display:block;
+}
+
+#megamenu-responsive li.parent > p{
+    display:block;
+    float:right;
+    padding:0 10px;
+    width:10px;height:18px;line-height:19px;
+    text-align:center;
+    cursor:default;
+    font-weight:700;
+    font-size:18px;
+    color:#fff;
+    margin-top:9px;
+}
+a.product_image img{
+max-width : 100%;
+}
+#cs_megamenu_more .more-menu{right:0;width:180px!important;}
+#menu #cs_megamenu_more ul li.menu_item {padding:5px 20px;width:140px;}
+
+#cs_megamenu_more .more-menu div.options_list{top:0}
+/* Media Queries */
+@media only screen and (min-width:1024px) and (max-width: 1279px) {
+	
+	#menu > ul > li div a.cat_parent img{width:100%}
+}
+@media only screen and (max-width: 1023px) {
+	#menu ul li.menu_item a{min-width:auto;padding:0 10px}
+	#menu > ul > li div a.cat_parent img{width:100%}
+	#menu > ul > li .options_list ul{width:100%!important;margin-bottom:15px}
+}
+
+@media only screen and (max-width: 767px) {
+	#menu{display:none!important;}
+	#megamenu-responsive{display:block;margin-bottom:10px}
+}
+
+/* ipad */
+#cs_megamenu_more .more-menu li:hover div.options_list{display:block;left:auto;right:100%;}
+#cs_megamenu_more .more-menu li:hover div ul li div.options_list{display:none;}
+#cs_megamenu_more .more-menu li:hover div ul li:hover div.options_list{display:block;}
+#menu #cs_megamenu_more .more-menu li a.title_menu_parent{color:#646464}
+#menu #cs_megamenu_more .more-menu li:hover a.title_menu_parent{color:#fff}
+/*.spanOption,.spanColumn{display:none}*/
+/* ipad hover */
+/*@media only screen and (min-width:768px) and (max-width:1199px){
+#menu ul li.level-1.parent{padding-right:3px;padding-left:7px;}
+}*/
+
+.spanColumn,.spanOption{display:none}

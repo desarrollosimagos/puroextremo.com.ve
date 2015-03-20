@@ -1,0 +1,492 @@
+/*
+Theme created for use with Sequence.js (http://www.sequencejs.com/)
+
+Theme: Apple Style
+Version: 1.3
+Theme Author: Ian Lunn @IanLunn
+Author URL: http://www.ianlunn.co.uk/
+Theme URL: http://www.sequencejs.com/themes/apple-style/
+
+This is a FREE theme and is available under a MIT License:
+http://www.opensource.org/licenses/mit-license.php
+
+Sequence.js and its dependencies are (c) Ian Lunn Design 2012 - 2013 unless otherwise stated.
+
+/* !CSS RESET */
+/* prefix declarations */
+/* Keyframes */
+@-webkit-keyframes paused {
+  /* animate the pause button when Sequence is paused */
+  0% {
+    background-position: 0 0;
+    opacity: 0;
+  }
+
+  100% {
+    background-position: 0 0;
+    opacity: .7;
+  }
+}
+
+@-moz-keyframes paused {
+  /* animate the pause button when Sequence is paused */
+  0% {
+    background-position: 0 0;
+    opacity: 0;
+  }
+
+  100% {
+    background-position: 0 0;
+    opacity: .7;
+  }
+}
+
+@-ms-keyframes paused {
+  /* animate the pause button when Sequence is paused */
+  0% {
+    background-position: 0 0;
+    opacity: 0;
+  }
+
+  100% {
+    background-position: 0 0;
+    opacity: .7;
+  }
+}
+
+@-o-keyframes paused {
+  /* animate the pause button when Sequence is paused */
+  0% {
+    background-position: 0 0;
+    opacity: 0;
+  }
+
+  100% {
+    background-position: 0 0;
+    opacity: .7;
+  }
+}
+
+@keyframes paused {
+  /* animate the pause button when Sequence is paused */
+  0% {
+    background-position: 0 0;
+    opacity: 0;
+  }
+
+  100% {
+    background-position: 0 0;
+    opacity: .7;
+  }
+}
+
+
+
+@-webkit-keyframes preload {
+  /* preloader icons */
+  0% {
+    opacity: 0;
+  }
+
+  50% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+  }
+}
+
+@-moz-keyframes preload {
+  /* preloader icons */
+  0% {
+    opacity: 0;
+  }
+
+  50% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+  }
+}
+
+@-ms-keyframes preload {
+  /* preloader icons */
+  0% {
+    opacity: 0;
+  }
+
+  50% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+  }
+}
+
+@-o-keyframes preload {
+  /* preloader icons */
+  0% {
+    opacity: 0;
+  }
+
+  50% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+  }
+}
+
+@keyframes preload {
+  /* preloader icons */
+  0% {
+    opacity: 0;
+  }
+
+  50% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+  }
+}
+
+/* !Keyframes */
+#sequence-theme {
+  width: 100%;
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+
+#sequence-theme ol, #sequence-theme ul {
+  list-style: none;
+  margin: 0px;
+}
+.header-container #sequence-theme{margin-bottom: 0px;}
+/* when in fallback mode (for browsers that don't support transitions) hide anything outside of the Sequence container */
+#sequence.sequence-fallback {
+  overflow: hidden;
+}
+
+#sequence {
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+  /* Preloader */
+  /* !Preloader */
+  /* Frame Animations */
+  /* !Frame Animations */
+}
+
+
+
+
+#sequence > .sequence-canvas {
+  height: 100%;
+  width: 100%;
+}
+#sequence > .sequence-canvas > li {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  zoom: 1;
+	filter: alpha(opacity=0);
+	opacity: 0.0;
+webkit-transition: opacity 1s ease-in-out;
+  -moz-transition: opacity 1s ease-in-out;
+  -o-transition: opacity 1s ease-in-out;
+  transition: opacity 1s ease-in-out;
+background-size: cover;
+
+}
+#sequence > .sequence-canvas > li.animate-in{
+		filter: alpha(opacity=100);
+	opacity: 1.0;
+	webkit-transition: opacity 1s ease-in-out;
+  -moz-transition: opacity 1s ease-in-out;
+  -o-transition: opacity 1s ease-in-out;
+  transition: opacity 1s ease-in-out;
+
+}
+#sequence > .sequence-canvas > li.animate-out{
+	filter: alpha(opacity=0) !important;
+	opacity: 0.0 !important;
+	webkit-transition: opacity 1s ease-in-out;
+  -moz-transition: opacity 1s ease-in-out;
+  -o-transition: opacity 1s ease-in-out;
+  transition: opacity 1s ease-in-out;
+
+}
+#sequence > .sequence-canvas li > * {
+  position: absolute;
+}
+#sequence h2 {
+  
+  font-size: 36px;
+  margin: 0 0 6px 0;
+  padding: 5px 10px;
+  display: inline-block;
+  line-height: 38px;
+  float: left;
+clear: both;
+}
+#sequence h3 {
+  font-size: 20px;
+
+    margin: 0 0 6px 0;
+	display: inline-block;
+   padding: 5px 10px;
+   line-height: 22px;
+   float: left;
+clear: both;
+}
+#sequence .desc {
+	color: #fff;
+	padding: 5px 10px;
+	float: left;
+clear: both;
+font-size: 16px;
+line-height: 18px;
+	display: inline-block;
+}
+#sequence .controls {
+  height: 49px;
+  margin: 0 auto;
+  
+  position: relative;
+  top: 0;
+  width: 198px;
+  z-index: 9999;
+}
+.sequence-direction-nav span { background: rgba(255,255,255,0.5); width: 40px;  height: 50px; text-align: center; line-height: 53px; margin: -20px 0 0; display: block; position: absolute; top: 50%; z-index: 10; cursor: pointer; font-size: 36px; opacity: 0;   -moz-transition: all .3s ease;
+  -o-transition: all .3s ease;
+-webkit-transition: all .3s ease;
+transition: all .3s ease;}
+.sequence-direction-nav .sequence-next {right: 0px; }
+.sequence-direction-nav .sequence-next:before{ content: "\e601"; font-family: 'warehousefont';}
+.sequence-direction-nav .sequence-prev {left: 0px;  }
+.sequence-direction-nav .sequence-prev:before{ content: "\e600"; font-family: 'warehousefont';}
+#sequence:hover .sequence-next {opacity: 0.6; right: 20px;}
+#sequence:hover .sequence-prev {opacity: 0.6; left: 20px;}
+#sequence:hover .sequence-next:hover, #sequence:hover .sequence-prev:hover {opacity: 1; background: rgba(255,255,255,0.8);}
+
+
+
+
+#sequence .sequence-preloader {
+  height: 100%;
+  position: absolute;
+  width: 100%;
+  z-index: 999999;
+}
+#sequence .sequence-preloader img {
+  background: #ff9933;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -ms-border-radius: 6px;
+  -o-border-radius: 6px;
+  border-radius: 6px;
+  display: inline-block;
+  height: 12px;
+  opacity: 0;
+  position: relative;
+  top: -50%;
+  width: 12px;
+  -webkit-animation: preload 1s infinite;
+  -moz-animation: preload 1s infinite;
+  -ms-animation: preload 1s infinite;
+  -o-animation: preload 1s infinite;
+  animation: preload 1s infinite;
+}
+#sequence .sequence-preloader .preloading {
+  height: 12px;
+  margin: 0 auto;
+  top: 50%;
+  position: relative;
+  width: 48px;
+}
+#sequence .sequence-preloader img:nth-child(2) {
+  -webkit-animation-delay: 0.15s;
+  -moz-animation-delay: 0.15s;
+  -ms-animation-delay: 0.15s;
+  -o-animation-delay: 0.15s;
+  animation-delay: 0.15s;
+}
+#sequence .sequence-preloader img:nth-child(3) {
+  -webkit-animation-delay: 0.3s;
+  -moz-animation-delay: 0.3s;
+  -ms-animation-delay: 0.3s;
+  -o-animation-delay: 0.3s;
+  animation-delay: 0.3s;
+}
+#sequence .sequence-preloader .preloading-complete {
+  opacity: 0;
+  visibility: hidden;
+  -webkit-transition-duration: 1s;
+  -moz-transition-duration: 1s;
+  -ms-transition-duration: 1s;
+  -o-transition-duration: 1s;
+  transition-duration: 1s;
+}
+.sequence-pagination {
+
+  display: none;
+width: 100%;
+position: absolute;
+bottom: 10px;
+right: 7px;
+text-align: center;
+  z-index: 10;
+  -webkit-transition-duration: 0.5s;
+  -moz-transition-duration: 0.5s;
+  -ms-transition-duration: 0.5s;
+  -o-transition-duration: 0.5s;
+  transition-duration: 0.5s;
+}
+.sequence-pagination li {
+width: 13px;
+text-indent: -9999px;
+color: #fff;
+height: 13px;
+margin: 0 3px;
+display: inline-block;
+zoom: 1;
+background: #fff;
+cursor: pointer;
+filter: alpha(opacity=80);
+	opacity: 0.8;
+		transition: all 300ms ease-in-out;
+-moz-transition: all 300ms ease-in-out;
+-webkit-transition: all 300ms ease-in-out;
+-o-transition: all 300ms ease-in-out;
+}
+.sequence-pagination li.current {
+filter: alpha(opacity=100);
+	opacity: 1.0;
+  background: #000;
+color: #000;
+cursor: default;
+}
+.sequence-pagination li:hover {
+filter: alpha(opacity=100);
+	opacity: 1.0;
+  background: #000;
+color: #000;
+}
+#sequence li .seqslideText *{
+transform: translate(-200px,0px);
+-webkit-transform: translate(-200px,0px);
+-mox-transform: translate(-200px,0px);
+-webkit-transition-duration: 1s;
+-moz-transition-duration: 1s;
+-ms-transition-duration: 1s;
+-o-transition-duration: 1s;
+transition-duration: 1s;
+	}
+#sequence li .seqslideText {
+	z-index: 20;
+}
+#sequence li.animate-in .seqslideText *{
+transform: translate(0px,0px);
+-webkit-transform: translate(0px,0px);
+-mox-transform: translate(0px,0px);
+	}
+#sequence li.animate-out .seqslideText *{
+transform: translate(-200px,0px);
+-webkit-transform: translate(-200px,0px);
+-mox-transform: translate(-200px,0px);
+
+	}
+#sequence .animate-in h3 {
+transition-delay: .2s;
+-moz-transition-delay: .2s;
+-webkit-transition-delay: .2s;
+-o-transition-delay: .2s;
+}
+#sequence .animate-in .desc{
+transition-delay: .4s;
+-moz-transition-delay: .4s;
+-webkit-transition-delay: .4s;
+-o-transition-delay: .4s;	
+	}
+	
+#sequence .animate-out h3 {
+transition-delay: .4s;
+-moz-transition-delay: .4s;
+-webkit-transition-delay: .4s;
+-o-transition-delay: .4s;
+}
+#sequence .animate-out .desc{
+	
+transition-delay: .2s;
+-moz-transition-delay: .2s;
+-webkit-transition-delay: .2s;
+-o-transition-delay: .2s;
+	}
+#sequence .slidelink{width: 100%; height: 100%;
+text-indent: 100%;
+left: 0px;
+top: 0px;
+    white-space: nowrap;
+    overflow: hidden;
+	display: block;
+	transition: all 10ms linear;}
+#sequence .sequence_frame_wrapper{
+	position: relative !important;
+	height: 100%;
+}
+
+#sequence .animate-in .slidelink {
+	z-index: 99;
+	
+}
+@media only screen and (max-width: 480px) {
+	
+		#sequence > .sequence-canvas > li img, #sequence > .sequence-canvas > li > div > div {
+transform-origin: 0 0;
+-moz-transform-origin: 0 0;
+-webkit-transform-origin: 0 0;
+-o-transform-origin: 0 0;
+}
+	#sequence .desc{display:none;}	
+}
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	#sequence > .sequence-canvas > li img, #sequence > .sequence-canvas > li > div > div {
+transform-origin: 0 0;
+-moz-transform-origin: 0 0;
+-webkit-transform-origin: 0 0;
+-o-transform-origin: 0 0;
+
+}	
+	#sequence .desc{display:none;}
+}
+
+@media only screen and (min-width: 767px) and (max-width: 1000px) {
+	#sequence > .sequence-canvas > li img, #sequence > .sequence-canvas > li > div > div {
+transform: scale(0.58) !important;
+transform-origin: 0 0;
+-moz-transform-origin: 0 0;
+-webkit-transform-origin: 0 0;
+-o-transform-origin: 0 0;
+}
+}
+
+@media only screen and (min-width: 1001px) and (max-width: 1319px) {
+	#sequence > .sequence-canvas > li img, #sequence > .sequence-canvas > li > div > div {
+transform-origin: 0 0;
+-moz-transform-origin: 0 0;
+-webkit-transform-origin: 0 0;
+-o-transform-origin: 0 0;
+}
+}
+
+#page .seqwrap img{max-width: none !important}
+
+

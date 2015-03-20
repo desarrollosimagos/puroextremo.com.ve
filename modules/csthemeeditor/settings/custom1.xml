@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<setting>
+<bg_mode>wide_mode</bg_mode>
+<column>2_column_left</column>
+<column_class>grid_4,grid_20(4)</column_class>
+<header_color>#000000</header_color>
+<header_repeat>repeat</header_repeat>
+<text_header_color_text>#969696</text_header_color_text>
+<bkg_header_search_repeat>no-repeat</bkg_header_search_repeat>
+<bkg_header_search_border_color>#262626</bkg_header_search_border_color>
+<bkg_header_search_border_weight>1</bkg_header_search_border_weight>
+<bkg_header_search_border_style>solid</bkg_header_search_border_style>
+<footer_color>#000000</footer_color>
+<footer_repeat>repeat-x</footer_repeat>
+<menu_parrent_normal_color>#4f5a6a</menu_parrent_normal_color>
+<button_addtocart_normal_color>#4f5a6a</button_addtocart_normal_color>
+<block_title_repeat>repeat-x</block_title_repeat>
+<block_title_img>bkg_block_title_default.png</block_title_img>
+</setting>

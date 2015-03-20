@@ -1,0 +1,1 @@
+{if !$is_16}<li><a href="#idTab669" class="idTabHrefShort relatedPostsTab">{l s='Related Posts' mod='ph_relatedposts'}</a></li>{/if}

@@ -1,0 +1,23 @@
+#homepageadvertise2 ul{
+	list-style-type: none;
+}
+#homepageadvertise2 li{
+	list-style-type: none;
+	margin-bottom: 20px;
+}
+#homepageadvertise2 li img{width: 100%;
+	filter: alpha(opacity=100);
+	opacity: 1.0;
+	zoom: 1;
+	-webkit-backface-visibility: hidden;
+	-moz-backface-visibility:    hidden;
+	-ms-backface-visibility:     hidden;
+	transition: opacity 300ms ease-in-out;
+	-moz-transition: opacity 300ms ease-in-out;
+	-webkit-transition: opacity 300ms ease-in-out;
+	display: block;
+}
+#homepageadvertise2 li img:hover{
+	filter: alpha(opacity=85);
+	opacity: 0.85;
+}

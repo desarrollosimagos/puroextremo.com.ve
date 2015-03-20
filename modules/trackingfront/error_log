@@ -1,0 +1,1 @@
+[12-Jun-2014 14:33:58 America/Caracas] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/extremo/public_html/extremo/init.php:2) in /home/extremo/public_html/extremo/classes/Tools.php on line 108

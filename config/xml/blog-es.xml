@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ES - Blog Ecommerce de PrestaShop</title>
+	<atom:link href="http://www.prestashop.com/blog/es/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.prestashop.com/blog/es</link>
+	<description></description>
+	<lastBuildDate>Thu, 26 Feb 2015 15:51:20 +0000</lastBuildDate>
+	<language>es-ES</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.8.1</generator>
+	<item>
+		<title>10 preguntas antes de comenzar en e-commerce</title>
+		<link>https://www.prestashop.com/blog/es/10-preguntas-antes-de-comenzar-en-e-commerce/</link>
+		<comments>https://www.prestashop.com/blog/es/10-preguntas-antes-de-comenzar-en-e-commerce/#comments</comments>
+		<pubDate>Thu, 26 Feb 2015 15:51:20 +0000</pubDate>
+		<dc:creator><![CDATA[Kate Robinson]]></dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=12597</guid>
+		<description><![CDATA[<p>Lo mejor del comercio electrónico es que puedes montar tu negocio en cualquier lugar. Con PrestaShop, además, puedes hacerlo ¡ahora mismo y gratis! Pero antes de abrir tu tienda, debes plantearte algunas preguntas importantes. El pasado mes de febrero, PrestaShop estuvo en el Salón de los Emprendedores en París. Más de 65.000 futuros empresarios acudieron [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/10-preguntas-antes-de-comenzar-en-e-commerce/">10 preguntas antes de comenzar en e-commerce</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Lo mejor del comercio electrónico es que puedes montar tu negocio en cualquier lugar. Con PrestaShop, además, puedes hacerlo ¡ahora mismo y gratis! Pero antes de abrir tu tienda, debes plantearte algunas preguntas importantes.</p>
+<p>El pasado mes de febrero, PrestaShop estuvo en el Salón de los Emprendedores en París. Más de 65.000 futuros empresarios acudieron a la cita con un objetivo claro: aprender de las empresas con más éxito del sector (AirBnb, Google, etc.). Nuestro experto Christophe Bernon, aprovechando la presentación de nuestra nueva solución, <a href="https://www.prestashop.com/">PrestaShop Cloud</a>, repasó <strong>los puntos más importantes para abrir una tienda online</strong>. Queremos compartir con todos vosotros los detalles de esta presentación:<br />
+<span id="more-12597"></span></p>
+<h2 style="color: #366581"><img style="margin-right: 2px" alt="icon" src="http://www.prestashop.com/blog/es/files/2015/02/name.png" width="50" height="50" /> ¿Qué nombre le pongo a mi dominio?</h2>
+<p>El nombre de dominio influye en la cantidad de tráfico que atrae un sitio. Puedes optar por un nombre inspirado en palabras clave relacionadas con tus productos, o bien por un nombre de marca (complementado con páginas de mucho tráfico). <a href="https://www.prestashop.com/blog/es/como-elegir-el-dominio-adecuado-para-su-tienda-online/">Lee más sobre cómo escoger tu nombre de dominio</a>.</p>
+<h2 style="color: #366581"><img style="margin-right: 2px" alt="icon" src="http://www.prestashop.com/blog/es/files/2015/02/hosting.png" width="50" height="50" /> ¿Cómo escojo mi proveedor de alojamiento?</h2>
+<p>Existen tres variedades de alojamiento: compartido o exclusivo. ¿Estás empezando y tienes un catálogo reducido? Apuesta por un alojamiento compartido para reducir costes. Cuando tu negocio crezca, podrás pasarte a uno exclusivo con más capacidad (y velocidad). O puedes entrar directamente en la <a href="https://www.prestashop.com/">nube con PrestaShop Cloud</a>. Para tomar la decisión, ten en cuenta estos factores: velocidad (tiempos de carga), servicio al cliente, almacenamiento, dominios y seguridad. <a href="https://www.prestashop.com/blog/es/como-elegir-un-proveedor-de-hospedaje-web-para-tu-tienda-online/">Aquí tienes más información sobre cómo escoger a tu proveedor de alojamiento</a>.</p>
+<h2 style="color: #366581"><img style="margin-right: 2px" alt="icon" src="http://www.prestashop.com/blog/es/files/2015/02/payment.png" width="50" height="50" /> ¿Qué opciones de pago debo ofrecer?</h2>
+<p>El pago es uno de los elementos más importantes de la experiencia de compra: es esencial que tus clientes se sientan seguros a la hora de pagar. Lo recomendable para empezar son las soluciones de pago integradas que la gente ya conoce y en las que confía —como Paypal—. A medida que crezcas y conozcas a tus clientes, podrás añadir más opciones adaptadas a sus preferencias. <a href="https://www.prestashop.com/es/instalar-modulo-pago">Descubre cómo crear una experiencia de pago positiva</a>.</p>
+<h2 style="color: #366581"><img style="margin-right: 2px" alt="icon" src="http://www.prestashop.com/blog/es/files/2015/02/shipping.png" width="50" height="50" /> ¿Qué hago con los envíos y la logística?</h2>
+<p>Al principio es fácil darle un toque personal a los paquetes y los envíos. Pero cuando creces —¡y crecerás!—, tienes que pensar en automatizar el inventario y la gestión de pedidos y envíos para ahorrar tiempo y dinero. Muchos vendedores empiezan embalando y enviando sus artículos ellos mismos. Después&#8230; subcontratan la logística. Si optas por un sistema de <span style="font-style: italic">dropshipping</span>, ¡asegúrate de modificar la ficha de datos del producto con contenido original! Si no, tu tienda será igual que cualquier otra que trabaje con el mismo mayorista. ¿Tras un tiempo la subcontratación tiene más costes que beneficios? Entonces, ha llegado la hora de contratar a alguien para gestionar la logística internamente.</p>
+<p style="text-align: center"><img class="aligncenter  wp-image-12609" alt="seur" src="http://www.prestashop.com/blog/es/files/2015/02/seur.jpg" width="282" height="240" /></p>
+<p>Con unas estupendas tarifas de envío urgente e internacional con recogida, seguimiento y albarán de entrega, nosotros recomendamos el módulo SEUR para que tu tienda siga creciendo.<br />
+El módulo está totalmente integrado con Prestashop y propone un sistema de Envío a domicilio con geolocalización y recogida de pedidos en la red de Tiendas SEUR. Además SEUR te ayuda a seguir tus pedidos, las solicitudes de recogidas y los comprobantes de entrega. <a href="http://addons.prestashop.com/es/transporte-logistica-prestashop-modulos/16647-seur.html?utm_source=newsletter&amp;utm_medium=e-mail&amp;utm_campaign=newsletter-ES&amp;utm_content=seur">¡Descarga el módulo SEUR gratis!</a></p>
+<p><a href="https://www.prestashop.com/blog/es/gestione-la-logistica-de-su-tienda-online-desde-dentro/">Averigua cómo gestionar la logística.</a></p>
+<h2 style="color: #366581"><img style="margin-right: 2px" alt="icon" src="http://www.prestashop.com/blog/es/files/2015/02/communication.png" width="50" height="50" /> Cómo consigo que la gente visite mi tienda online?</h2>
+<p>Ya has creado tu tienda y todo está listo. Ahora, ¿cómo atraes ese famoso &#8220;tráfico&#8221;? Optimiza el contenido de tu sitio web para SEO y piensa en abrir un blog y actualizarlo regularmente. No te olvides de las redes sociales: son perfectas para aprender más sobre tus clientes y mantener el contacto. Renueva el contenido de tu sitio a menudo (actualiza las descripciones de productos, añade nuevos artículos o categorías y destaca lo más vendido). Si tu negocio de e-commerce está vivo y crece, ¡tu tienda online también debe evolucionar! <a href="https://www.prestashop.com/blog/es/cinco-consejos-para-aumentar-la-cesta-promedio-de-su-sitio-de-e-comercio/">Aprende a incrementar la visibilidad con cinco trucos a prueba de torpes</a>.</p>
+<h2 style="color: #366581"><img style="margin-right: 2px" alt="icon" src="http://www.prestashop.com/blog/es/files/2015/02/user.png" width="50" height="50" /> ¿Cómo consigo que los clientes vuelvan?</h2>
+<p>Deja de pensar en cuánto puedes vender y céntrate en cómo ayudar a tus clientes. Crea una relación positiva mediante un buen servicio al cliente y manteniendo el contacto con los usuarios. Si alguien no está contento, no lo ignores: ¡las palabras corren como la pólvora en Internet! <a href="https://www.prestashop.com/blog/es/los-mejores-metodos-de-fidelizacion-de-clientes/">Consulta estos consejos para incrementar la lealtad del cliente</a>.</p>
+<h2 style="color: #366581"><img style="margin-right: 2px" alt="icon" src="http://www.prestashop.com/blog/es/files/2015/02/exchangereturn.png" width="50" height="50" /> ¿Cómo gestiono los cambios y las devoluciones?</h2>
+<p>Tus procedimientos de devolución y cambio dicen mucho de ti. Inspira confianza a tus clientes con una política clara que indique: qué puede devolverse, cuánto se reembolsa, adónde deben dirigirse las devoluciones y en qué plazos, las condiciones para hacer cambios&#8230; y cualquier otro caso especial (¿qué pasa con las rebajas?). <a href="https://www.prestashop.com/blog/es/comercio-electronico-y-devoluciones/">Aprende a crear una política de cambios y devoluciones clara</a>.</p>
+<h2 style="color: #366581"><img style="margin-right: 2px" alt="icon" src="http://www.prestashop.com/blog/es/files/2015/02/plateform.png" width="50" height="50" /> ¿Qué es una plataforma de e-commerce y cómo consigo una?</h2>
+<p>Una plataforma de e-commerce es una solución de software que te permite crear una tienda online. Con PrestaShop, puedes tener tu propio alojamiento o alojar tu tienda en la nube, escoger un diseño adaptado a tu negocio y añadir módulos que te facilitarán la gestión e impulsarán las ventas. <a href="https://www.prestashop.com/blog/es/glosario-de-e-commerce-los-25-terminos-mas-usados-2/">Familiarízate con la jerga del e-commerce</a> y <a href="https://www.prestashop.com/">abre tu tienda</a>.</p>
+<h2 style="color: #366581"><img style="margin-right: 2px" alt="icon" src="http://www.prestashop.com/blog/es/files/2015/02/headset2.png" width="50" height="50" /> ¿Si necesito ayuda, a quién puedo contactar?</h2>
+<p>PrestaShop dispone de planes de soporte para ayudarte a desarrollar tu negocio online. Además, más de <a href="https://www.prestashop.com/es/asociados-agencia-web">150 agencias asociadas y programadores freelance</a> estarán orgullosos de acompañarte en tu proyecto e-commerce.</p>
+<h2 style="color: #366581"><img style="margin-right: 2px" alt="icon" src="http://www.prestashop.com/blog/es/files/2015/02/rocket.png" width="50" height="50" /> ¿Cómo lanzarme ahora sin miedo?</h2>
+<p>PrestaShop acaba de crear el <a href="http://ebusinessplan.prestashop.com/" target="_blank">concurso eBusiness Plan</a>. ¡Envíanos tu idea de negocio y gana uno de los cinco premios! Desde un año de asesoría empresarial hasta una tienda totalmente operativa alojada en PrestaShop Cloud con plantilla personalizada, formación y asistencia. ¿A qué esperas? ¡Envíanos ya tu gran idea! Fecha límite: 6 de marzo 2015.</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/10-preguntas-antes-de-comenzar-en-e-commerce/">10 preguntas antes de comenzar en e-commerce</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/10-preguntas-antes-de-comenzar-en-e-commerce/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Google Analytics para principiantes: ¿Por qué levanta pasiones?</title>
+		<link>https://www.prestashop.com/blog/es/google-analytics-para-principiantes-por-que-levanta-pasiones/</link>
+		<comments>https://www.prestashop.com/blog/es/google-analytics-para-principiantes-por-que-levanta-pasiones/#comments</comments>
+		<pubDate>Wed, 25 Feb 2015 09:30:20 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[Asociados PrestaShop]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=12591</guid>
+		<description><![CDATA[<p>Si vendes online, habrás oído hablar de Google Analytics (GA) a tu desarrollador, a tu diseñador o… en uno de nuestros boletines. Sin duda GA es una de las herramientas online más potentes pero la clave de su popularidad es que la versión estándar es totalmente gratuita. ¡Por eso hemos integrado sus funcionalidades en el [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/google-analytics-para-principiantes-por-que-levanta-pasiones/">Google Analytics para principiantes: ¿Por qué levanta pasiones?</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Si vendes online, habrás oído hablar de Google Analytics (GA) a tu desarrollador, a tu diseñador o… en uno de nuestros boletines. Sin duda GA es una de las herramientas online más potentes pero la clave de su popularidad es que la versión estándar es totalmente gratuita. ¡Por eso hemos integrado sus funcionalidades en el software PrestaShop!</p>
+<p>Suena muy bien, pero ¿qué es exactamente <a href="http://addons.prestashop.com/es/analytics-estadisticas-prestashop-modulos/4168-ganalytics.html" target="_blank">Google Analytics</a>? Vamos explicártelo de un modo sencillo, sin esos términos tecnológicos que te suenan a chino.</p>
+<p><span id="more-12591"></span></p>
+<h2 style="color: #f7981d">Google Analytics te ayuda a entender el comportamiento de tus clientes.</h2>
+<p>Instala GA en tu tienda online: sabrás qué hacen tus clientes en Internet. ¿Cómo? Imagina que tienes una tienda física y contratas a una persona para que apunte todo lo que hace cada cliente. Sus anotaciones serían algo así: &#8220;Mujer, 25-30 años, entra en la tienda a las 15:00, se acerca al nuevo expositor azul, examina tres artículos, va a la caja y los compra&#8221;.</p>
+<p>Google Analytics te informa de los enlaces en los que pinchan tus clientes. Si continuamos con el ejemplo anterior, GA describirá así la actuación del cliente: &#8220;Hace clic en la imagen azul, entra en esta categoría, revisa tres productos y cierra la ventana. Ha pasado cinco minutos en el sitio web&#8221;. ¿Quieres saber más? Google Analytics ofrece información demográfica de los clientes (como edad y sexo) y detalles como el tiempo que pasa un usuario viendo un artículo concreto.</p>
+<p>GA te da una idea de la actividad de tus clientes incluso antes de entrar en tu sitio web. Así sabrás exactamente de dónde vienen… y entenderás mejor cómo han encontrado tu tienda online.</p>
+<h2 style="color: #f7981d">Google Analytics convierte datos en información.</h2>
+<p>Si observas los datos, sabrás cómo se mueve cada persona por tu sitio web. ¿Y para qué? ¿Acaso importa si un cliente que ha pinchado en la imagen azul está cinco minutos en la tienda? No. Sin referencias para comparar, los datos carecen de valor porque no dicen nada nuevo sobre tu tienda.</p>
+<p>GA reúne todos los datos recopilados y los procesa para ofrecerte información sobre tu sitio web. Por ejemplo: suma el tiempo que todos los clientes pasan en tu sitio web, lo divide entre el número de visitantes y te dice cuál es el tiempo medio de las visitas a tu tienda. ¡Ahora ya sabes si una visita de cinco minutos está por encima o por debajo de la media!</p>
+<p>Aquí tienes algunos ejemplos de información que puedes conseguir con Google Analytics:</p>
+<ul style="padding-left: 30px">
+<li>Tráfico de visitantes durante un periodo concreto</li>
+<li>Relación entre visitantes nuevos y habituales</li>
+<li>Fuentes que te proporcionan la mayor cantidad de tráfico</li>
+<li>Oportunidades procedentes de campañas en redes sociales</li>
+<li>Productos que más se añaden al carrito</li>
+<li>Comportamiento de compra de los clientes</li>
+</ul>
+<h2 style="color: #f7981d">Google Analytics te ayuda a tomar decisiones más inteligentes.</h2>
+<p>Con Google Analytics tendrás estadísticas e información sobre cualquier aspecto relacionado con tu sitio web. Sin embargo, no toda la información es relevante. Por ejemplo, si vendes online en los Estados Unidos, ¿te interesarán esos tres visitantes de Brasil? Seguramente no. Pero querrás saber desde que páginas han llegado a tu sitio web tus visitantes estadounidenses y quizá desde qué estado están buscando.</p>
+<p>Si configuras GA, podrás crear informes que incluyan solo la información que necesitas en un momento concreto. ¿Quieres un informe de marketing con el tráfico entrante y otro informe financiero separado que incluya solo el tráfico procedente de campañas de Google AdWords? No hay problema, cada informe te da solo los datos que necesitas, cuando los necesitas. Antes de empezar, lee esta entrada: <a href="https://www.prestashop.com/blog/es/diez-metricas-esenciales-de-e-commerce-para-google-analytics/">Diez métricas esenciales de e-commerce para Google Analytics</a>.</p>
+<h2 style="color: #f7981d">Google Analytics te ayuda a vender más.</h2>
+<p>Las tiendas online son más complejas que los sitios web no transaccionales, por lo que el seguimiento de los clientes también es más complejo. Por eso GA lanzó hace poco la herramienta de <a href="https://support.google.com/analytics/answer/6014841?hl=es&amp;ref_topic=6014839" target="_blank">comercio electrónico mejorado</a> Ya puedes controlar los hábitos de compra de tus clientes: sabrás cómo buscan los productos, cómo los añaden al carrito y, lo más importante, cómo finalizan la compra.</p>
+<p><a href="http://analytics.blogspot.com/2014/11/brian-gavin-diamonds-sees-60-increase.html" target="_blank">La opción de comercio electrónico mejorado de Google Analytics</a> te aporta información como:</p>
+<ul style="padding-left: 30px">
+<li>Número medio de productos por pedido</li>
+<li>Valor medio de cada transacción</li>
+<li>Última página visitada antes de hacer la compra</li>
+<li>Eficacia de las ventas cruzadas y las sugerencias de artículos de gama más alta</li>
+<li>Clics en las promociones internas o los banners</li>
+</ul>
+<h2 style="color: #f7981d">Google Analytics en pocas palabras</h2>
+<p>Google Analytics recopila y procesa los datos de tu sitio web y los convierte en información útil y segmentada. ¡Decide con cabeza e incrementa las ventas!</p>
+<hr align="left" width="20%" />
+<p>Nosotros ya hemos desmitificado Google Analytics, ahora te toca a ti: aprende más sobre la actividad de tus clientes en tu tienda online. Si aún no has instalado el <a href="http://addons.prestashop.com/es/analytics-estadisticas-prestashop-modulos/4168-ganalytics.html">módulo Google Analytics</a>, descárgalo ya. ¡Y empieza a <a href="https://www.prestashop.com/blog/en/how-to-use-google-analytics-to-improve-marketing-for-your-online-store/">usar Google Analytics para mejorar el marketing de tu tienda online</a>!</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/google-analytics-para-principiantes-por-que-levanta-pasiones/">Google Analytics para principiantes: ¿Por qué levanta pasiones?</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/google-analytics-para-principiantes-por-que-levanta-pasiones/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>4 consejos para vender online en Latinoamérica</title>
+		<link>https://www.prestashop.com/blog/es/4-consejos-para-vender-online-en-latinoamerica/</link>
+		<comments>https://www.prestashop.com/blog/es/4-consejos-para-vender-online-en-latinoamerica/#comments</comments>
+		<pubDate>Mon, 23 Feb 2015 08:36:37 +0000</pubDate>
+		<dc:creator><![CDATA[Magali Ferber]]></dc:creator>
+				<category><![CDATA[Asociados PrestaShop]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=12586</guid>
+		<description><![CDATA[<p>Hemos hablado ya varias veces sobre como crear una tienda online exitosa, pero hoy te proponemos una serie de consejos específicos para Latinoamérica. Este artículo te ayudará a sobrepasar las barreras del comercio electrónico en América Latina, con detalles y sugerencias para que puedas mejorar cuatro elementos fundamentales para vender exitosamente en Latinoamérica. 1. Aumenta [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/4-consejos-para-vender-online-en-latinoamerica/">4 consejos para vender online en Latinoamérica</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Hemos hablado ya varias veces sobre como crear una tienda online exitosa, pero hoy te proponemos una serie de consejos específicos para Latinoamérica. Este artículo te ayudará a sobrepasar las barreras del comercio electrónico en América Latina, con detalles y sugerencias para que puedas mejorar cuatro elementos fundamentales para vender exitosamente en Latinoamérica.<br />
+<span id="more-12586"></span></p>
+<h2 style="color:#00378d">1. Aumenta el tráfico hacia tu tienda</h2>
+<p>Si deseas que tu marca sea reconocida por el grupo de consumidores que intentas atraer, puedes utilizar diferentes canales de promoción tales como redes sociales. El mercado Latino americano todavía confía en los medios tradicionales como radio, televisión y prensa, que pueden tener un costo de promoción mayor y cuyos resultados son más difíciles de evaluar.<br />
+Para obtener tráfico directo, te recomendamos que hagas una búsqueda de artículos en blogs, periódicos y revistas digitales que se relacionen con tu tienda online. Lo ideal es que trates de ponerte en contacto con el autor del blog o artículo. Dependiendo de tu especialización, siempre encontrarás a algún periodista interesado en compartir la historia de tu tienda online.</p>
+<h2 style="color:#00378d">2. Encuentra tu nicho en el mercado</h2>
+<p>Las compras en tiendas físicas siguen siendo el mayor hábito de consumo en Latinoamérica, sin embargo hay varias maneras de diferenciarse tanto de la competencia en línea, como de la competencia física: precios más bajos de los ofrecidos en los canales tradicionales, envíos a zonas en donde no existe competencia o personalización online de productos que le permite a tu cliente generar una experiencia más cercana con tu marca.<br />
+No dudes en hacer las búsquedas necesarias para estar bien posicionado en el mercado. Los medios de pago alternativos son fundamentales en el mercado Latinoamericano. Ofreciendo transferencias bancarias y pagos en efectivo en puntos autorizados, podrás alcanzar al gran porcentaje de usuarios de la región que no tienen una tarjeta de crédito o aun prefieren no usarla para pagos en línea. Con un procesador de pagos como <a href="http://addons.prestashop.com/es/pagos-prestashop-modulos/6631-payu-latam.html" target="_blank">PayU Latam</a>, que viene ya integrado en tu tienda PrestaShop, tendrás acceso a más de 70 opciones de pago, incluyendo depósitos en efectivo, transferencias bancarias locales y tarjetas de crédito locales e internacionales. Este módulo gratuito te permitirá encontrar tu nicho en el mercado, ¡sin barreras!. Lo único que tienes que hacer es activarlo en tu back office.</p>
+<h2 style="color:#00378d">3. Proporciona información valiosa</h2>
+<p>Los usuarios que visitan tiendas online, lo hacen con el propósito de informarse sobre la compra de un producto. Cuanto más información proporciones sobre el proceso de venta y sobre tus productos, más visitantes se convertirán en clientes.<br />
+De hecho, los consumidores no solo <a href="http://internetesmercadeo.com/consumidores-online-se-informan-mucho-mas-antes-de-comprar/" target="_blank">se informan antes de comprar</a>, sino que además buscan opiniones de otros consumidores y valoran las empresas que demuestran transparencia permitiéndoles ver estos comentarios.<br />
+Concéntrate en tu consumidor, ¿Que crees que le interesará saber? Puedes basarte en estos elementos para mejorar la calidad de tu contenido:</p>
+<ul style="padding-left:30px">
+<li>Información de contacto</li>
+<li>Descripciones de producto completas</li>
+<li>Imágenes profesionales y consistentes</li>
+<li>Clarificaciones del proceso de compra</li>
+<li>Opciones de envío claras</li>
+<li>Póliza de garantía, cambios y retornos disponible</li>
+</ul>
+<h2 style="color:#00378d">4. Destaca la seguridad de tus transacciones</h2>
+<p>El comercio electrónico está creciendo muy rápidamente en el mundo entero, y poco a poco esta tendencia va invadiendo América Latina. Sin embargo, la compra y la venta online todavía generan dudas en los consumidores. Es imprescindible minimizar las dudas destacando la legitimidad de tu empresa y la seguridad de tu método de pago.<br />
+Asegúrate que tu tienda tenga referencias que muestran la credibilidad de tu empresa. Por ejemplo, PrestaShop te permite colocar la información de tu empresa en el pie de página. Una dirección, un correo electrónico y un número de teléfono ayudan a generar confianza en el usuario. Puedes leer más sobre esto en nuestra <a href="https://www.prestashop.com/blog/es/la-guia-completa-para-crear-las-paginas-cms-de-tu-tienda-online/https://www.prestashop.com/blog/es/la-guia-completa-para-crear-las-paginas-cms-de-tu-tienda-online/">guia completa para crear el contenido de tus páginas CMS</a>.</p>
+<p>Pero no basta solo con esta información. Incorpora elementos que aseguren a los futuros clientes de la seguridad de tus transacciones, sobre todo en Latinoamérica, donde la desconfianza por parte de los usuarios se agudiza debido al miedo a lo desconocido, en este caso el miedo a todo lo que es transacciones online.<br />
+Un proveedor de servicio de pagos como <a href="http://addons.prestashop.com/es/pagos-prestashop-modulos/6631-payu-latam.html" target="_blank">PayU Latam</a> te dará la seguridad y el respaldo que necesitas para asegurar altos estándares de protección de datos. Transmite esta autenticidad a tus clientes y generarás la confianza que necesitan para hacer click en el botón “Comprar”. <a href="http://www.payulatam.com/" target="_blank">PayU Latam</a> te ofrece una <a href="http://www.payulatam.com/logos" target="_blank">página oficial de logos</a> que podrás insertar en tu tienda virtual para darle tranquilidad a tus clientes.</p>
+<p>Si aún no vendes online, prueba el nuevo <a href="https://www.prestashop.com/">software de e-commerce PrestaShop Cloud</a>. ¡Podrás crear tu tienda online gratis, con un par de clicks! </p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/4-consejos-para-vender-online-en-latinoamerica/">4 consejos para vender online en Latinoamérica</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/4-consejos-para-vender-online-en-latinoamerica/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>5 ventajas de vender productos digitales online</title>
+		<link>https://www.prestashop.com/blog/es/las-cinco-ventajas-de-vender-productos-digitales-online/</link>
+		<comments>https://www.prestashop.com/blog/es/las-cinco-ventajas-de-vender-productos-digitales-online/#comments</comments>
+		<pubDate>Wed, 18 Feb 2015 09:30:02 +0000</pubDate>
+		<dc:creator><![CDATA[Magali Ferber]]></dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=12562</guid>
+		<description><![CDATA[<p>Juegos, libros electrónicos, películas, música, diseños gráficos y aplicaciones informáticas: estos son algunos de los productos digitales que ya puedes comprar online. Jimena Díaz de Vivar, propietaria de la tienda PrestaShop Dulzura de papel, nos cuenta su experiencia en este campo: vende plantillas para material impreso de fiestas temáticas (como invitaciones, pósters, servilletas o menús). [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/las-cinco-ventajas-de-vender-productos-digitales-online/">5 ventajas de vender productos digitales online</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Juegos, libros electrónicos, películas, música, diseños gráficos y aplicaciones informáticas: estos son algunos de los productos digitales que ya puedes comprar online. Jimena Díaz de Vivar, propietaria de la tienda PrestaShop <a href="http://dulzuradepapel.com/" target="_blank">Dulzura de papel</a>, nos cuenta su experiencia en este campo: vende plantillas para material impreso de fiestas temáticas (como invitaciones, pósters, servilletas o menús).<br />
+Si estás pensando en vender tus creaciones digitales online, repasa los consejos que nos ha dejado: ¡puede ser la jugada perfecta para tu negocio!</p>
+<p><span id="more-12562"></span></p>
+<h2 style="color: #b23485">Stock ilimitado</h2>
+<p>Los productos digitales tienen la ventaja de que nunca están &#8220;sin stock&#8221;. Si el cliente está interesado en comprarlo, puedes venderlo.</p>
+<p>Pero eso no significa que estos artículos duren para siempre, se quedan anticuados&#8230; como todos. Jimena actualiza los diseños de su tienda online cada temporada para adaptarse a las nuevas tendencias. Es importante renovar el catálogo y estar al tanto de las necesidades de los clientes en cada momento.</p>
+<h2 style="color: #b23485">Bajos costes</h2>
+<p>Los costes de inventario pueden suponer hasta un 75% del precio de un producto de venta al por menor. Sin embargo, si creas tú mismo un producto digital (por ejemplo, si escribes un libro y lo vendes online), ¡tu coste de inventario baja a 0€! No hay duda de que reducirás notablemente el coste de apertura de tu tienda online.</p>
+<p>Pero recortar el coste del inventario no es la única forma de ahorrar. Sin inventario físico, también eliminas los costes de envío, almacenamiento y gestión de stock.</p>
+<h2 style="color: #b23485">Mercado internacional</h2>
+<p>A diferencia de los productos físicos, los productos digitales no se enfrentan a obstáculos como las restricciones de envío o aduaneras. Si vendes productos descargables, no importa lo lejos que esté tu cliente: ¡puedes llegar a cualquiera que tenga acceso a Internet! &#8220;Tienes millones de clientes potenciales que están a miles de kilómetros de ti&#8221;, nos recuerda Jimena.</p>
+<p>Los pedidos nacionales e internacionales son muy similares. Jimena explica que &#8220;PrestaShop simplifica la venta internacional: su geolocalización mediante direcciones IP adapta las divisas de la tienda y el idioma de las páginas y muestra los métodos de pago pertinentes. ¡Te lo da todo hecho!&#8221;</p>
+<h2 style="color: #b23485">Horario de trabajo flexible</h2>
+<p>Está claro que tener tu propio negocio te da muchísima libertad. Pero si vendes productos físicos, ¿no estás acaso atado a tu oficina y al horario laborable? Un ejemplo: cuando haces una venta, tienes que preparar el pedido, embalarlo y etiquetarlo antes de que cierre el transportista para asegurarte de que sale a tiempo.</p>
+<p>Los artículos digitales no tienen esas limitaciones. Puedes fijar tu propio horario y trabajar cuándo y dónde quieras. Los pedidos de los clientes se &#8220;envían&#8221; virtualmente de forma automática. Esta automatización nos lleva a la siguiente ventaja.</p>
+<h2 style="color: #b23485">Sistema automatizado</h2>
+<p>¿Y si los productos se enviaran automáticamente por correo o mediante descarga después de la compra? Con PrestaShop es posible. Solo tienes que configurarlo y asegurarte de que el sistema funciona correctamente. &#8220;Lo que me animó a crear Dulzura de Papel fue la flexibilidad que podía darme una tienda online. Cuando lo tienes todo configurado, la tienda funciona sin que tú hagas nada. Los productos se venden solos&#8221;, nos cuenta Jimena.</p>
+<h2 style="color: #b23485">Lo que tienes que recordar</h2>
+<ul style="padding-left: 30px">
+<li>Con los productos digitales, nunca te quedarás sin stock</li>
+<li>Reducirás los costes de inventario, envío y almacenamiento</li>
+<li>Llegarás a mercados internacionales sin problemas</li>
+<li>Trabajarás cuándo y dónde quieras</li>
+<li>Las funciones automatizadas facilitan la venta</li>
+</ul>
+<p>¿Estás listo para empezar a vender productos digitales online con PrestaShop? Échale un vistazo a esta <a href="http://www.matthewwoodward.co.uk/tutorials/sell-digital-products-online-prestashop/" target="_blank">serie de videotutoriales</a> creada por Matthew Woodward. Cuenta todos los secretos para abrir tu propia tienda online digital.</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/las-cinco-ventajas-de-vender-productos-digitales-online/">5 ventajas de vender productos digitales online</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/las-cinco-ventajas-de-vender-productos-digitales-online/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>8 paneles de Google Analytics para e-commerce</title>
+		<link>https://www.prestashop.com/blog/es/ocho-paneles-de-google-analytics-para-e-commerce/</link>
+		<comments>https://www.prestashop.com/blog/es/ocho-paneles-de-google-analytics-para-e-commerce/#comments</comments>
+		<pubDate>Mon, 16 Feb 2015 09:30:20 +0000</pubDate>
+		<dc:creator><![CDATA[Kunle Campbell (Guest Contributor)]]></dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=12566</guid>
+		<description><![CDATA[<p>Google Analytics es una verdadera mina de datos: ¡te ayudará a entender el comportamiento de compra, el tráfico de referencia y las tasas de conversión de tu tienda online! Pero para poder aprovechar al máximo estos datos necesitas algo de organización. ¿Queréis saber cuál es mi herramienta favorita para obtener una visión rápida y clara [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/ocho-paneles-de-google-analytics-para-e-commerce/">8 paneles de Google Analytics para e-commerce</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Google Analytics es una verdadera mina de datos: ¡te ayudará a entender el comportamiento de compra, el tráfico de referencia y las tasas de conversión de tu tienda online! Pero para poder aprovechar al máximo estos datos necesitas algo de organización. ¿Queréis saber cuál es mi herramienta favorita para obtener una visión rápida y clara de la situación? &#8220;Los paneles&#8221;. Aquí tenéis los ocho que más me gustan.<br />
+<span id="more-12566"></span></p>
+<h4 style="color: #ff9900">Conoce el rendimiento de tu tienda online con los paneles</h4>
+<p><img class="alignleft  wp-image-19591" alt="GA" src="http://www.prestashop.com/blog/es/files/2015/02/0.GA_.png" width="326" height="398" />Revisar todos los datos sobre tráfico y conversiones es coser y cantar con los paneles de Google Analytics. Esta colección de aplicaciones personalizables tiene una utilidad muy clara: obtener resúmenes de los informes más importantes de tu cuenta.</p>
+<p>Los paneles permiten a gestores de tiendas online y especialistas en marketing:</p>
+<ul style="padding-left: 30px">
+<li>Consultar métricas e informes regularmente</li>
+<li>Compartir los informes con otros interesados (como la directiva, el equipo de marketing o el propietario de la tienda)</li>
+<li>Ver informes y cambiar segmentos y rangos de fechas con total flexibilidad</li>
+</ul>
+<p>Hay que tener en cuenta que los paneles de Google Analytics:</p>
+<ul style="padding-left: 30px">
+<li>Admiten un máximo de 12 widgets (cuadros) por informe</li>
+<li>Están limitados a un máximo de 10 filas por widget</li>
+<li>Cada cuenta de Analytics puede tener hasta 20 paneles</li>
+</ul>
+<p>Estos son ocho paneles muy recomendables para e-commerce&#8230; ¡que encontraréis gratis en la <a href="https://www.google.com/analytics/gallery/#posts/search/%3F_.type%3DDASHBOARD%26_.start%3D0/" target="_blank">galería de soluciones de Google Analytics</a>:</p>
+<h2 style="color: #068cc9"><a style="font-family: 'Roboto Condensed', Tahoma, Verdana, sans-serif;font-size: 28px;color: #068cc9;text-decoration: underline" href="https://www.google.com/analytics/gallery/#posts/search/%3F_.viewId%3DfJa880IAQseTLF0SddcsmQ" target="_blank">1. Panel de e-commerce</a></h2>
+<p>Creado por Blast Analytics &amp; Marketing</p>
+<p><img class="aligncenter size-large wp-image-19592" alt="Ecommerce Dashboard By Blast Analytics Marketing" src="http://www.prestashop.com/blog/es/files/2015/02/1.-Ecommerce-Dashboard-By-Blast-Analytics-Marketing-1024x522.png" width="700" height="356" /></p>
+<p>Un magnífico punto de referencia para empezar la semana o terminar el mes. Resume métricas clave como:</p>
+<ul style="padding-left: 30px">
+<li>Visitas</li>
+<li>Visitas e ingresos de productos desde el móvil (incluidas tabletas)</li>
+<li>Visitas e ingresos de productos por fuente/medio</li>
+<li>Tasas de conversión de e-commerce</li>
+<li>Ingresos totales</li>
+<li>Transacciones</li>
+<li>Valor medio del pedido</li>
+<li>Valor por visita</li>
+<li>Los diez productos que generan más ingresos</li>
+</ul>
+<p>Te permite controlar el rendimiento y saber cuáles son los productos que mejor se venden y los canales que más convierten.</p>
+<h2 style="color: #068cc9"><a style="font-family: 'Roboto Condensed', Tahoma, Verdana, sans-serif;font-size: 28px;color: #068cc9;text-decoration: underline" href="https://www.google.com/analytics/gallery/#posts/search/%3F_.viewId%3D8USYBWAaQ5eDjl_XaKeLmQ" target="_blank">2. Panel de e-commerce móvil</a></h2>
+<p>Creado por Justin Cutroni</p>
+<p><img class="aligncenter size-large wp-image-19593" alt="Mobile Ecommerce Dashboard  By Justin Cutroni" src="http://www.prestashop.com/blog/es/files/2015/02/2.-Mobile-Ecommerce-Dashboard-By-Justin-Cutroni--1024x552.png" width="700" height="377" /></p>
+<p>Si quieres entender el comportamiento de los usuarios que usan dispositivos móviles, este es tu panel.<br />
+Sus widgets incluyen:</p>
+<ul style="padding-left: 30px">
+<li>Ingresos de tráfico móvil</li>
+<li>Campañas de móvil con mejor rendimiento (requiere etiquetado UTM)</li>
+<li>Palabras clave orgánicas desde dispositivos móviles</li>
+<li>Tasa de rebote frente a sesión media</li>
+<li>Páginas más visitadas desde dispositivos móviles</li>
+<li>Ingresos de móvil y valor medio de pedido (AOV)</li>
+<li>Productos más comprados desde dispositivos móviles</li>
+</ul>
+<h2 style="color: #068cc9"><a style="font-family: 'Roboto Condensed', Tahoma, Verdana, sans-serif;font-size: 28px;color: #068cc9;text-decoration: underline" href="https://www.google.com/analytics/gallery/#posts/search/%3F_.viewId%3DoMS4jWBURDG4J9RakRx5-Q" target="_blank">3. Panel SEO de e-commerce</a></h2>
+<p>Creado por Vagelis Varfis | Nudge Digital</p>
+<p><img class="aligncenter size-large wp-image-19601" alt="Ecommerce SEO Dashboard" src="http://www.prestashop.com/blog/es/files/2015/02/3.-Ecommerce-SEO-Dashboard-1024x602.png" width="700" height="411" /></p>
+<p>A los responsables del SEO para e-commerce les encantará este panel. Pero hay que tener en cuenta que el 80 o 90% de las veces, &#8220;no se facilita&#8221; el tráfico orgánico por palabras clave&#8230; lo que quiere decir que los datos se basan en una muestra. ¿Quieres una visión más detallada? Usa estos datos en combinación con las herramientas para webmasters de Google.</p>
+<p>Además de los cuatro widgets centrados en el tráfico y los ingresos, este panel incorpora otros específicos para SEO:</p>
+<ul style="padding-left: 30px">
+<li>Buscadores que generan transacciones (excluido tráfico de marca)</li>
+<li>Fuentes de tráfico que generan transacciones (excluido tráfico de marca)</li>
+<li>Palabras clave orgánicas no de marca que generan ingresos (requiere configuración)</li>
+<li>Palabras clave de búsqueda orgánica no de marca con el mayor valor medio de pedido (requiere configuración)</li>
+<li>Términos de búsqueda orgánica no de marca más populares</li>
+<li>Términos internos de búsqueda que han generado ingresos</li>
+</ul>
+<h2 style="color: #068cc9"><a style="font-family: 'Roboto Condensed', Tahoma, Verdana, sans-serif;font-size: 28px;color: #068cc9;text-decoration: underline" href="https://www.google.com/analytics/gallery/#posts/search/%3F_.viewId%3DijKy1DMRQSuqjek-w4WfHQ" target="_blank">4. [DP6] Campañas de pago en buscadores</a></h2>
+<p>Creado por Thiago Doin (@thiagodoin)</p>
+<p><img class="aligncenter size-large wp-image-19594" alt="[DP6] Paid Search Campaigns By Thiago Doin (@thiagodoin)" src="http://www.prestashop.com/blog/es/files/2015/02/4.-DP6-Paid-Search-Campaigns-By-Thiago-Doin-@thiagodoin--1024x540.png" width="700" height="369" /></p>
+<p>Este panel es perfecto para saber cómo ha funcionado una campaña AdWords de un vistazo. Su idioma original es el portugués pero se pueden mostrar las etiquetas en cualquier idioma. Los widgets incluyen:</p>
+<ul style="padding-left: 30px">
+<li>Ingresos procedentes de AdWords</li>
+<li>Gasto en AdWords</li>
+<li>Transacciones, CPA y conversiones</li>
+<li>Visitas procedentes de AdWords</li>
+<li>Las diez regiones que más compran vía AdWords</li>
+<li>Los diez productos más comprados vía AdWords</li>
+</ul>
+<h2 style="color: #068cc9"><a style="font-family: 'Roboto Condensed', Tahoma, Verdana, sans-serif;font-size: 28px;color: #068cc9;text-decoration: underline" href="https://www.google.com/analytics/gallery/#posts/search/%3F_.viewId%3D9pw2EKPSRBqpVQ2iMcoB1g" target="_blank">5. Panel de crecimiento del tráfico </a></h2>
+<p>Creado por Cemal Buyukgokcesu</p>
+<p><img class="aligncenter size-large wp-image-19595" alt="Engagement &amp; Loyalty Dashboard, Traffic Growth Dashboard  By Cemal Buyukgokcesu" src="http://www.prestashop.com/blog/es/files/2015/02/5.-Engagement-Loyalty-Dashboard-Traffic-Growth-Dashboard-By-Cemal-Buyukgokcesu--1024x548.png" width="700" height="374" /></p>
+<p>El panel sobre crecimiento del tráfico aporta una visión completa de la evolución del tráfico. Informe de widgets</p>
+<ul style="padding-left: 30px">
+<li>Datos sobre visitas</li>
+<li>Visitantes activos</li>
+<li>Fuentes de tráfico</li>
+<li>Fuentes de tráfico por zona geográfica</li>
+<li>Tráfico móvil desglosado por SO (iOS, Android o Windows)</li>
+<li>Tráfico por dispositivo móvil</li>
+<li>Los diez primeros dominios de referencia</li>
+<li>Las diez primeras referencias sociales</li>
+</ul>
+<h2 style="color: #068cc9"><a style="font-family: 'Roboto Condensed', Tahoma, Verdana, sans-serif;font-size: 28px;color: #068cc9;text-decoration: underline" href="https://www.google.com/analytics/gallery/#posts/search/%3F_.viewId%3DerNMqvwYQIWKDiA7dkHbJQ" target="_blank">6. Panel de redes sociales</a></h2>
+<p>Creado por Justin Cutroni</p>
+<p><img class="aligncenter size-large wp-image-19596" alt="Social Media Dashboard By Justin Cutroni" src="http://www.prestashop.com/blog/es/files/2015/02/6.-Social-Media-Dashboard-By-Justin-Cutroni--1024x550.png" width="700" height="375" /></p>
+<p>Este panel ofrece una instantánea del tráfico procedente de referencias de redes sociales. Entre sus widgets más útiles destacan:</p>
+<ul style="padding-left: 30px">
+<li>Acciones de redes sociales en el sitio</li>
+<li>Valor del tráfico de redes sociales</li>
+<li>Tráfico de redes sociales desde dispositivos móviles</li>
+<li>Ingresos y valor por visita procedentes de redes sociales</li>
+<li>Tráfico social que &#8220;lee un artículo&#8221;</li>
+</ul>
+<h2 style="color: #068cc9"><a style="font-family: 'Roboto Condensed', Tahoma, Verdana, sans-serif;font-size: 28px;color: #068cc9;text-decoration: underline" href="https://www.google.com/analytics/gallery/#posts/search/%3F_.viewId%3DpONDBX8LSseVK2Zq-WdVMw" target="_blank">7. Panel de correo electrónico</a></h2>
+<p>Creado por Blast Analytics &amp; Marketing</p>
+<p><img class="aligncenter size-large wp-image-19597" alt="Email Dashboard By Blast Analytics &amp; Marketing" src="http://www.prestashop.com/blog/es/files/2015/02/7.-Email-Dashboard-By-Blast-Analytics-Marketing--1024x561.png" width="700" height="383" /></p>
+<p>Este panel es indispensable si usas emails marketing para impulsar las ventas de tu tienda (¡y deberías hacerlo!). Sus widgets más útiles aportan datos esenciales sobre el tráfico generado por los emails marketing:</p>
+<ul style="padding-left: 30px">
+<li>Ingresos por email marketing (basado en la asignación de la última interacción)</li>
+<li>Tasa de rebote del tráfico procedente de correos: te ayuda a evaluar la eficacia del texto de tu email y de tu página de aterrizaje</li>
+<li>Informe sobre la página de aterrizaje con datos del tráfico procedente de emails</li>
+<li>Informe de rendimiento por país (puedes cambiarlo por &#8220;región&#8221; si solo vendes en un país)</li>
+<li>Productos que más ingresos generan vía email marketing</li>
+<li>¿Tus campañas de email incluyen (¡deberían!) enlaces con etiquetas UTM? Usa su widget para obtener un informe con las diez mejores campañas de correo</li>
+</ul>
+<h2 style="color: #068cc9"><a style="font-family: 'Roboto Condensed', Tahoma, Verdana, sans-serif;font-size: 28px;color: #068cc9;text-decoration: underline" href="https://www.google.com/analytics/gallery/#posts/search/%3F_.viewId%3D0iewn0tTTZ2dpJq3LNQwtA" target="_blank">8. Panel de e-commerce todo en uno</a></h2>
+<p>Creado por Paolo Margari</p>
+<p><img class="aligncenter size-large wp-image-19598" alt="All-in-one Ecommerce Dashboard By Paolo Margari" src="http://www.prestashop.com/blog/es/files/2015/02/8.-All-in-one-Ecommerce-Dashboard-By-Paolo-Margari--1024x547.png" width="700" height="373" /></p>
+<p>Este panel creado por Paolo Margari es muy fácil de entender, así que es perfecto para los miembros de tu equipo que no tengan conocimientos técnicos, como la junta directiva.</p>
+<p>Aquí tienes un resumen de sus widgets, claros y sencillos:</p>
+<ul style="padding-left: 30px">
+<li>Número único de visitantes (usuarios) o transacciones</li>
+<li>Número de transacciones</li>
+<li>Tasa de conversión de e-commerce</li>
+<li>Ingresos totales</li>
+<li>Valor medio del pedido (<span style="font-style: italic">AOV</span>)</li>
+<li>Desglose de ingresos por dispositivo: <span style="font-style: italic">sobremesa, tableta y móvil</span></li>
+<li>Transacciones y tasa de conversión desglosadas por dispositivo: <span style="font-style: italic">sobremesa, tableta y móvil</span></li>
+<li>Transacciones por ciudad</li>
+<li>Tasas de conversión de e-commerce por medio y dispositivo</li>
+<li>Transacciones por medio</li>
+<li>Fuentes y medio del tráfico que genera ingresos</li>
+<li>Transacciones y tasa de conversión de e-commerce por fuente/medio</li>
+</ul>
+<p>¿Un último consejo? Para aprovechar al máximo estos paneles usa siempre <a href="https://support.google.com/analytics/answer/1033867?hl=es">etiquetas UTM en tus campañas</a>: permiten controlar el medio y las fuentes de la campaña y obtener informes más precisos.</p>
+<p>¿Ya usas alguno de estos paneles? Cuéntanos cuáles son tus favoritos.</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/ocho-paneles-de-google-analytics-para-e-commerce/">8 paneles de Google Analytics para e-commerce</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/ocho-paneles-de-google-analytics-para-e-commerce/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Noquea a Google Panda: Las mejores prácticas SEO para PrestaShop</title>
+		<link>https://www.prestashop.com/blog/es/noquea-google-panda-las-mejores-practicas-seo-para-prestashop/</link>
+		<comments>https://www.prestashop.com/blog/es/noquea-google-panda-las-mejores-practicas-seo-para-prestashop/#comments</comments>
+		<pubDate>Mon, 09 Feb 2015 09:00:49 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=12541</guid>
+		<description><![CDATA[<p>Hoy saludamos de nuevo a Jordi Ordóñez, miembro de la comunidad PrestaShop (jordiob) y propietario del sitio web de Barcelona (España) http://jordiob.com/. Asesora a vendedores online acerca de buenas prácticas de comercio electrónico, desarrollo web y optimización para buscadores. Hoy nos trae sus consejos sobre SEO para tiendas online. Tras tanto tiempo sin escribir en [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/noquea-google-panda-las-mejores-practicas-seo-para-prestashop/">Noquea a Google Panda: Las mejores prácticas SEO para PrestaShop</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Hoy saludamos de nuevo a <a href="https://plus.google.com/101848022626876111829/about" target="_blank">Jordi Ordóñez</a>, miembro de la comunidad PrestaShop (<a style="font-style: italic" href="http://www.prestashop.com/forums/user/145757-jordiob/" target="_blank">jordiob</a>) y propietario del sitio web de Barcelona (España) <a href="http://jordiob.com/" target="_blank">http://jordiob.com/</a>. Asesora a vendedores online acerca de buenas prácticas de comercio electrónico, desarrollo web y optimización para buscadores. Hoy nos trae sus consejos sobre SEO para tiendas online.<br />
+<span id="more-12541"></span></p>
+<p><img class="alignright size-full wp-image-19488" style="margin-right: 0" alt="Jordi Ordóñez" src="http://www.prestashop.com/blog/es/files/2015/02/Jordi-Ordóñez.jpg" width="235" height="207" /></p>
+<p>Tras tanto tiempo sin escribir en este blog, estoy encantado de poder hablaros de nuevo sobre PrestaShop y SEO. Hoy nos centraremos en las penalizaciones de Google Panda y en cómo evitarlas.</p>
+<p>Google lanzó el algoritmo Panda en febrero de 2011. Su objetivo es penalizar los sitios web de baja calidad (con contenido insustancial, escaso o copiado), acabar con ellos y eliminarlos de sus rankings.</p>
+<h2 style="color:#00933B">¿Cómo saber si a tu sitio le afecta Panda?</h2>
+<p>Llamo a Panda &#8220;el asesino silencioso&#8221;. Con Penguin el tráfico orgánico cae inmediatamente, pero Panda va minándolo poco a poco. Por eso tienes que vigilarlo de cerca si crees que te está afectando. Veamos cómo reducen tu tráfico las penalizaciones de Penguin y Panda:</p>
+<p><img class="aligncenter size-full wp-image-19489" alt="Google panda vs Google penguin" src="http://www.prestashop.com/blog/es/files/2015/02/Google-panda-vs-Google-penguin.png" width="560" height="273" /></p>
+<p>Como veis, el efecto mortífero de Penguin es instantáneo mientras que Panda actúa más a largo plazo. Las penalizaciones de Panda no se detectan tan rápido como las de Penguin y cuando lo haces&#8230; puede que ya sea tarde.</p>
+<p>Y como tu tráfico no cae en picado de un día para otro (solo en casos extremos), necesitas informes diarios de tu tráfico orgánico de <a href="http://addons.prestashop.com/es/analytics-estadisticas-prestashop-modulos/4168-ganalytics.html">Google Analytics</a> (u otra herramienta). ¿Y desde el punto de vista del e-commerce? Penguin te obligaría a cerrar tu tienda online mucho antes que Panda. Y recuperarse de una penalización de Penguin también es mucho más complicado.</p>
+<p>¿Quieres saber si te está afectando? Vigila las caídas de tráfico, incluso las pequeñas. Puede ser difícil de detectar porque el tráfico baja lentamente a lo largo de varias semanas.</p>
+<p>Mi buen amigo y asesor SEO <a href="http://www.mjcachon.es/" target="_blank">MJ Cachon</a> me recomendó unas cuantas herramientas estupendas que vosotros también podéis usar: <a style="font-weight: bold" href="http://www.barracuda-digital.co.uk/panguin-tool/">Panguin</a>, <a style="font-weight: bold" href="http://feinternational.com/website-penalty-indicator/" target="_blank">Website Penalty Indicator</a> o <a style="font-weight: bold" href="http://suite.searchmetrics.com/en/research/domains/organic" target="_blank">SearchMetrics</a>.</p>
+<p>Otra alternativa muy potente y gratuita es la función de <a style="font-weight: bold" href="https://support.google.com/analytics/answer/1033021?hl=es" target="_blank">alerta de Google Analytics</a>. ¡Crea alertas diarias para saber a qué ritmo cae tu tráfico orgánico!</p>
+<h2 style="color:#00933B">Pero, ¿qué hay de malo en mi tienda PrestaShop?</h2>
+<p>Bueno, veamos qué le gusta comer al pequeño Panda (además de bambú):</p>
+<ul style="padding-left: 30px">
+<li>Contenido insustancial</li>
+<li>Contenido pobre</li>
+<li>Contenido duplicado</li>
+<li>Errores 404 recurrentes</li>
+<li>Enlaces de baja calidad</li>
+<li>Palabras clave de relleno</li>
+<li>Contenido creado para buscadores, no para personas</li>
+<li>Velocidad de carga</li>
+</ul>
+<p>Ese es el núcleo del algoritmo Panda. ¿Quieres conocer su funcionamiento más en detalle? Bill Slawski explica en su blog SEO by the sea cuáles son las <a href="http://www.seobythesea.com/2014/09/new-panda-update-new-panda-patent/">patentes desarrolladas y adquiridas por Google</a> para crear Panda.</p>
+<h2 style="color:#00933B">¿Cómo me recupero de una penalización de Panda?</h2>
+<p>Contesta a las siguientes preguntas y encontrarás la solución a tus problemas. Sé sincero: tu tráfico depende de ello.</p>
+<h4 style="color:#3369E8">¿Mis contenidos son pobres o insustanciales?</h4>
+<p>Esta pregunta es vital para las páginas de categorías y productos y para <a href="https://www.prestashop.com/blog/es/marketing-de-contenidos-en-e-commerce-lista-tecnica-de-control-y-proceso-de-escritura/">blog</a> (¡si aún no tienes, deberías!). Recuerda que los buscadores valoran el contenido por encima de todo: ¡crea textos originales y útiles! No copies y pegues las descripciones que ya usan tu distribuidor o tu fabricante. <a href="http://siteliner.com/" target="_blank">Siteliner</a> es una herramienta fantástica para conocer la calidad global de tu sitio: te dirá qué porcentaje de contenido duplicado, común y original estás usando.</p>
+<p>Si tienes que modificar una gran cantidad de textos pero estás demasiado ocupado vendiendo, ¡<a style="font-style: italic" href="https://www.prestashop.com/es/asociados-agencia-web">contrata a alguien</a> para que lo haga! Nunca —insisto, NUNCA— confíes la creación de contenidos a un proveedor barato. Si tienes un problema con Panda, contratar a alguien que NO redacta material original y de calidad solo lo empeorará.</p>
+<h4 style="color:#3369E8">¿Mi sitio está plagado de errores 404?</h4>
+<p>Escanea tu sitio con las arañas <a href="http://www.screamingfrog.co.uk/seo-spider/" target="_blank">Screamingfrog</a> o <a href="http://home.snafu.de/tilman/xenulink.html" target="_blank">Xenu</a> para detectar errores 404 y arréglalos. Y, por supuesto, usa las <a href="https://support.google.com/webmasters/answer/2409439?hl=es" target="_blank">herramientas para webmasters de Google</a> para tener estos errores controlados y sigue sus <a href="https://support.google.com/webmasters/answer/93641?hl=es">directrices</a> para crear páginas 404 útiles. ¡Ten cuidado cuando borres o desactives productos y categorías de tu tienda! Redirecciona siempre (¿recuerdas los redireccionamientos 301?) a productos similares. Y haz lo mismo con las categorías.</p>
+<h4 style="color:#3369E8">¿Hay enlaces de baja calidad apuntando hacia mi sitio web?</h4>
+<p>Solucionar este problema es más complicado y también es difícil encontrar una herramienta gratuita que evalúe sistemáticamente la calidad de los backlinks. Mi sugerencia: haz una primera valoración con <a href="https://majestic.com/" target="_blank">Majestic</a>, <a href="https://ahrefs.com/" target="_blank">Ahrefs</a> o <a href="https://moz.com/researchtools/ose/" target="_blank">Moz’s Open Site Explorer</a> para determinar si tus enlaces son buenos o malos. ¿Parece que hay un problema grave? Recurre a alternativas más avanzadas: <a href="http://www.linkdetox.com/" target="_blank">Link Detox</a> y la herramienta de desautorización para webmasters Disavow Tool de Google. Dos trucos rápidos:</p>
+<ul style="padding-left: 30px">
+<li>Si más del 5% de los enlaces tiene las mismas palabras clave (por ejemplo: comprar libros online) en el texto de anclaje, ¡estás expuesto! (Con el informe gratuito de Majestic, sabrás si es así).</li>
+<li>Evita los sitios clásicos de enlaces de baja calidad: granjas de enlaces, directorios web y de artículos, bloques de enlaces, enlaces sitewide y en pies de páginas o enlaces en blogrolls, comentarios de blogs o foros y en firmas o perfiles.</li>
+</ul>
+<h4 style="color:#3369E8">¿Mi tienda online tiene palabras clave de relleno?</h4>
+<p>Esta es fácil. ¿Alguna vez has sobre-optimizado tus páginas PrestaShop llenándolas de palabras clave repetidas? Si la respuesta es &#8220;quizás&#8221; o &#8220;bueno&#8230; puede&#8221;, no hay duda: lo has hecho.</p>
+<p>Corrige las páginas con contenido adecuado. No repitas la misma palabra clave más de tres veces por página, sobre todo si el texto es breve. ¡Google sabe lo que estás haciendo y no le gusta!</p>
+<h4 style="color:#3369E8">¿Estoy creando contenido para buscadores en vez de para mis clientes?</h4>
+<p>Esta también es sencilla. Cuando redactas, ¿piensas más en los robots que en las personas? Si has respondido otra vez &#8220;quizás&#8221; o &#8220;bueno&#8230; puede&#8221;, sí, lo haces. Puedes recurrir a lo que yo llamo &#8220;la prueba de mamá&#8221;: si tu madre no entiende el texto ni qué estás vendiendo, empieza de nuevo. Recuerda que son personas las que compran tus artículos, no Google.</p>
+<h4 style="color:#3369E8">Y lo mejor, para el final: ¿Mi página es más lenta que una balada?</h4>
+<p>Si es así, ¡dale velocidad! Empieza por las opciones de rendimiento que están en la pestaña Preferencias del back-office de tu tienda PrestaShop. Después, prueba estos trucos: reduce el tamaño de las imágenes, haz una prueba TTFB (tiempo hasta el primer byte) en tu servidor o traslada tu tienda a un servidor dedicado. ¿Por qué no usas una red de entrega de contenido para que las imágenes, los CSS y el JavaScript se carguen más rápido? También puedes comprar un módulo de caché de <a href="http://addons.prestashop.com/es/buscar?search_query=cache">la tienda PrestaShop’s Addons</a>.</p>
+<h2 style="color:#00933B">Bola extra: Trucos para los sitios web PrestaShop</h2>
+<p>Sí, lo reconozco: me encanta PrestaShop. Lo uso desde hace cuatro años y he aprendido un montón sobre su funcionamiento. Aquí tenéis algunos trucos más para evitar una muerte SEO súbita:</p>
+<ul style="padding-left: 30px">
+<li><strong>Mantén el archivo robots.txt limpio.</strong> Evita CUALQUIER parámetro inútil, sobre todo los que crea el módulo de navegación por capas.</li>
+<li><strong>Comprueba el mapa de tu sitio regularmente</strong> y elimina las páginas innecesarias: carrito, pedido, inicio de sesión, direcciones, bonos de descuento, etc.</li>
+<li><strong>Ten cuidado cuando importes archivos CSV.</strong> Indica la fecha de creación del producto&#8230; o Google podría pensar que son de 1.969 y se producirían errores en el mapa del sitio de las herramientas para webmasters.</li>
+<li><strong>Presta atención cuando crees subdominios CDN.</strong> A veces (si no se han creado bien), duplican el contenido. ¡Revísalos y vuelve a revisarlos.</li>
+<li><strong>Dale velocidad a tu sitio</strong> cuando esté activo. Usa la herramienta <a href="https://developers.google.com/speed/pagespeed/insights/" target="_blank">Google Page Speed</a> y <a href="http://gtmetrix.com/" target="_blank">GTMetrix.com</a> para crear informes sobre lo que se puede mejorar.</li>
+</ul>
+<hr align="left" width="20%" />
+<p>¿Te estás recuperando de una penalización de Google? ¡Déjanos un comentario y cuéntanos cómo lo has conseguido! ¿Vas a intentarlo? Dinos con qué truco vas a empezar.</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/noquea-google-panda-las-mejores-practicas-seo-para-prestashop/">Noquea a Google Panda: Las mejores prácticas SEO para PrestaShop</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/noquea-google-panda-las-mejores-practicas-seo-para-prestashop/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Ajustes rápidos y sencillos para darle velocidad a tu tienda PrestaShop</title>
+		<link>https://www.prestashop.com/blog/es/ajustes-rapidos-y-sencillos-para-darle-velocidad-a-tu-tienda-prestashop/</link>
+		<comments>https://www.prestashop.com/blog/es/ajustes-rapidos-y-sencillos-para-darle-velocidad-a-tu-tienda-prestashop/#comments</comments>
+		<pubDate>Thu, 05 Feb 2015 09:30:14 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=12526</guid>
+		<description><![CDATA[<p>Ya has añadido todos tus productos y le has dado los últimos toques a tu tienda PrestaShop. Hoy es el gran día: por fin vas a quitar el cartel de &#8220;cerrado por obras&#8221;. Actualizas la página de inicio y&#8230; ¡solo ves una página en blanco! Un segundo, dos, tres, cuatro&#8230; En medio de la emoción, [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/ajustes-rapidos-y-sencillos-para-darle-velocidad-a-tu-tienda-prestashop/">Ajustes rápidos y sencillos para darle velocidad a tu tienda PrestaShop</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Ya has añadido todos tus productos y le has dado los últimos toques a tu tienda PrestaShop. Hoy es el gran día: por fin vas a quitar el cartel de &#8220;cerrado por obras&#8221;. Actualizas la página de inicio y&#8230; ¡solo ves una página en blanco! Un segundo, dos, tres, cuatro&#8230;</p>
+<p>En medio de la emoción, te asalta la duda: &#8220;¿Por qué mi tienda tarda tanto en cargar?&#8221;</p>
+<p><span id="more-12526"></span><br />
+Es una pregunta que se hacen muchos vendedores y la respuesta es sencilla: los ajustes óptimos para desarrollar la tienda no son los mismos que para cargarla. Pero no tienes por qué preocuparte: ¡con PrestaShop es muy fácil pasar de la configuración de desarrollo a la de visualización! Estos son unos cuantos ajustes rápidos y sencillos para conseguir una tienda online rápida. Y además te explicamos cómo funciona cada opción.</p>
+<p>Empieza entrando en tu back-office PrestaShop y ve a CONFIGURACIÓN AVANZADA &gt; RENDIMIENTO</p>
+<h2 style="color:#71bd39">Pestaña Smarty</h2>
+<p>Aquí encontrarás la pestaña <strong>SMARTY</strong> correspondiente a tu tema o plantilla. (<a href="http://www.smarty.net/" target="_blank">Smarty</a> es el lenguaje de programación modelo que utilizan los temas PrestaShop.)</p>
+<p><strong>Compilación de plantillas:</strong> Esta opción determina si el sitio web debe compilar sus instrucciones. ¿Por qué los temas tienen instrucciones? La plantilla predeterminada PrestaShop tiene un diseño flexible y personalizable para adaptarse a las necesidades de cada vendedor. Eso significa que nuestros elementos de diseño no son estáticos: cada módulo se conecta a tu tienda siguiendo sus propias instrucciones. Gracias a este sistema puedes personalizar la plantilla tanto como quieras.</p>
+<p style="padding-left: 30px"><strong>[X] No compilar nunca los archivos de plantilla</strong> – (Velocidad máxima) Selecciona esta opción si ya estás totalmente satisfecho con el diseño y no vas a cambiar los archivos.<br />
+<strong>[ ] Compilar plantillas si se actualizan los archivos</strong> – (Rápido) Esta es tu opción si editas regularmente los temas de tu sitio web. Solo hay compilación si los archivos del tema cambian.<br />
+<strong>[ ] Forzar compilación</strong> – (Lento) Esta opción está reservada para eliminar errores en el sitio web. Cada vez que se carga la página, el tema vuelve a determinar qué elementos deben mostrarse y cómo.</p>
+<p><strong>Caché:</strong> El término <a href="http://searchstorage.techtarget.com/definition/cache" target="_blank">caché</a> hace referencia a los archivos que se guardan temporalmente y permiten que la página se cargue con más rapidez.</p>
+<p style="padding-left: 30px"><strong>[X] SÍ</strong> – Si activas esta opción después de personalizar el front-office de tu tienda, tus clientes podrán navegar por el sitio con más rapidez.<br />
+<strong>[ ] NO</strong> – Solo hay un caso en el que no tienes que usar la caché: cuando estás trabajando en tu tema. Si no tienes esta opción desactivada, no podrás ver inmediatamente los cambios efectuados. Recuerda: ¡si vas a trabajar en el tema, borra la caché para que los cambios se reflejen en tiempo real en el sitio web!</p>
+<p><strong>Tipo de caché: Sistema de archivos o MySQL</strong> – La configuración de esta opción varía según la tienda, así que no hay una única respuesta válida. Depende del tamaño de tu base de datos, de su configuración y de la optimización. Si tu base de datos pequeña, apenas notarás diferencias entre ambos tipos.</p>
+<p><strong>Borrar caché:</strong></p>
+<p style="padding-left: 30px"><strong>[ ] No borrar nunca los archivos caché</strong> – Esta opción SOLO debe estar seleccionada si has hecho modificaciones en tu sitio web que no aparecen en el front-office de tu tienda.<br />
+<strong>[X] Borrar caché cuando hay alguna modificación</strong> &#8211; Está claro, ¿no? La caché de tu sitio web se borra cuando algo cambia. Así te aseguras de que tus clientes ven la versión más actual de tu tienda.</p>
+<p><strong>EXTRA:</strong> ¿Quieres más control sobre qué páginas se guardan en caché y cuándo? Descarga desde PrestaShop Addons el <a href="http://addons.prestashop.com/es/seo-modulos-prestashop/6413-cache-manager.html" target="_blank">gestor de caché</a> avanzado desarrollado por nuestra comunidad.</p>
+<h2 style="color:#71bd39">Funcionalidades opcionales</h2>
+<p>Desactivar las siguientes funcionalidades puede mejorar la velocidad del sitio web pero no es lo más habitual. Además, limita las funciones de PrestaShop y te impide aprovechar todo su potencial.</p>
+<p>Ten en cuenta que si estas opciones aparecen atenuadas y no puedes desactivarlas es porque ya las estás usando.</p>
+<h2 style="color:#71bd39">CCC (Combinar, comprimir y caché)</h2>
+<p>CCC es un conjunto de herramientas pensado para minimizar el tiempo que tarda en cargar un sitio. Así es como funciona:</p>
+<p style="text-align: center;font-style: italic">Primer paso: combina archivos de textos similares en uno más grande y así limita la cantidad de archivos que hay que descargar. Segundo: lo comprime en formato zip, mejorando la velocidad de descarga. Por último, guarda el archivo en caché para que no haya que repetir el proceso cada vez que se carga la página. De este modo acelera el funcionamiento del servidor.</p>
+<p>Algunas estas funciones pueden modificar el aspecto de tu tema, así que es recomendable activarlas una a una. Y no lo olvides: ¡prueba siempre tu sitio web después de hacer cambios!</p>
+<p><strong>Caché inteligente para CSS: [SÍ]</strong> &#8211; Combina, comprime y guarda en caché los archivos CSS.<br />
+<strong>Caché inteligente para JavaScript*: [SÍ]</strong> &#8211; Combina, comprime y guarda en caché los archivos JavaScript.<br />
+<strong>Minimizar HTML: [SÍ]</strong> – Elimina todos los espacios en blanco del código HTML generado a partir de la plantilla Smarty.<br />
+<strong>Comprimir líneas JavaScript* en HTML: [SÍ]</strong> – Si tu tema incluye scripts JavaScript, comprímelos para que se carguen más rápido.<br />
+<strong>Mover JavaScript* al final: [SÍ]</strong> &#8211; Si mueves el código JavaScript al final, también se cargará en último lugar&#8230; y tu sitio web podrá mostrar primero los elementos más sencillos.</p>
+<p>*Estas opciones influyen en los elementos JavaScript que pueden formar parte del tema, por lo que podría modificarse su aspecto.</p>
+<h2 style="color:#71bd39">Te toca</h2>
+<p>¿Estás listo para acelerar tu tienda PrestaShop? Si quieres que cargue a la velocidad del rayo, échale un vistazo a estas capturas de pantalla.</p>
+<div style="height: 400px"><img class="alignleft  wp-image-19480" alt="smarty" src="http://www.prestashop.com/blog/es/files/2015/01/smarty_es.png" width="280" height="298" /><img class="alignleft  wp-image-19481" alt="ccc" src="http://www.prestashop.com/blog/es/files/2015/01/ccc_es.png" width="248" height="378" /></div>
+<hr align="left" width="20%" />
+<p>Si quieres más información sobre la configuración avanzada de tu tienda online, consulta nuestra <a style="font-weight: bold" href="http://doc.prestashop.com/display/PS16/Understanding+the+Advanced+Parameters" target="_blank">documentación online oficial</a>. ¿Usas una versión antigua de PrestaShop? No te preocupes: busca tu versión en los <a href="http://doc.prestashop.com/dashboard.action" target="_blank">archivos de documentación</a> y lee <a href="http://www.prestashop.com/blog/en/10-best-tips-to-speed-up-your-prestashop-store-3/">esta entrada del blog que te ayudará a darle más velocidad a tu sitio web</a>.</p>
+<p>¿Ya has puesto en práctica nuestros consejos? ¿Cuánto ha mejorado la velocidad de tu sitio web? ¡Usa los comentarios para contárnoslo!</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/ajustes-rapidos-y-sencillos-para-darle-velocidad-a-tu-tienda-prestashop/">Ajustes rápidos y sencillos para darle velocidad a tu tienda PrestaShop</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/ajustes-rapidos-y-sencillos-para-darle-velocidad-a-tu-tienda-prestashop/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Políticas de fijación de precios en comercio electrónico</title>
+		<link>https://www.prestashop.com/blog/es/politicas-de-fijacion-de-precios-en-comercio-electronico/</link>
+		<comments>https://www.prestashop.com/blog/es/politicas-de-fijacion-de-precios-en-comercio-electronico/#comments</comments>
+		<pubDate>Wed, 04 Feb 2015 09:30:42 +0000</pubDate>
+		<dc:creator><![CDATA[Ignacio de Miguel (Redactor Invitado)]]></dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=12533</guid>
+		<description><![CDATA[<p>La eterna duda para una tienda online: ¿serán competitivos mis precios? ¿debo bajar el precio para atraer más ventas? ¿puedo aumentar los márgenes para estar más cómodo con las ventas? Intentaré orientar sobre la forma de fijar los precios más adecuados para tu tienda. Para determinar la forma en que vamos a fijar los precios [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/politicas-de-fijacion-de-precios-en-comercio-electronico/">Políticas de fijación de precios en comercio electrónico</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>La eterna duda para una tienda online: ¿serán competitivos mis precios? ¿debo bajar el precio para atraer más ventas? ¿puedo aumentar los márgenes para estar más cómodo con las ventas? Intentaré orientar sobre la forma de fijar los precios más adecuados para tu tienda.</p>
+<p>Para determinar la forma en que vamos a fijar los precios de los productos en nuestra tienda online vamos primero a repasar los tipos de costes que tenemos. Vamos a mirar hacia adentro, y sólo en el último paso miraremos hacia afuera, a los precios de la competencia. Si fijamos los precios sólamente en función de los precios de la competencia, podríamos incluso incurrir en pérdidas, y desde luego nadie quiere eso.<br />
+<span id="more-12533"></span></p>
+<h2 style="color: #3380b6">Sobre los costes fijos:</h2>
+<p>En una tienda online tenemos una serie de costes fijos: los costes típicos de recursos humanos (gestión, servicio atención al cliente), costes fijos de almacén (aunque esté vacío, el coste del alquiler del espacio o cuotas mínimas en caso de servicios de almacenamiento logístico), y los servicios generales de nuestro negocio (luz, contabilidad, etc.).</p>
+<p>De todos estos costes fijos, si el negocio online es una nueva área de negocio de una tienda física, podemos dar por amortizados casi todos los costes ya que los vinculamos a la tienda física, (¡bien por nosotros!), pero que eso no te despiste de la realidad que significa que parte de esos costes a partir de ahora estarán asociados a la tienda online, entre otras cosas porque pueden cambiar el peso de cada uno de ellos, es decir, la cantidad de estos recursos fijos que a partir de ahora necesitarás o que irás necesitando según aumenten tus ventas online.</p>
+<h2 style="color: #3380b6">Los costes variables asociados al producto:</h2>
+<p>En segundo lugar tenemos los costes directos asociados a los productos que tienes a la venta. Estos costes son el propio producto, el coste de transporte desde el proveedor, y su almacenamiento.</p>
+<p><span style="line-height: 26.6666679382324px">El coste de transporte desde el proveedor lo podemos incluir como parte del producto, pero que no se nos olvide. </span><span style="line-height: 1.5">El coste de almacenamiento puede ser un coste a la vez variable (si depende de la cantidad de productos almacenados) o bien fijo (el almacén cuesta lo mismo lo tengas vacío o lleno).  </span></p>
+<p><span style="line-height: 1.5">Este coste es un poco más difícil de calcular por cada producto, ya que podemos tener un coste por referencia, independientemente de la cantidad de unidades que tengamos en stock de esa referencia, o bien un coste por cada unidad de producto, según sea nuestro sistema de almacenamiento y nuestros costes del mismo. Otra dificultad de atribuir los costes del almacenamiento a los productos es que depende de su rotación. Es decir, si en un mes se venden diez unidades de una determinada referencia, el coste de almacenamiento mensual de esa referencia “se reparte” entre diez unidades. Pero si se venden veinte, el coste se reparte entre veinte.</span></p>
+<p>Pero no nos volvamos locos. Si tenemos un coste variable por unidad de producto, lo consideramos así, y si se trata de un coste fijo independiente del producto o difícil de atribuir por unidad de producto, lo ponemos aparte. Lo importante es no perderlo de vista.</p>
+<h2 style="color: #3380b6">Los costes variables asociados al embalaje y transporte:</h2>
+<p>En tercer lugar tenemos unos costes variables asociados a las ventas: logística, embalaje y transporte. Sobre todo cuando se empieza si no se sabe cuál será la media de productos que cada pedido llevará, una forma de no perder nunca es atribuir estos costes variables por cada unidad de producto. Si sabemos que la media de productos en cada venta es de cinco, entonces distrubuimos estos costes entre cinco, etc.</p>
+<p>Ya tenemos claros los costes, ahora sólo tenemos que sumar y sabremos cuál es el coste de cada producto (antes de impuestos). El siguiente paso es añadir nuestro margen que servirá para pagar todos los costes fijos que no hemos metido en el coste del producto, y para ganar algo de dinero con nuestra tienda online. Al final añadimos los impuestos para obtener el precio de venta al público.</p>
+<p>Si ahora que tienes claro todo esto decides que quieres poner como costes fijos todo menos el coste propio del producto al que te lo vende el proveedor, no hay problema.</p>
+<p>En este punto hago dos sugerencias:</p>
+<ul style="padding-left: 30px">
+<li>no infles ninguno de los precios ni costes, intenta ajustar los costes reales con la mayor precisión posible, porque el precio final puede variar sensiblemente.</li>
+<li>el margen a aplicar depende mucho de cada sector. Si no has vendido productos anteriormente puedes empezar por aplicar márgenes alrededor del 35% del precio de coste final, o del 50% del precio de coste del propio producto. De todas formas cada sector puede ser muy diferente llegando a aplicar márgenes del 200% o sólo del 10%.</li>
+</ul>
+<h2 style="color: #3380b6">Las cuentas finales:</h2>
+<p>Sólo falta un paso, y es calcular el margen que tenemos en nuestras ventas. Por ejemplo lo podemos hacer sabiendo el precio medio de nuestros productos, el margen medio en porcentaje, y por tanto el margen bruto medio por pedido. Dividimos nuestros costes fijos entre el margen bruto medio por pedido y ya sabemos cuántos pedidos debemos tener para no perder dinero.</p>
+<p>¿Te salen las cuentas? Si la respuesta es “no”, no te preocupes, repasa todos los números con la mayor precisión posible, y verás que pequeños ajustes en cada partida de costes puede suponer un precio final muy diferente.</p>
+<p>¿Y qué pasa con los precios de la competencia? En cuanto conozcas el precio al que compras a los proveedores intuirás fácilmente si ese es un precio competitivo para poder ofrecer un precio similar al de la competencia (si es que vende el mismo producto que tú).</p>
+<p>En cualquier caso, el precio de la competencia debe ayudarte a decidir tus precios, pero no condicionarlos completamente. Si el precio de tu competencia es menor que el tuyo, calcula cuál sería tu margen con esos precios y analiza si tu tienda online es rentable. Si no lo es tendrás que buscar un valor añadido para aumentar el valor percibido por parte del cliente, y así poder vender tus productos algo más caros que la competencia.</p>
+<p>Artículo escrito por Ignacio de Miguel Ximénez de Embún, Editor de <a href="http://loogic.com/category/comercio-electronico/" target="_blank">Comercio Electrónico en Loogic.com</a></p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/politicas-de-fijacion-de-precios-en-comercio-electronico/">Políticas de fijación de precios en comercio electrónico</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/politicas-de-fijacion-de-precios-en-comercio-electronico/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Renovar la tienda online: aspectos SEO que no debes olvidar</title>
+		<link>https://www.prestashop.com/blog/es/renovar-la-tienda-online-aspectos-seo-que-debes-olvidar/</link>
+		<comments>https://www.prestashop.com/blog/es/renovar-la-tienda-online-aspectos-seo-que-debes-olvidar/#comments</comments>
+		<pubDate>Mon, 26 Jan 2015 09:30:55 +0000</pubDate>
+		<dc:creator><![CDATA[Gary Le Masson]]></dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=12493</guid>
+		<description><![CDATA[<p>¿Qué aspectos SEO hay que tener en cuenta a la hora de renovar una tienda online? ¿Cómo puedes asegurarte de que tu nueva tienda conservará el posicionamiento que has conseguido hasta ahora? En este artículo presentamos todos los elementos SEO que hay que comprobar durante un proyecto de renovación de una tienda online. ¿A quién [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/renovar-la-tienda-online-aspectos-seo-que-debes-olvidar/">Renovar la tienda online: aspectos SEO que no debes olvidar</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>¿Qué aspectos SEO hay que tener en cuenta a la hora de renovar una tienda online? ¿Cómo puedes asegurarte de que tu nueva tienda conservará el posicionamiento que has conseguido hasta ahora? En este artículo presentamos todos los elementos SEO que hay que comprobar durante un proyecto de renovación de una tienda online.</p>
+<p><span id="more-12493"></span></p>
+<h4 style="color: #76b32a">¿A quién le afecta?</h4>
+<p>Este artículo está dirigido fundamentalmente a los vendedores que ya tienen una tienda online y quieren renovarla.</p>
+<p>Un caso típico es el del cambio de programa de e-commerce. Por ejemplo, puede que usaras una tecnología distinta y hayas decidido pasarte a <a href="http://www.prestashop.com">PrestaShop</a> como hacen miles de vendedores cada año. Otra posibilidad: tenías una versión antigua de PrestaShop y has decidido renovar tu tienda online para disfrutar de las últimas funcionalidades de PrestaShop.</p>
+<p><strong style="color: #c91202">IMPORTANTE:</strong><br />
+Las tareas recomendadas a continuación deben realizarse antes de pasar de la tienda online antigua a la nueva.</p>
+<p><strong style="color: #c91202">ATENCIÓN:</strong><br />
+Este artículo no está pensado para las tiendas que quieren cambiar su nombre de dominio: el trabajo SEO que hay que realizar en ese caso es distinto y no se aborda en este documento.</p>
+<h4 style="color: #76b32a">¿Cuáles son las ventajas y por qué asegurar la migración?</h4>
+<ul style="padding-left: 30px">
+<li>El tráfico directo que llegue a tus páginas antiguas se redirigirá automáticamente a tu nuevo sitio web.</li>
+<li>Los enlaces dirigidos a las páginas de tu antigua tienda no generarán errores 404.</li>
+<li>Gracias al trabajo en la estructura, el SEO de tu tienda online seguirá siendo válido a largo plazo.</li>
+<li>Así garantizarás la continuidad de tu posicionamiento y no notarás apenas cambios en el tráfico después de la migración.</li>
+</ul>
+<h4 style="color: #76b32a">Los dos aspectos que tienes que estudiar antes de renovar tu tienda online:</h4>
+<ul style="padding-left: 30px">
+<li>La estructura de tu nuevo sitio</li>
+<li>Los redireccionamientos 301</li>
+</ul>
+<h2>Un poco de estructura</h2>
+<p>Si no lo has hecho ya… Te recomendamos que leas este artículo sobre <a href="http://www.prestashop.com/blog/es/como-estructurar-tu-tienda-online-con-las-palabras-clave-para-seo-parte-22/">la creación de una tienda online con una estructura pensada para el SEO</a>.</p>
+<h4 style="color: #76b32a">Diseña la estructura de tu nueva tienda online</h4>
+<p>El objetivo de esta fase preliminar es determinar qué categorías de producto vas a conservar en tu nueva tienda. El principio básico es conservar las que funcionan y modificar las demás.</p>
+<p>¿No renuevas tu tienda online para lograr mejores resultados? Pues no elimines las categorías que generan tráfico SEO y ventas. ¡Esas categorías deben estar sí o sí en tu nuevo sitio!</p>
+<h4 style="color: #76b32a">De regalo, un informe de Google Analytics. ¡Solo uno!</h4>
+<p>¿No sabes (todavía) cómo acceder a estos datos y tenías Google Analytics correctamente instalado en tu tienda antigua?</p>
+<p>Este informe personalizado de Google Analytics te ayudará a encontrar respuestas:</p>
+<p style="text-align: center"><a href="https://www.google.com/analytics/web/template?uid=fEb3DNQXT_-2j8aKs0I9MQ" target="_blank">Informe de SEO para e-commerce de PrestaShop</a> (Haz clic para añadir el informe)</p>
+<h4 style="color: #76b32a">¿Cómo mejorar la estructura de tu sitio?</h4>
+<p>Los proyectos de renovación son la excusa perfecta para cambiar lo antiguo e introducir nuevas mejoras:</p>
+<ul style="padding-left: 30px">
+<li>Visita las tiendas de la competencia e inspírate en sus buenas ideas: las prácticas de referencia funcionan en SEO (siempre que no copies y pegues).</li>
+<li>Repasa tu estudio semántico y busca las <a href="http://www.prestashop.com/blog/es/como-encontrar-las-palabras-clave-adecuadas-para-tu-tienda-online-la-guia-de-palabras-clave-para-seo-primera-parte/">palabras clave para SEO</a>.</li>
+<li>Si tienes alguna campaña Adwords, <a href="https://www.google.com/analytics/web/template?uid=6MOMFCgGSFWm8rEBqkJxgA" target="_blank">este análisis</a> sobre los términos de búsqueda te resultará útil. ¿Por qué? Porque corresponde a las palabras clave reales que escriben los visitantes procedentes de Adwords (no las palabras clave compradas)</li>
+</ul>
+<h2>Esta página ha cambiado de dirección</h2>
+<h4 style="color: #76b32a">¿Qué son los redireccionamientos 301?</h4>
+<p><span style="font-style: italic">En el mundo real…</span></p>
+<p><span style="font-style: italic">Cuando te mudas y quieres que el correo te llegue a una nueva dirección, rellenas formularios del tipo:</span></p>
+<p style="text-align: center">Antigua dirección postal -&gt; Nueva dirección postal</p>
+<p><span style="font-style: italic">En el mundo virtual…</span></p>
+<p><span style="font-style: italic">Ese proceso se llama redireccionamiento 301. Si cambias la URL de una página, tienes que informar a tu servidor para que todas las solicitudes se envíen a la nueva URL:</span></p>
+<p style="text-align: center">Antigua URL -&gt; 301 redirigir -&gt; Nueva URL</p>
+<h4 style="color: #76b32a">Los distintos casos de redireccionamiento 301:</h4>
+<ul style="padding-left: 30px">
+<li>El mínimo vital y obligatorio:
+<ul style="padding-left: 15px">
+<li>Redirecciona página a página, estableciendo un vínculo entre tu estructura antigua y la nueva.</li>
+</ul>
+</li>
+<li>Mi recomendación:
+<ul style="padding-left: 15px">
+<li>Faire des redirections page à page, en réalisant un lien entre votre ancienne structure et la nouvelle.</li>
+</ul>
+</li>
+</ul>
+<h4 style="color: #76b32a">Cuando hay que hacer un redireccionamiento 301:</h4>
+<ul style="padding-left: 30px">
+<li>Si la página antigua desaparece: haz un redireccionamiento a tu página de inicio.</li>
+<li>Si solo cambia la URL: redirige la URL antigua hacia la nueva.</li>
+</ul>
+<h4 style="color: #76b32a">Cómo encontrar todas las URL de tu sitio</h4>
+<p>Para encontrar todas las URL de tu sitio antiguo y del nuevo, te recomiendo utilizar una araña como <a href="http://home.snafu.de/tilman/xenulink.html" target="_blank">Xenu</a> (gratis) o <a href="http://www.screamingfrog.co.uk/seo-spider/" target="_blank">Screaming Frog SEO</a> (de pago).</p>
+<p>Con cualquiera de estas dos herramientas podrás obtener fácilmente una lista de las URL de tu sitio antiguo y del nuevo y exportarla a Excel.</p>
+<h4 style="color: #76b32a">Establecer una correspondencia entre las dos estructuras</h4>
+<p>Coge la estructura de árbol de tu sitio web antiguo e incluye la lista de las URL en una columna: tienes que redirigirlas todas (ya sea a su equivalente en la tienda nueva o a la página de inicio).</p>
+<p>Cuando hayas acabado, te recomiendo darle ese archivo Excel a tu desarrollador web para que lo integre en un archivo .htaccess en tu nueva tienda. Si te da miedo equivocarte, ¡recurre un profesional!</p>
+<h4 style="color: #76b32a">Dos casos en los que no hay que hacer redireccionamiento 301</h4>
+<ul style="padding-left: 30px">
+<li>Si la URL es la misma en el sitio nuevo que en el antiguo.</li>
+<li>Si creas una página nueva que no estaba en tu estructura antigua.</li>
+</ul>
+<h2>Llega la hora de la verdad</h2>
+<h4 style="color: #76b32a">Cuando tengas todo listo para publicar tu nueva tienda:</h4>
+<ul style="padding-left: 30px">
+<li>Pon tu dominio en mantenimiento reenviando el código 503</li>
+<li>Activa tu nueva tienda (no olvides incluir los redireccionamientos 301 en el .htaccess)</li>
+<li>Desactiva el código de mantenimiento y ya tendrás tu nuevo sitio listo.</li>
+<li>Comprueba inmediatamente los 301 haciendo clic en una URL antigua. ¿Te redirige automáticamente a la nueva URL?</li>
+<li>Verifica que el encabezado http que le da tu servidor a las URL antiguas incluye el código 301 (y no otro).</li>
+</ul>
+<p>Si todo es correcto, ¡felicidades, la migración ha sido un éxito!</p>
+<h4 style="color: #76b32a">¿Te ha gustado este artículo?</h4>
+<p>Fue un vendedor PrestaShop que estaba migrando su tienda quien me dio la idea para redactarlo.</p>
+<p>Si tienes preguntas, dudas o te gustaría que abordemos algún tema sobre SEO en 2015, ¡cuéntanoslo! Puedes usar Twitter <a href="https://twitter.com/prestashop" target="_blank">@PrestaShop</a>, o nuestra <a href="https://www.facebook.com/prestashop" target="_blank">página de Facebook</a>.</p>
+<p>¡Anímate a opinar! Los comentarios están a tu disposición.</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/renovar-la-tienda-online-aspectos-seo-que-debes-olvidar/">Renovar la tienda online: aspectos SEO que no debes olvidar</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/renovar-la-tienda-online-aspectos-seo-que-debes-olvidar/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Cómo puede ayudar el marketing omnicanal a tu pequeño negocio</title>
+		<link>https://www.prestashop.com/blog/es/como-puede-ayudar-el-marketing-omnicanal-tu-pequeno-negocio/</link>
+		<comments>https://www.prestashop.com/blog/es/como-puede-ayudar-el-marketing-omnicanal-tu-pequeno-negocio/#comments</comments>
+		<pubDate>Mon, 26 Jan 2015 09:30:06 +0000</pubDate>
+		<dc:creator><![CDATA[Kate Robinson]]></dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/es/?p=12506</guid>
+		<description><![CDATA[<p>La venta minorista está cambiando: los usuarios usan cada vez más sus teléfonos, tabletas y portátiles a la hora de comprar. Según un estudio de Forrester, el 70% de los compradores busca desde el móvil los productos que va a comprar en tienda. Y un informe del MIT asegura que el 80% comprueba antes los [...]</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/como-puede-ayudar-el-marketing-omnicanal-tu-pequeno-negocio/">Cómo puede ayudar el marketing omnicanal a tu pequeño negocio</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>La venta minorista está cambiando: los usuarios usan cada vez más sus teléfonos, tabletas y portátiles a la hora de comprar. Según un estudio de Forrester, el 70% de los compradores busca desde el móvil los productos que va a comprar en tienda. Y un informe del MIT asegura que el 80% comprueba antes los precios online. ¿El resultado? Adiós a las técnicas tradicionales de marketing unidireccional. Ha llegado el marketing &#8220;omnicanal&#8221;.</p>
+<p>Las <a href="http://www.theguardian.com/media-network/media-network-blog/2013/jan/15/luxury-retailers-in-store-tech" target="_blank">grandes empresas</a> han realizado impresionantes esfuerzos multicanal&#8230; pero las tiendas pequeñas también pueden aprovecharlo para mejorar la experiencia del cliente, fidelizar y aumentar las ventas. Veamos qué es el marketing omnicanal y cómo puede ayudarte a dar vida a tu pequeño negocio.<br />
+<span id="more-12506"></span></p>
+<h2>Multicanal, intercanal y omnicanal</h2>
+<p>Seguro que has oído varios términos referidos al marketing en múltiples canales: ¿te suenan las palabras multicanal, intercanal y omnicanal? Son diferentes pero todas tienen algo en común: el objetivo final. En un entorno de compras hiperconectado como el actual, el objetivo es crear una experiencia de compra sencilla, coherente y auténtica (en cualquier momento y en cualquier lugar).</p>
+<p>Eso es lo que los expertos en marketing llaman &#8220;venta omnicanal&#8221;. Omni es en latín &#8220;todos&#8221;. Para los vendedores supone conectar y armonizar la información y la experiencia en todos los canales en los que están presentes. Es un paso más en las estrategias multicanal que ha suscitado todo tipo de comentarios, desde que es &#8220;intercanal bien hecho&#8221; a &#8220;un nuevo paradigma&#8221;. Algunos expertos van incluso más allá: ¡la estrategia omnicanal sin barreras implicaría una <a href="http://omnichannel.me/what-is-omnichannel/" target="_blank">nueva definición</a> de &#8220;tu&#8221; cliente!</p>
+<p>Pero lo más importante: el omnicanal implica la integración total del back-end. ¿Y en la práctica? Tu cliente debe poder buscar un producto online desde casa, pedirlo más tarde desde su teléfono o tableta y recogerlo en una tienda o de camino al trabajo.</p>
+<h2>El marketing omnicanal para tiendas online</h2>
+<p>¿Tu negocio es 100% online o tienes alguna tienda física? Sea cual sea la respuesta, con el marketing omnicanal ganarás visibilidad, mejorarás las conversiones y convertirás a los visitantes en clientes fieles. Aquí tienes unas sugerencias para empezar.</p>
+<h4 style="color: #46c0d7">Añade canales solo si tienen una finalidad</h4>
+<p>Estar en todos los sitios es muy tentador. Al fin y al cabo, es lo que quieren los clientes, ¿no? Sí, pero ante todo desean una gran experiencia. Y para dársela tendrás que centrarte primero en crear una presencia de calidad en uno o dos canales. ¡Después podrás ampliarla con la garantía de que lo haces de la forma más eficaz! ¿Por qué y para qué vas a entrar en ese nuevo canal? Piénsalo bien. Si aún no dominas el día a día de tu tienda online, puede que no estés preparado para abrir una tienda física.</p>
+<h4 style="color: #46c0d7">Genera confianza mediante la coherencia</h4>
+<p>Uno de los pilares del marketing omnicanal es la coherencia. Tus precios deben ser los mismos en tu tienda online, en los mercados virtuales y en tu tienda física (si la tienes). ¡Y también los descuentos! ¿Tienes descuentos dirigidos para incrementar las ventas en un canal concreto (solo online)? Explícalo claramente: que los clientes sepan que pueden confiar en tus precios compren donde compren.</p>
+<p>Otro elemento importante: proyectar una imagen de marca coherente. Puede ser algo tan sencillo como amoldar el diseño de tu web al de los folletos que tienes para el mercado local en el que vendes los sábados. O algo más complejo. Por ejemplo: el personal de tu tienda física debe tener la misma información sobre el cliente que el de la tienda online para poder dar el mismo servicio al comprador.</p>
+<h4 style="color: #46c0d7">Optimiza la organización entre bambalinas</h4>
+<p>El inventario es clave para la estrategia omnicanal. Muchos clientes buscan en Internet antes comprar en la tienda. O van a la tienda para ver artículo y luego lo compran desde su tableta. ¡Prepárate para ambos casos! Si un cliente descubre tus productos online, debes poder ofrecérselos en la tienda física&#8230; y al revés.</p>
+<p>El inventario es clave para la estrategia omnicanal. Muchos clientes buscan en Internet antes comprar en la tienda. O van a la tienda para ver artículo y luego lo compran desde su tableta. ¡Prepárate para ambos casos! Si un cliente descubre tus productos online, debes poder ofrecérselos en la tienda física&#8230; y al revés.</p>
+<p>Por último, el cliente quiere pagar de forma rápida, sencilla y segura esté donde esté&#8230; ¡y sin restricciones en los métodos de pago! Acepta todas las opciones, desde efectivo a tarjetas monedero, según tus canales.</p>
+<h4 style="color: #46c0d7">Dale un toque personal</h4>
+<p>La estrategia omnicanal no solo requiere coherencia, también personalización. El cliente espera que hables su idioma y entiendas sus necesidades. Aquí los pequeños negocios tienen ventaja frente a las grandes empresas: puedes centrarte en un nicho más reducido y ofrecer un mejor servicio. Usa los datos de ventas para crear campañas de marketing a medida. ¡Y personaliza la experiencia de compra con sugerencias bien seleccionadas y ofertas sorpresa!</p>
+<h4 style="color: #46c0d7">Implica a tus clientes</h4>
+<p>La única forma de ofrecer una experiencia personalizada es conociendo a tus clientes. Escúchalos en las redes sociales&#8230; y deja que decidan cuándo y con qué frecuencia quieren participar. Facilita el uso de los comentarios y las redes y permite que tus compradores programen la periodicidad de recepción de tu boletín.</p>
+<h2>Lo que tienes que recordar</h2>
+<ul>
+<li>Privilegia la calidad frente a la cantidad y entra en los canales con una finalidad</li>
+<li>Genera confianza mediante la coherencia de precios e imagen en todos los canales</li>
+<li>Optimiza el inventario, las formas de pago y envío y la logística interna</li>
+<li>Usa los datos del cliente para crear una experiencia de compra personalizada</li>
+<li>Anima a los clientes a participar en las redes sociales</li>
+</ul>
+<p>Las técnicas omnicanal no son solo para los peces gordos. Crear una experiencia de compra personalizada, integrada y coherente también es muy beneficioso para los negocios pequeños. ¿Ya tienes una estrategia omnicanal? Cuéntanos qué tal funciona.</p>
+<p>Si aún no vendes online, prueba el <a href="https://www.prestashop.com/">software de e-commerce de PrestaShop</a>. ¡Disfruta de un nuevo canal de venta en Internet!</p>
+<p>La entrada <a rel="nofollow" href="https://www.prestashop.com/blog/es/como-puede-ayudar-el-marketing-omnicanal-tu-pequeno-negocio/">Cómo puede ayudar el marketing omnicanal a tu pequeño negocio</a> aparece primero en <a rel="nofollow" href="https://www.prestashop.com/blog/es">ES - Blog Ecommerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/es/como-puede-ayudar-el-marketing-omnicanal-tu-pequeno-negocio/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

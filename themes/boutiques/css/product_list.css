@@ -1,0 +1,39 @@
+ul#product_list {overflow:hidden;padding:0;width:107%;border-bottom:1px dotted #c8c8c8;margin-left:-8.5px;}
+ul#product_list.product_list{width:100%;margin-left:0!important}
+.accessories_block ul#product_list{margin-left:-15px;margin-bottom:0}
+ul#product_list.product_grid li.grid_3 .exclusive{padding:0 10px;}
+.accessories_block ul#product_list{padding-bottom:0;border-bottom:none}
+.accessories_block{margin-bottom:0;}
+ul#product_list li,
+.accessories_block ul#product_list li{vertical-align:top;height:auto;padding:10px 0 30px;position:relative;/*float:none;*/display:inline-block;#display:inline;margin:0 8px;float:none}
+.accessories_block ul#product_list li{margin:0 5px;float:left}
+.three_column  .grid_8 ul#product_list li{margin:0}
+
+ul#product_list li .center_block{margin:0;vertical-align:middle;position:relative;text-align:center}
+ul#product_list li .image,
+.accessories_block ul#product_list li .image{display:block;text-align:center;margin-bottom:10px}
+ul#product_list li .image a.product_img_link{position:relative;display:block;overflow:hidden}
+ul#product_list h3,
+.accessories_block ul#product_list .name_product{display:block;padding-bottom:5px;line-height:15px;}
+/*.name_product h3 a,
+.name_product a{color:#323232; font:700 12px/15px Helvetica,Arial, Verdana, sans-serif;	text-transform:none;}
+.name_product h3 a:hover{text-decoration:none;color:#e11414}*/
+.product_desc{color:#646464;padding-bottom:10px;display:block;font-size:11px;}
+ul#product_list .content_price{display:block;margin-bottom:5px;}
+.price.old{color:#e11414}
+span.availability,span.cs_out_of_stock{color:#1487e1;font-weight:400;display:block;padding:2px 0;}
+span.cs_out_of_stock{color:#e11414}
+ul#product_list li .exclusive{margin:10px 0;background:#4f5a6a;height:32px;color:#fff;font:400 12px/32px "Open Sans",Helvetica,arial;text-transform:uppercase}
+ul#product_list li.grid_3 .exclusive,ul#product_list li.grid_4 .exclusive{padding:0 10px}
+ul#product_list li p.compare input.comparator{margin:0 5px 0 0;vertical-align:text-top}
+.product_list li{width:100%!important;margin:0!important;padding:0 0 20px!important;display:block!important}
+.product_list li.last_item{border:none}
+.product_list li .center_block{margin:0!important;text-align:left!important;overflow:hidden}
+.product_list li .image{width:230px;margin-right:20px;float:left;position:relative;}
+.product_list li .exclusive{margin-right:10px!important;}
+ul#product_list li .on_sale{position:absolute;top:10px;left:10px;background:url(../img/bkg_on_sale.png) no-repeat 0 0;width:70px;height:70px;}
+ul#product_list li .on_sale span{display:table-cell;vertical-align:middle;border-radius:60px;-moz-border-radius:60px;font:400 12px/15px "Open Sans",Arial, Verdana, sans-serif;color:#fff;text-transform:uppercase;background:#505b85;width:40px;height:60px;padding:0 10px;display:none}
+.content_hide_show.block_hidden_only_for_screen ul#product_list li.last_item{padding-bottom:0}
+p.compare {color:#646464;}
+p.compare  input.comparator{vertical-align:-2px;}
+.layered_ajax_loader_icon{padding-left:15px;text-align:center}

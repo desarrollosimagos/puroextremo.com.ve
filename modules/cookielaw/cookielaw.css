@@ -1,0 +1,27 @@
+#cookielaw{
+	position: fixed;
+	bottom: 0px;
+	left: 0px;
+	background: #fff;
+	width: 100%;
+	padding: 13px 0px;
+	border-top: 1px solid #cecece;
+	-webkit-box-shadow: 0px -2px 5px rgba(0, 0, 0, 0.2);
+	-moz-box-shadow:    0px -2px 5px rgba(0, 0, 0, 0.2);
+	box-shadow:         0px -2px 5px rgba(0, 0, 0, 0.2);
+	zoom: 1;
+	filter: alpha(opacity=70);
+	opacity: 0.7;
+	text-align: left !important;
+	-webkit-transition: all 1s ease; -moz-transition: all 1s ease; transition: all 1s ease;
+	z-index: 5000;
+}
+#cookielaw:hover{
+	filter: alpha(opacity=90);
+	opacity: 0.9;
+}
+#cookielaw .container{padding-bottom: 0px;}
+#cookielaw p{padding: 6px 0px; !important; margin-right: 15px;}
+#cookie_close{
+	float: right;
+}

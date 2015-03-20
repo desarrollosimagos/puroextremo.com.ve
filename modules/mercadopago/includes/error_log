@@ -1,0 +1,465 @@
+[20-Sep-2014 14:47:57 America/Caracas] PHP Fatal error:  Uncaught exception 'Exception' with message 'not_found' in /home/puroextremo2013/public_html/demotienda/modules/mercadopago/includes/mercadopago.php:292
+Stack trace:
+#0 /home/puroextremo2013/public_html/demotienda/modules/mercadopago/includes/mercadopago.php(301): MPRestClient::exec('GET', '/sandbox/collec...', NULL, 'application/jso...')
+#1 /home/puroextremo2013/public_html/demotienda/modules/mercadopago/includes/mercadopago.php(60): MPRestClient::get('/sandbox/collec...')
+#2 /home/puroextremo2013/public_html/demotienda/modules/mercadopago/includes/mercadopago.php(64): MP->get_payment('145535389')
+#3 /home/puroextremo2013/public_html/demotienda/modules/mercadopago/includes/retorno.php(16): MP->get_payment_info('145535389')
+#4 {main}
+  thrown in /home/puroextremo2013/public_html/demotienda/modules/mercadopago/includes/mercadopago.php on line 292
+[20-Sep-2014 14:49:08 America/Caracas] PHP Fatal error:  Uncaught exception 'Exception' with message 'not_found' in /home/puroextremo2013/public_html/demotienda/modules/mercadopago/includes/mercadopago.php:292
+Stack trace:
+#0 /home/puroextremo2013/public_html/demotienda/modules/mercadopago/includes/mercadopago.php(301): MPRestClient::exec('GET', '/sandbox/collec...', NULL, 'application/jso...')
+#1 /home/puroextremo2013/public_html/demotienda/modules/mercadopago/includes/mercadopago.php(60): MPRestClient::get('/sandbox/collec...')
+#2 /home/puroextremo2013/public_html/demotienda/modules/mercadopago/includes/mercadopago.php(64): MP->get_payment('145535389')
+#3 /home/puroextremo2013/public_html/demotienda/modules/mercadopago/includes/retorno.php(16): MP->get_payment_info('145535389')
+#4 {main}
+  thrown in /home/puroextremo2013/public_html/demotienda/modules/mercadopago/includes/mercadopago.php on line 292
+[23-Sep-2014 16:36:00 America/Caracas] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php:837
+Stack trace:
+#0 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(255): ObjectModelCore->validateFields()
+#1 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(455): ObjectModelCore->getFields()
+#2 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(439): ObjectModelCore->add(true)
+#3 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(378): OrderHistoryCore->add(true)
+#4 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/retorno.php(61): OrderHistoryCore->addWithemail(true, Array)
+#5 {main}
+  thrown in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php on line 837
+[23-Sep-2014 16:37:02 America/Caracas] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php:837
+Stack trace:
+#0 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(255): ObjectModelCore->validateFields()
+#1 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(455): ObjectModelCore->getFields()
+#2 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(439): ObjectModelCore->add(true)
+#3 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(378): OrderHistoryCore->add(true)
+#4 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/retorno.php(61): OrderHistoryCore->addWithemail(true, Array)
+#5 {main}
+  thrown in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php on line 837
+[23-Sep-2014 17:22:52 America/Caracas] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php:837
+Stack trace:
+#0 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(255): ObjectModelCore->validateFields()
+#1 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(455): ObjectModelCore->getFields()
+#2 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(439): ObjectModelCore->add(true)
+#3 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(378): OrderHistoryCore->add(true)
+#4 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/retorno.php(61): OrderHistoryCore->addWithemail(true, Array)
+#5 {main}
+  thrown in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php on line 837
+[23-Sep-2014 18:08:54 America/Caracas] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php:837
+Stack trace:
+#0 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(255): ObjectModelCore->validateFields()
+#1 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(455): ObjectModelCore->getFields()
+#2 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(439): ObjectModelCore->add(true)
+#3 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(378): OrderHistoryCore->add(true)
+#4 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/retorno.php(61): OrderHistoryCore->addWithemail(true, Array)
+#5 {main}
+  thrown in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php on line 837
+[24-Sep-2014 00:08:56 America/Caracas] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php:837
+Stack trace:
+#0 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(255): ObjectModelCore->validateFields()
+#1 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(455): ObjectModelCore->getFields()
+#2 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(439): ObjectModelCore->add(true)
+#3 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(378): OrderHistoryCore->add(true)
+#4 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/retorno.php(61): OrderHistoryCore->addWithemail(true, Array)
+#5 {main}
+  thrown in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php on line 837
+[25-Sep-2014 17:24:43 America/Caracas] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php:837
+Stack trace:
+#0 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(255): ObjectModelCore->validateFields()
+#1 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(455): ObjectModelCore->getFields()
+#2 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(439): ObjectModelCore->add(true)
+#3 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(378): OrderHistoryCore->add(true)
+#4 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/retorno.php(61): OrderHistoryCore->addWithemail(true, Array)
+#5 {main}
+  thrown in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php on line 837
+[25-Sep-2014 17:24:56 America/Caracas] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php:837
+Stack trace:
+#0 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(255): ObjectModelCore->validateFields()
+#1 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(455): ObjectModelCore->getFields()
+#2 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(439): ObjectModelCore->add(true)
+#3 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(378): OrderHistoryCore->add(true)
+#4 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/retorno.php(61): OrderHistoryCore->addWithemail(true, Array)
+#5 {main}
+  thrown in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php on line 837
+[25-Sep-2014 18:10:49 America/Caracas] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php:837
+Stack trace:
+#0 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(255): ObjectModelCore->validateFields()
+#1 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(455): ObjectModelCore->getFields()
+#2 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(439): ObjectModelCore->add(true)
+#3 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(378): OrderHistoryCore->add(true)
+#4 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/retorno.php(61): OrderHistoryCore->addWithemail(true, Array)
+#5 {main}
+  thrown in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php on line 837
+[25-Sep-2014 18:55:51 America/Caracas] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php:837
+Stack trace:
+#0 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(255): ObjectModelCore->validateFields()
+#1 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(455): ObjectModelCore->getFields()
+#2 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(439): ObjectModelCore->add(true)
+#3 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(378): OrderHistoryCore->add(true)
+#4 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/retorno.php(61): OrderHistoryCore->addWithemail(true, Array)
+#5 {main}
+  thrown in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php on line 837
+[26-Sep-2014 00:09:55 America/Caracas] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php:837
+Stack trace:
+#0 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(255): ObjectModelCore->validateFields()
+#1 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(455): ObjectModelCore->getFields()
+#2 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(439): ObjectModelCore->add(true)
+#3 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(378): OrderHistoryCore->add(true)
+#4 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/retorno.php(61): OrderHistoryCore->addWithemail(true, Array)
+#5 {main}
+  thrown in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php on line 837
+[26-Sep-2014 00:56:52 America/Caracas] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php:837
+Stack trace:
+#0 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(255): ObjectModelCore->validateFields()
+#1 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(455): ObjectModelCore->getFields()
+#2 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(439): ObjectModelCore->add(true)
+#3 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(378): OrderHistoryCore->add(true)
+#4 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/retorno.php(61): OrderHistoryCore->addWithemail(true, Array)
+#5 {main}
+  thrown in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php on line 837
+[26-Sep-2014 09:49:59 America/Caracas] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php:837
+Stack trace:
+#0 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(255): ObjectModelCore->validateFields()
+#1 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(455): ObjectModelCore->getFields()
+#2 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(439): ObjectModelCore->add(true)
+#3 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(378): OrderHistoryCore->add(true)
+#4 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/retorno.php(61): OrderHistoryCore->addWithemail(true, Array)
+#5 {main}
+  thrown in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php on line 837
+[26-Sep-2014 09:50:56 America/Caracas] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php:837
+Stack trace:
+#0 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(255): ObjectModelCore->validateFields()
+#1 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(455): ObjectModelCore->getFields()
+#2 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(439): ObjectModelCore->add(true)
+#3 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(378): OrderHistoryCore->add(true)
+#4 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/retorno.php(61): OrderHistoryCore->addWithemail(true, Array)
+#5 {main}
+  thrown in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php on line 837
+[26-Sep-2014 10:36:53 America/Caracas] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php:837
+Stack trace:
+#0 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(255): ObjectModelCore->validateFields()
+#1 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(455): ObjectModelCore->getFields()
+#2 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(439): ObjectModelCore->add(true)
+#3 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(378): OrderHistoryCore->add(true)
+#4 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/retorno.php(61): OrderHistoryCore->addWithemail(true, Array)
+#5 {main}
+  thrown in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php on line 837
+[26-Sep-2014 11:22:54 America/Caracas] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php:837
+Stack trace:
+#0 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(255): ObjectModelCore->validateFields()
+#1 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(455): ObjectModelCore->getFields()
+#2 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(439): ObjectModelCore->add(true)
+#3 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(378): OrderHistoryCore->add(true)
+#4 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/retorno.php(61): OrderHistoryCore->addWithemail(true, Array)
+#5 {main}
+  thrown in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php on line 837
+[26-Sep-2014 15:09:10 America/Caracas] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php:837
+Stack trace:
+#0 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(255): ObjectModelCore->validateFields()
+#1 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(455): ObjectModelCore->getFields()
+#2 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(439): ObjectModelCore->add(true)
+#3 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(378): OrderHistoryCore->add(true)
+#4 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/retorno.php(61): OrderHistoryCore->addWithemail(true, Array)
+#5 {main}
+  thrown in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php on line 837
+[26-Sep-2014 15:55:56 America/Caracas] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php:837
+Stack trace:
+#0 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(255): ObjectModelCore->validateFields()
+#1 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(455): ObjectModelCore->getFields()
+#2 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(439): ObjectModelCore->add(true)
+#3 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(378): OrderHistoryCore->add(true)
+#4 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/retorno.php(61): OrderHistoryCore->addWithemail(true, Array)
+#5 {main}
+  thrown in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php on line 837
+[26-Sep-2014 16:41:54 America/Caracas] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php:837
+Stack trace:
+#0 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(255): ObjectModelCore->validateFields()
+#1 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(455): ObjectModelCore->getFields()
+#2 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(439): ObjectModelCore->add(true)
+#3 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(378): OrderHistoryCore->add(true)
+#4 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/retorno.php(61): OrderHistoryCore->addWithemail(true, Array)
+#5 {main}
+  thrown in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php on line 837
+[26-Sep-2014 17:23:51 America/Caracas] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php:837
+Stack trace:
+#0 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(255): ObjectModelCore->validateFields()
+#1 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(455): ObjectModelCore->getFields()
+#2 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(439): ObjectModelCore->add(true)
+#3 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(378): OrderHistoryCore->add(true)
+#4 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/retorno.php(61): OrderHistoryCore->addWithemail(true, Array)
+#5 {main}
+  thrown in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php on line 837
+[26-Sep-2014 22:42:53 America/Caracas] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php:837
+Stack trace:
+#0 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(255): ObjectModelCore->validateFields()
+#1 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(455): ObjectModelCore->getFields()
+#2 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(439): ObjectModelCore->add(true)
+#3 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(378): OrderHistoryCore->add(true)
+#4 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/retorno.php(61): OrderHistoryCore->addWithemail(true, Array)
+#5 {main}
+  thrown in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php on line 837
+[28-Sep-2014 00:57:52 America/Caracas] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php:837
+Stack trace:
+#0 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(255): ObjectModelCore->validateFields()
+#1 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(455): ObjectModelCore->getFields()
+#2 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(439): ObjectModelCore->add(true)
+#3 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(378): OrderHistoryCore->add(true)
+#4 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/retorno.php(61): OrderHistoryCore->addWithemail(true, Array)
+#5 {main}
+  thrown in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php on line 837
+[28-Sep-2014 17:23:53 America/Caracas] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php:837
+Stack trace:
+#0 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(255): ObjectModelCore->validateFields()
+#1 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(455): ObjectModelCore->getFields()
+#2 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(439): ObjectModelCore->add(true)
+#3 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(378): OrderHistoryCore->add(true)
+#4 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/retorno.php(61): OrderHistoryCore->addWithemail(true, Array)
+#5 {main}
+  thrown in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php on line 837
+[28-Sep-2014 22:43:53 America/Caracas] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php:837
+Stack trace:
+#0 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(255): ObjectModelCore->validateFields()
+#1 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(455): ObjectModelCore->getFields()
+#2 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(439): ObjectModelCore->add(true)
+#3 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(378): OrderHistoryCore->add(true)
+#4 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/retorno.php(61): OrderHistoryCore->addWithemail(true, Array)
+#5 {main}
+  thrown in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php on line 837
+[05-Oct-2014 20:46:11 America/Caracas] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php:837
+Stack trace:
+#0 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(255): ObjectModelCore->validateFields()
+#1 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(455): ObjectModelCore->getFields()
+#2 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(439): ObjectModelCore->add(true)
+#3 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(378): OrderHistoryCore->add(true)
+#4 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/retorno.php(61): OrderHistoryCore->addWithemail(true, Array)
+#5 {main}
+  thrown in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php on line 837
+[05-Oct-2014 21:32:55 America/Caracas] PHP Fatal error:  Uncaught exception 'Exception' with message 'A user must be specified to perform a get.' in /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/mercadopago.php:292
+Stack trace:
+#0 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/mercadopago.php(301): MPRestClient::exec('GET', '/collections/no...', NULL, 'application/jso...')
+#1 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/mercadopago.php(60): MPRestClient::get('/collections/no...')
+#2 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/mercadopago.php(64): MP->get_payment('854664887')
+#3 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/retorno.php(16): MP->get_payment_info('854664887')
+#4 {main}
+  thrown in /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/mercadopago.php on line 292
+[05-Oct-2014 22:18:53 America/Caracas] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php:837
+Stack trace:
+#0 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(255): ObjectModelCore->validateFields()
+#1 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(455): ObjectModelCore->getFields()
+#2 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(439): ObjectModelCore->add(true)
+#3 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(378): OrderHistoryCore->add(true)
+#4 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/retorno.php(61): OrderHistoryCore->addWithemail(true, Array)
+#5 {main}
+  thrown in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php on line 837
+[06-Oct-2014 04:19:51 America/Caracas] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php:837
+Stack trace:
+#0 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(255): ObjectModelCore->validateFields()
+#1 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(455): ObjectModelCore->getFields()
+#2 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(439): ObjectModelCore->add(true)
+#3 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(378): OrderHistoryCore->add(true)
+#4 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/retorno.php(61): OrderHistoryCore->addWithemail(true, Array)
+#5 {main}
+  thrown in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php on line 837
+[08-Oct-2014 04:20:51 America/Caracas] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php:837
+Stack trace:
+#0 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(255): ObjectModelCore->validateFields()
+#1 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(455): ObjectModelCore->getFields()
+#2 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(439): ObjectModelCore->add(true)
+#3 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(378): OrderHistoryCore->add(true)
+#4 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/retorno.php(61): OrderHistoryCore->addWithemail(true, Array)
+#5 {main}
+  thrown in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php on line 837
+[14-Oct-2014 11:06:31 America/Caracas] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php:837
+Stack trace:
+#0 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(255): ObjectModelCore->validateFields()
+#1 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(455): ObjectModelCore->getFields()
+#2 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(439): ObjectModelCore->add(true)
+#3 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(378): OrderHistoryCore->add(true)
+#4 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/retorno.php(61): OrderHistoryCore->addWithemail(true, Array)
+#5 {main}
+  thrown in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php on line 837
+[14-Oct-2014 11:06:56 America/Caracas] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php:837
+Stack trace:
+#0 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(255): ObjectModelCore->validateFields()
+#1 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(455): ObjectModelCore->getFields()
+#2 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(439): ObjectModelCore->add(true)
+#3 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(378): OrderHistoryCore->add(true)
+#4 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/retorno.php(61): OrderHistoryCore->addWithemail(true, Array)
+#5 {main}
+  thrown in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php on line 837
+[17-Oct-2014 14:22:26 America/Caracas] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php:837
+Stack trace:
+#0 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(255): ObjectModelCore->validateFields()
+#1 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(455): ObjectModelCore->getFields()
+#2 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(439): ObjectModelCore->add(true)
+#3 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(378): OrderHistoryCore->add(true)
+#4 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/retorno.php(61): OrderHistoryCore->addWithemail(true, Array)
+#5 {main}
+  thrown in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php on line 837
+[17-Oct-2014 14:22:49 America/Caracas] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php:837
+Stack trace:
+#0 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(255): ObjectModelCore->validateFields()
+#1 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(455): ObjectModelCore->getFields()
+#2 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(439): ObjectModelCore->add(true)
+#3 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(378): OrderHistoryCore->add(true)
+#4 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/retorno.php(61): OrderHistoryCore->addWithemail(true, Array)
+#5 {main}
+  thrown in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php on line 837
+[17-Oct-2014 15:08:49 America/Caracas] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php:837
+Stack trace:
+#0 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(255): ObjectModelCore->validateFields()
+#1 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(455): ObjectModelCore->getFields()
+#2 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(439): ObjectModelCore->add(true)
+#3 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(378): OrderHistoryCore->add(true)
+#4 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/retorno.php(61): OrderHistoryCore->addWithemail(true, Array)
+#5 {main}
+  thrown in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php on line 837
+[21-Oct-2014 15:52:31 America/Caracas] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php:837
+Stack trace:
+#0 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(255): ObjectModelCore->validateFields()
+#1 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(455): ObjectModelCore->getFields()
+#2 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(439): ObjectModelCore->add(true)
+#3 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(378): OrderHistoryCore->add(true)
+#4 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/retorno.php(61): OrderHistoryCore->addWithemail(true, Array)
+#5 {main}
+  thrown in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php on line 837
+[22-Oct-2014 08:22:41 America/Caracas] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php:837
+Stack trace:
+#0 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(255): ObjectModelCore->validateFields()
+#1 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(455): ObjectModelCore->getFields()
+#2 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(439): ObjectModelCore->add(true)
+#3 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(378): OrderHistoryCore->add(true)
+#4 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/retorno.php(61): OrderHistoryCore->addWithemail(true, Array)
+#5 {main}
+  thrown in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php on line 837
+[27-Oct-2014 21:19:01 America/Caracas] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php:837
+Stack trace:
+#0 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(255): ObjectModelCore->validateFields()
+#1 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(455): ObjectModelCore->getFields()
+#2 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(439): ObjectModelCore->add(true)
+#3 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(378): OrderHistoryCore->add(true)
+#4 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/retorno.php(61): OrderHistoryCore->addWithemail(true, Array)
+#5 {main}
+  thrown in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php on line 837
+[27-Oct-2014 21:19:24 America/Caracas] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php:837
+Stack trace:
+#0 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(255): ObjectModelCore->validateFields()
+#1 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(455): ObjectModelCore->getFields()
+#2 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(439): ObjectModelCore->add(true)
+#3 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(378): OrderHistoryCore->add(true)
+#4 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/retorno.php(61): OrderHistoryCore->addWithemail(true, Array)
+#5 {main}
+  thrown in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php on line 837
+[27-Oct-2014 22:45:05 America/Caracas] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php:837
+Stack trace:
+#0 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(255): ObjectModelCore->validateFields()
+#1 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(455): ObjectModelCore->getFields()
+#2 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(439): ObjectModelCore->add(true)
+#3 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(378): OrderHistoryCore->add(true)
+#4 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/retorno.php(61): OrderHistoryCore->addWithemail(true, Array)
+#5 {main}
+  thrown in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php on line 837
+[11-Dec-2014 13:02:28 America/Caracas] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php:837
+Stack trace:
+#0 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(255): ObjectModelCore->validateFields()
+#1 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(455): ObjectModelCore->getFields()
+#2 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(439): ObjectModelCore->add(true)
+#3 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(378): OrderHistoryCore->add(true)
+#4 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/retorno.php(61): OrderHistoryCore->addWithemail(true, Array)
+#5 {main}
+  thrown in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php on line 837
+[11-Dec-2014 13:03:06 America/Caracas] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php:837
+Stack trace:
+#0 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(255): ObjectModelCore->validateFields()
+#1 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(455): ObjectModelCore->getFields()
+#2 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(439): ObjectModelCore->add(true)
+#3 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(378): OrderHistoryCore->add(true)
+#4 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/retorno.php(61): OrderHistoryCore->addWithemail(true, Array)
+#5 {main}
+  thrown in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php on line 837
+[11-Dec-2014 13:48:58 America/Caracas] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php:837
+Stack trace:
+#0 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(255): ObjectModelCore->validateFields()
+#1 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(455): ObjectModelCore->getFields()
+#2 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(439): ObjectModelCore->add(true)
+#3 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(378): OrderHistoryCore->add(true)
+#4 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/retorno.php(61): OrderHistoryCore->addWithemail(true, Array)
+#5 {main}
+  thrown in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php on line 837
+[11-Dec-2014 14:34:05 America/Caracas] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php:837
+Stack trace:
+#0 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(255): ObjectModelCore->validateFields()
+#1 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(455): ObjectModelCore->getFields()
+#2 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(439): ObjectModelCore->add(true)
+#3 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(378): OrderHistoryCore->add(true)
+#4 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/retorno.php(61): OrderHistoryCore->addWithemail(true, Array)
+#5 {main}
+  thrown in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php on line 837
+[21-Dec-2014 19:56:53 America/Caracas] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php:837
+Stack trace:
+#0 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(255): ObjectModelCore->validateFields()
+#1 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(455): ObjectModelCore->getFields()
+#2 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(439): ObjectModelCore->add(true)
+#3 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(378): OrderHistoryCore->add(true)
+#4 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/retorno.php(61): OrderHistoryCore->addWithemail(true, Array)
+#5 {main}
+  thrown in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php on line 837
+[21-Dec-2014 19:57:24 America/Caracas] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php:837
+Stack trace:
+#0 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(255): ObjectModelCore->validateFields()
+#1 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(455): ObjectModelCore->getFields()
+#2 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(439): ObjectModelCore->add(true)
+#3 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(378): OrderHistoryCore->add(true)
+#4 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/retorno.php(61): OrderHistoryCore->addWithemail(true, Array)
+#5 {main}
+  thrown in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php on line 837
+[14-Feb-2015 01:24:16 America/Caracas] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php:837
+Stack trace:
+#0 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(255): ObjectModelCore->validateFields()
+#1 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(455): ObjectModelCore->getFields()
+#2 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(439): ObjectModelCore->add(true)
+#3 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(378): OrderHistoryCore->add(true)
+#4 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/retorno.php(61): OrderHistoryCore->addWithemail(true, Array)
+#5 {main}
+  thrown in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php on line 837
+[14-Feb-2015 01:24:33 America/Caracas] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php:837
+Stack trace:
+#0 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(255): ObjectModelCore->validateFields()
+#1 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(455): ObjectModelCore->getFields()
+#2 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(439): ObjectModelCore->add(true)
+#3 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(378): OrderHistoryCore->add(true)
+#4 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/retorno.php(61): OrderHistoryCore->addWithemail(true, Array)
+#5 {main}
+  thrown in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php on line 837
+[18-Feb-2015 08:07:15 America/Caracas] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php:837
+Stack trace:
+#0 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(255): ObjectModelCore->validateFields()
+#1 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(455): ObjectModelCore->getFields()
+#2 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(439): ObjectModelCore->add(true)
+#3 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(378): OrderHistoryCore->add(true)
+#4 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/retorno.php(61): OrderHistoryCore->addWithemail(true, Array)
+#5 {main}
+  thrown in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php on line 837
+[18-Feb-2015 08:07:27 America/Caracas] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php:837
+Stack trace:
+#0 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(255): ObjectModelCore->validateFields()
+#1 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(455): ObjectModelCore->getFields()
+#2 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(439): ObjectModelCore->add(true)
+#3 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(378): OrderHistoryCore->add(true)
+#4 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/retorno.php(61): OrderHistoryCore->addWithemail(true, Array)
+#5 {main}
+  thrown in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php on line 837
+[21-Feb-2015 16:42:21 America/Caracas] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php:837
+Stack trace:
+#0 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(255): ObjectModelCore->validateFields()
+#1 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(455): ObjectModelCore->getFields()
+#2 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(439): ObjectModelCore->add(true)
+#3 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(378): OrderHistoryCore->add(true)
+#4 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/retorno.php(61): OrderHistoryCore->addWithemail(true, Array)
+#5 {main}
+  thrown in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php on line 837
+[21-Feb-2015 16:43:23 America/Caracas] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php:837
+Stack trace:
+#0 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(255): ObjectModelCore->validateFields()
+#1 /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php(455): ObjectModelCore->getFields()
+#2 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(439): ObjectModelCore->add(true)
+#3 /home/puroextremo2013/public_html/tienda/classes/order/OrderHistory.php(378): OrderHistoryCore->add(true)
+#4 /home/puroextremo2013/public_html/tienda/modules/mercadopago/includes/retorno.php(61): OrderHistoryCore->addWithemail(true, Array)
+#5 {main}
+  thrown in /home/puroextremo2013/public_html/tienda/classes/ObjectModel.php on line 837

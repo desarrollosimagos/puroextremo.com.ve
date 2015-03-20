@@ -1,0 +1,31 @@
+#columnadverts{
+	margin-bottom: 0px;
+	}
+#columnadverts ul{
+	list-style-type: none;
+	}
+#columnadverts li{
+	list-style-type: none;
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	}
+	
+	#columnadverts li img{width: 100%;
+	 	filter: alpha(opacity=100);
+	opacity: 1.0;
+		zoom: 1;
+		  -webkit-backface-visibility: hidden;
+  -moz-backface-visibility:    hidden;
+  -ms-backface-visibility:     hidden;
+				transition: opacity 300ms ease-in-out;
+   -moz-transition: opacity 300ms ease-in-out;
+   -webkit-transition: opacity 300ms ease-in-out;
+   display: block;
+
+}
+
+#columnadverts li img:hover{
+	filter: alpha(opacity=85);
+	opacity: 0.85;
+	}

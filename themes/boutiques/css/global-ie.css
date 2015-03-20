@@ -1,0 +1,35 @@
+.list_carousel li .cs_newarrival_p .cs_hide{display:none!important}
+.home_top_tab{padding-bottom:0}
+#index #footer_top{margin-top:0;float:none}
+#menu > ul  li > div.options_list,#menu > ul  li > div.sub_menu,
+#cs_megamenu_more .more-menu{display:none}
+#menu > ul  li:hover > div.options_list,
+#menu > ul  li:hover > div.sub_menu,
+#cs_megamenu_more:hover .more-menu{display:block}
+#menu ul li.menu_item,
+.list_carousel li .star_content{display:inline;}
+ul.idTabs li{float:left;margin:0}
+.idTabs a{padding:10px 15px;}
+.idTabs .selected{background:#000}
+#more_info_sheets{margin-top:0}
+.list_manufacturer li{float:left}
+.mode_megamenu{position:relative;z-index:100}
+#menu ul li.menu_item{float:left;height:40px;}
+#menu ul li.menu_item a.title_menu_parent{line-height:40px;display:block;}
+#menu ul li#cs_megamenu_more.menu_item .option li a{line-height:15px}
+#menu > ul li > div.sub_menu{margin-left:0!important}
+ul#product_list li p.compare input.comparator{vertical-align:-2px;}
+#productsSortForm p.select select, form.pagination select{margin-top:6px;}
+.comparison_product_infos{position:static}
+#HOOK_PAYMENT{width:100%;float:left}
+#new_comment_form button{vertical-align:-7px}
+.cpanelContainer{display:none!important}
+#product #product_comments_block_extra .star_content{margin-top:-3px}
+.cs_revolution{position:relative;}
+
+input[type=submit],
+input[type=reset],
+input[type=button]
+{
+    filter:chroma(color=#000000);overflow:visible;border:none!important;background:#000000;color:#fff!important;line-height:30px;
+}

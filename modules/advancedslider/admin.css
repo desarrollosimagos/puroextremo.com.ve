@@ -1,0 +1,77 @@
+.slideImage{border-bottom: 1px solid #cecece; padding-bottom: 20px; margin-bottom: 20px;}
+.pimage{max-width: 100%; height: auto;}
+.liveedit_wrapper{
+	border: 1px solid #cecece;
+	position: relative;
+	padding: 240px 80px;
+	overflow: hidden;
+}
+
+.content_liveedit_wrapper{
+	border: 1px solid #cecece;
+	position: relative;
+	margin: 0 auto;
+	width: 1240px;
+}
+.dragElement, .dragTextElement{
+	 border: 1px solid #cecece;
+	 position:absolute;
+	 top: 5%;
+	 left: 5%;
+	 -webkit-touch-callout: none;
+-webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+user-select: none;
+z-index:1;
+	}
+
+	
+.rotateButton, .rotateButton2{
+ cursor:pointer; 
+ z-index:1; 	
+ border: 1px solid #cecece;
+ background: #fff;
+ width: 32px;
+ height: 32px;
+ position:absolute;
+ top: 0px;
+ left: 0px;
+ border-top: none;
+ border-right: none;
+	}
+	
+.textWrapper{width: 450px;}
+
+
+
+.textWrapper h2 {
+  
+  font-size: 36px;
+  margin: 0 0 6px 0;
+  padding: 5px 10px;
+  display: inline-block;
+  line-height: 38px;
+  float: left;
+clear: both;
+}
+.textWrapper h3 {
+  font-size: 20px;
+
+    margin: 0 0 6px 0;
+	display: inline-block;
+   padding: 5px 10px;
+   line-height: 22px;
+   float: left;
+clear: both;
+}
+.textWrapper  .desc {
+	color: #fff;
+	padding: 5px 10px;
+	float: left;
+clear: both;
+font-size: 16px;
+line-height: 18px;
+	display: inline-block;
+}

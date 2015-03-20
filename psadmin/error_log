@@ -1,0 +1,19 @@
+[08-May-2014 21:19:33 America/Caracas] PHP Parse error:  syntax error, unexpected $end in /home/extremo/public_html/extremo/translations/es/admin.php on line 153
+[07-Jul-2014 13:41:10 America/Caracas] PHP Fatal error:  Allowed memory size of 94371840 bytes exhausted (tried to allocate 19008 bytes) in /home/extremo/public_html/tienda/classes/ImageManager.php on line 365
+[07-Jul-2014 14:24:34 America/Caracas] PHP Fatal error:  Allowed memory size of 94371840 bytes exhausted (tried to allocate 19008 bytes) in /home/extremo/public_html/tienda/classes/ImageManager.php on line 365
+[07-Jul-2014 15:20:34 America/Caracas] PHP Fatal error:  Allowed memory size of 94371840 bytes exhausted (tried to allocate 19008 bytes) in /home/extremo/public_html/tienda/classes/ImageManager.php on line 365
+[08-Jul-2014 10:20:59 America/Caracas] PHP Fatal error:  Allowed memory size of 94371840 bytes exhausted (tried to allocate 19008 bytes) in /home/extremo/public_html/tienda/classes/ImageManager.php on line 365
+[26-Feb-2015 17:59:48 America/Caracas] PHP Fatal error:  Uncaught exception 'SmartyException' with message 'Unable to load template file 'controllers/modules/login_addons.tpl'' in /home/puroextremo2013/public_html/store/tools/smarty/sysplugins/smarty_internal_templatebase.php:127
+Stack trace:
+#0 /home/puroextremo2013/public_html/store/classes/controller/AdminController.php(2032): Smarty_Internal_TemplateBase->fetch('controllers/mod...')
+#1 /home/puroextremo2013/public_html/store/classes/controller/AdminController.php(2462): AdminControllerCore->initModal()
+#2 /home/puroextremo2013/public_html/store/classes/controller/Controller.php(163): AdminControllerCore->init()
+#3 /home/puroextremo2013/public_html/store/classes/Dispatcher.php(373): ControllerCore->run()
+#4 /home/puroextremo2013/public_html/store/psadmin/index.php(53): DispatcherCore->dispatch()
+#5 {main}
+  thrown in /home/puroextremo2013/public_html/store/tools/smarty/sysplugins/smarty_internal_templatebase.php on line 127
+[26-Feb-2015 19:33:20 America/Caracas] PHP Fatal error:  Uncaught  --> Smarty: unable to write file /home/puroextremo2013/public_html/store/cache/smarty/compile/28/46/4f/28464f91619164b16732b80da9dd3d895e3a42a1.file.login_addons.tpl.php <-- 
+  thrown in /home/puroextremo2013/public_html/store/tools/smarty/sysplugins/smarty_internal_write_file.php on line 74
+[19-Mar-2015 19:51:11 America/Caracas] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'helpers/list/list_content.tpl' <-- 
+  thrown in /home/nous00/public_html/labs/store/tools/smarty/sysplugins/smarty_internal_templatebase.php on line 129
+[19-Mar-2015 19:51:12 America/Caracas] PHP Fatal error:  Class 'HelperList' not found in /home/nous00/public_html/labs/store/classes/controller/AdminController.php on line 2112

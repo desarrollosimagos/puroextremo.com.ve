@@ -1,0 +1,25 @@
+/* block top links */
+ul#header_links {display:block;}
+#header_links li {float: left;margin-right:10px;margin-bottom:10px;}
+#header_links a {text-decoration: none;color:#969696;text-transform:capitalize;font-weight:700}
+#header_links a:hover,#header_links a.active {text-decoration:none;color:#fff}
+
+/*block permanent links right and left columns*/
+#permanent_links div {border-bottom: 1px dotted #eee}
+#permanent_links div a {
+	display: block;
+	padding: 7px 11px 5px 22px;
+	color: #333;
+	background:url(img/arrow_right_2.png) no-repeat 10px 10px;
+}
+
+/* block footer links */
+ul#footer_links{
+	clear:both;
+	text-align: center;
+	padding-bottom:6px
+}
+ul#footer_links li{
+	display: inline;
+	padding:0 10px
+}

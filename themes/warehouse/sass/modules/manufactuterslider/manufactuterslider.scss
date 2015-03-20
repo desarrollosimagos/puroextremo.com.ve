@@ -1,0 +1,46 @@
+@import "compass";
+@import "theme_variables";
+/*******************************************************************
+					Manufacturer slider styles
+********************************************************************/
+#manufacturers_slider { overflow:hidden; padding: 20px 0; border-top: 1px solid $base-border-color; 
+
+	.viewport{padding: 0px 8px;}
+	.direction-nav {}
+	.direction-nav li{opacity: 1 !important; }
+	.direction-nav a {
+		background: none !important;
+		&:focus{ outline: none !important;}
+		&:hover{ color: $dark-border-color; }
+		border: none !important;
+		text-decoration: none !important; display: block; width: 20px;  height: 30px; font-size: 28px; line-height: 28px; overflow: hidden; position: absolute; top: 0; height: 100%; color: $base-border-color; 
+		&:before{
+		margin-top: -15px;
+		top: 50%;
+		display: block;
+		position: relative;}
+		}
+		.next { right: 0px; text-indent: 0px;
+			&:before{ content: "\e601"; font-family: 'warehousefont';}
+		}
+		.prev{ left: 0px; text-indent: -9px;
+			&:before { content: "\e600"; font-family: 'warehousefont';}}
+			.disabled { cursor:default;  color: #f2f2f2!important;
+				&:hover{ cursor:default !important;  } }
+
+				li{padding: 0 9px; list-style-type: none;}
+				li a{	
+					-webkit-backface-visibility:hidden;
+					backface-visibility:hidden;
+					img{
+					filter: alpha(opacity=60);
+					opacity: 0.6;
+					}
+					&:hover{
+						img{
+					filter: alpha(opacity=100);
+					opacity: 1.0;
+					}
+					}}
+					
+				}

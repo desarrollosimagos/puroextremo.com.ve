@@ -1,0 +1,2 @@
+*ERROR* 	2014/06/30 - 09:36:06: Link to database cannot be established: Too many connections at line 47 in file classes/db/DbMySQLi.php
+*ERROR* 	2014/06/30 - 12:42:16: Link to database cannot be established: Too many connections at line 47 in file classes/db/DbMySQLi.php

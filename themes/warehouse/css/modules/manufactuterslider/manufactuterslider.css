@@ -1,0 +1,63 @@
+/*******************************************************************
+					Manufacturer slider styles
+********************************************************************/
+#manufacturers_slider {
+  overflow: hidden;
+  padding: 20px 0;
+  border-top: 1px solid #dddddd; }
+  #manufacturers_slider .viewport {
+    padding: 0px 8px; }
+  #manufacturers_slider .direction-nav li {
+    opacity: 1 !important; }
+  #manufacturers_slider .direction-nav a {
+    background: none !important;
+    border: none !important;
+    text-decoration: none !important;
+    display: block;
+    width: 20px;
+    height: 30px;
+    font-size: 28px;
+    line-height: 28px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    height: 100%;
+    color: #dddddd; }
+    #manufacturers_slider .direction-nav a:focus {
+      outline: none !important; }
+    #manufacturers_slider .direction-nav a:hover {
+      color: #333333; }
+    #manufacturers_slider .direction-nav a:before {
+      margin-top: -15px;
+      top: 50%;
+      display: block;
+      position: relative; }
+  #manufacturers_slider .next {
+    right: 0px;
+    text-indent: 0px; }
+    #manufacturers_slider .next:before {
+      content: "\e601";
+      font-family: 'warehousefont'; }
+  #manufacturers_slider .prev {
+    left: 0px;
+    text-indent: -9px; }
+    #manufacturers_slider .prev:before {
+      content: "\e600";
+      font-family: 'warehousefont'; }
+  #manufacturers_slider .disabled {
+    cursor: default;
+    color: #f2f2f2 !important; }
+    #manufacturers_slider .disabled:hover {
+      cursor: default !important; }
+  #manufacturers_slider li {
+    padding: 0 9px;
+    list-style-type: none; }
+  #manufacturers_slider li a {
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden; }
+    #manufacturers_slider li a img {
+      filter: alpha(opacity=60);
+      opacity: 0.6; }
+    #manufacturers_slider li a:hover img {
+      filter: alpha(opacity=100);
+      opacity: 1.0; }
