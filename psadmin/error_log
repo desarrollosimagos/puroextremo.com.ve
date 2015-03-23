@@ -17,3 +17,6 @@ Stack trace:
 [19-Mar-2015 19:51:11 America/Caracas] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'helpers/list/list_content.tpl' <-- 
   thrown in /home/nous00/public_html/labs/store/tools/smarty/sysplugins/smarty_internal_templatebase.php on line 129
 [19-Mar-2015 19:51:12 America/Caracas] PHP Fatal error:  Class 'HelperList' not found in /home/nous00/public_html/labs/store/classes/controller/AdminController.php on line 2112
+[23-Mar-2015 17:29:49 America/Caracas] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 55680 bytes) in /home/nous00/public_html/labs/puroextremo/modules/sociallogin/sociallogin.php on line 963
+[23-Mar-2015 17:30:09 America/Caracas] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 484991 bytes) in /home/nous00/public_html/labs/puroextremo/tools/smarty/sysplugins/smarty_internal_templatebase.php on line 217
+[23-Mar-2015 17:41:14 America/Caracas] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 484991 bytes) in /home/nous00/public_html/labs/puroextremo/tools/smarty/sysplugins/smarty_internal_templatebase.php on line 217
