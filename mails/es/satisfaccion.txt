@@ -1,0 +1,21 @@
+
+[{shop_url}] 
+
+Hola {firstname} {lastname},
+
+Gracias por tu compra en {shop_name}. 
+
+
+Nos gustaria saber como fue tu experiencia:
+
+* Has clic en el siguiente link y cuentanos como te fue. {shop_url}modules/blocktestimonial/addtestimonial.php Comentarios y Experiencia
+
+* Tendremos en cuenta tus opiniones.
+
+
+Gracias por preferirnos {shop_name}
+[{shop_url}] 
+
+{shop_name} [{shop_url}] creado por
+PrestaShop(tm) [http://www.prestashop.com/] 
+
