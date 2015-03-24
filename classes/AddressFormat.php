@@ -329,8 +329,24 @@ class AddressFormatCore extends ObjectModel
 						if ($associateName = explode(':', $pattern))
 						{
 							$totalName = count($associateName);
-							if ($totalName == 1 && isset($address->{$associateName[0]}))
-								$tab[$associateName[0]] = $address->{$associateName[0]};
+							if ($totalName == 1 && isset($address->{$associateName[0]})){
+                                if($associateName[0]=='firstname'){
+                                  $tab[$associateName[0]] = '<b>Nombre: </b>' . $address->{$associateName[0]};  
+                                }
+                                if($associateName[0]=='lastname'){
+                                  $tab[$associateName[0]] = $address->{$associateName[0]};  
+                                }
+                                if($associateName[0]=='dni'){
+                                  $tab[$associateName[0]] ='<b>CI o RIF.: </b>' . $address->{$associateName[0]};  
+                                }
+                                if($associateName[0]=='address1'){
+                                  $tab[$associateName[0]] = '<b>Direccion: </b>' . $address->{$associateName[0]};  
+                                }
+                                if($associateName[0]=='phone'){
+                                  $tab[$associateName[0]] = '<b>Telefonos: </b>' . $address->{$associateName[0]};  
+                                }
+								//$tab[$associateName[0]] = $associateName[0] . ':' . $address->{$associateName[0]};
+                            }
 							else
 							{
 								$tab[$pattern] = '';
