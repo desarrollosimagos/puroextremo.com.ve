@@ -23,26 +23,20 @@
 *  International Registered Trademark & Property of PrestaShop SA
 *}
 <div style="font-size: 8pt; color: #444">
-
-<table>
-	<tr><td>&nbsp;</td></tr>
-</table>
-
 <!-- ADDRESSES -->
 <table style="width: 100%">
 	<tr>
-		<td style="width: 17%"></td>
-		<td style="width: 83%">
+		<td style="width: 100%">
 			{if !empty($delivery_address)}
 				<table style="width: 100%">
 					<tr>
 						<td style="width: 50%">
-							<span style="font-weight: bold; font-size: 10pt; color: #9E9F9E">{l s='Delivery Address' pdf='true'}</span><br />
-							 {$delivery_address}
+							<b>Fecha:</b> {$fecha}<br>
+							{$delivery_address}
 						</td>
 						<td style="width: 50%">
-							<span style="font-weight: bold; font-size: 10pt; color: #9E9F9E">{l s='Billing Address' pdf='true'}</span><br />
-							 {$invoice_address}
+							<b>Fecha:</b> {$fecha}<br>
+							{$invoice_address}
 						</td>
 					</tr>
 				</table>
@@ -51,16 +45,15 @@
 					<tr>
 
 						<td style="width: 50%">
-							<span style="font-weight: bold; font-size: 10pt; color: #9E9F9E">{l s='Billing & Delivery Address.' pdf='true'}</span><br />
-							 {$invoice_address}
+							<b>Fecha:</b> {$fecha}<br>
+							{$invoice_address}
 						</td>
 						<td style="width: 50%">
 
 						</td>
 					</tr>
 				</table>
-			{/if}
-		</td>
+			{/if}		</td>
 	</tr>
 </table>
 <!-- / ADDRESSES -->

@@ -91,7 +91,8 @@ class HTMLTemplateInvoiceCore extends HTMLTemplate
 			'invoice_address' => $formatted_invoice_address,
 			'tax_excluded_display' => Group::getPriceDisplayMethod($customer->id_default_group),
 			'tax_tab' => $this->getTaxTabContent(),
-			'customer' => $customer
+			'customer' => $customer,
+			'fecha' => date("d/m/Y")
 		);
 
 		if (Tools::getValue('debug'))
